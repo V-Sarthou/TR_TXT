@@ -1,6 +1,6 @@
-﻿[00:02:500] Oh, vous n'êtes pas une des leurs.
+﻿[00:02:500] Ah, vous n'êtes pas une des leurs.
 [00:05:700] Mais vous êtes un moine ?
-[00:06:700] Frère Chen Barkhang.
+[00:06:700] Frère Chan Barkhang.
 [00:08:500] Vous êtes venue pour moi.
 [00:10:200] J'ai vu une lumière brillante m'entourer.
 [00:13:400] Des coups de feu.
@@ -16,13 +16,13 @@
 [00:38:400] Et voilà que je suis ici, que j'étais ici,
 [00:41:800] pour empêcher son fils de reprendre le Seraph.
 [00:44:900] Le Seraph ?
-[00:45:800] Vous ne connaissez pas bien l'œuvre de ma vie ?
+[00:45:800] Vous ne connaissez pas bien l'œuvre de ma vie.
 [00:48:300] Vous êtes sûre de ne pas être venue pour eux ?
 [00:50:700] Je crois qu'on n'entendra plus parler d'eux.
 [00:53:300]
 [00:54:500] Ils veulent le Seraph, pour ouvrir un trésor malfaisant,
 [00:58:700] qui est dans notre monastère au Tibet.
-[01:00:900] Nous n'avons plus la clé depuis le vol par de stupides vagabonds
+[01:00:900] Nous n'avons plus la clé depuis son vol par de stupides vagabonds
 [01:04:800] il y a plusieurs siècles.
 [01:06:300] Il ne nous restait plus qu'à prier pour protéger le trésor. 
 [01:09:400] Mais un jour, l'infâme Gianni a retrouvé la clé.
@@ -37,6 +37,6 @@
 [01:35:100] Le seul vrai remède contre le mal.
 [01:37:900] Que voulez-vous me faire dire ?
 [01:40:000] Je croyais que j'avais ma chance.
-[01:41;800] Mais le changement fait du bien tout comme le sommeil.
+[01:41;800] Mais le changement fait du bien, tout comme le sommeil.
 [01:45:100] Et j'en ai bien besoin.
 [01:47:200]

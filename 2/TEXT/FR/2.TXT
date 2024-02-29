@@ -1,7 +1,7 @@
 ﻿[00:11:500] Pardonnez-moi, mais vous vouliez peut-être m'ouvrir la porte.
 [00:16:500]	Hahaha ! Avec un flingue ? Un peu gros comme clé, non ?
 [00:18:900]	Je crois que vous avez perdu votre clé. Après vous.
-[00:22:100]	C'est drôle, vous ne réagissez pas comme une moine.
+[00:22:100]	C'est drôle, vous ne réagissez pas comme un moine.
 [00:26:700]	J'imagine que si vous trouvez ça drôle, c'est que ça vous plait.
 [00:28:900]	Parlez-moi un peu de ce fameux poignard de Xian.
 [00:31:700] Si vous tenez à la vie.
