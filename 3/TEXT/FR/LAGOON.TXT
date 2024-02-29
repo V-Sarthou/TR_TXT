@@ -2,7 +2,7 @@
 [00:06:100]
 [00:10:500] Ne vous inquiétez pas, je n'ai rien à voir avec l'autre dégénéré. Mademoiselle ?
 [00:14:700] Croft. Lara Croft.
-[00:15:700] Et moi je suis la docteur Willard.
+[00:15:700] Et moi, je suis la docteur Willard.
 [00:17:700] J'étais venu pour parler avec Tony,
 [00:19:600] mais vous avez été plus persuasive que moi, c'était remarquable. 
 [00:22:400] J'aimerais vous proposer un travail.
@@ -14,7 +14,7 @@
 [00:42:900] Je vais vous montrer.
 [00:43:800]
 [00:44:600] Elle ne vient pas d'Inde, mais d'une île dans l'Antarctique.
-[00:47:100] En fait il s'agit d'un morceau de météorite qui a été taillé par les Polynésiens
+[00:47:100] En fait, il s'agit d'un morceau de météorite qui a été taillé par les Polynésiens
 [00:51:000] lorsqu'ils vivaient là-bas, il y a très très longtemps.
 [00:53:800] Vous voyez ça ? C'est unique. Un matériau inconnu.
 [00:58:000] Et comment est-ce arrivé ici ?
@@ -27,13 +27,13 @@
 [01:25:600] Je n'ai relaté que d'interminables heures d'observation
 [01:28:500] de la flore locale et des oiseaux.
 [01:31:000] Je refuse également de noter les idées blasphématrices du professeur Darwin.
-[01:36:400] Ce qui me préoccupe pour l'instant c'est la nourriture.
+[01:36:400] Ce qui me préoccupe pour l'instant, c'est la nourriture.
 [01:40:300] Il me faut quelque chose de plus consistent que ce répugnant bouillon de légumes.
 [01:45:200] Cette fois, nous avons décidé que le seul spécimen que nous récolterons aujourd'hui
-[01:50:300 sera un bout de viande ferme et bien saignant.
+[01:50:300] sera un bout de viande ferme et bien saignant.
 [01:54:000]
 [02:05:000] Il n'y a plus de neige. Les traces ont disparu.
-[02:08:300] Continue donc, nous sommes tout proche.
+[02:08:300] Continue donc, nous sommes tout proches.
 [02:10:900]
 [02:30:800] Il y a quelque chose ici !
 [02:33:000]
@@ -54,7 +54,7 @@
 [03:18:300] Plus vite !
 [03:20:700] Stephen ! Plus vite ! Plus vite ! Stephen cours, cours !
 [03:26:500]
-[03:41:000] Nous sommes bien d'accord ?! Pas un mot au professeur,
+[03:41:000] Nous sommes bien d'accord ? Pas un mot au professeur,
 [03:44:300] il nous enverrait chasser cette maudite créature pour la ramener à Londres.
 [03:47:200] Paul est tombé dans une crevasse, c'est compris ?
 [03:50:600] C'est d'accord, Stephen ?
@@ -63,7 +63,7 @@
 [03:55:200] Stephen fut le seul survivant des quatre marins.
 [03:58:000] Quand il rentra en Angleterre, il vendit immédiatement la pierre maudite,
 [04:01:400] qui avait, selon lui, causé la mort de tous ses amis.
-[04:04:800] Il y a une relique, ici, en Inde. Une autre dans le pacifique sud
+[04:04:800] Il y a une relique, ici, en Inde. Une autre dans le Pacifique sud
 [04:09:000] et la dernière se trouve dans le Nevada.
 [04:10:900] C'est faisable.
 [04:12:600]

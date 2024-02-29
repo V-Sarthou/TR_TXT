@@ -2,4 +2,4 @@
 [00:01:400] je tente de me raccrocher au bord pour éviter la chute.
 [00:03:800] En marchant, approche de la ligne blanche jusqu'à ce que je ne puisse plus avancer,
 [00:08:100] appuie alors sur saut puis très vite sur la touche avancer
-[00:11:300] ensuite, lorsque je suis dans les airs, maintiens enfoncé la touche action.
+[00:11:300] ensuite, lorsque je suis dans les airs, maintiens enfoncée la touche action.

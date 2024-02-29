@@ -2,5 +2,5 @@
 [00:00:700] Si le saut est trop dangereux,
 [00:01:900] je me laisse descendre tranquillement le long de la paroi.
 [00:04:500] Appuie sur reculer pour que je saute en arrière.
-[00:07:000] Immédiatement après maintiens enfoncé la touche action pour que je m'accroche au rebord en descendant
+[00:07:000] Immédiatement après, maintiens enfoncée la touche action pour que je m'accroche au rebord en descendant.
 [00:12:600] Relâche ensuite la touche.

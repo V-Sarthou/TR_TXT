@@ -1,8 +1,8 @@
-﻿[00:19:500] Alors comme ça vous en voulez à Miss Leigh.
+﻿[00:19:500] Alors comme ça, vous en voulez à Miss Leigh.
 [00:21:700] C'est purement professionnel.
-[00:23:300] Pourtant d'après ce que je vois elle ne semble pas vous avoir défigurée.
+[00:23:300] Pourtant, d'après ce que je vois, elle ne semble pas vous avoir défigurée.
 [00:26:700] Pourquoi ? C'est votre cas ?
-[00:28:500] Ahh ! Mais pourquoi je porte ce masque selon vous ?
+[00:28:500] Ah ! Mais pourquoi je porte ce masque, selon vous ?
 [00:32:700] Je n'ai plus de visage, bon sang !
 [00:35:400] Je suis venu à Londres et j'ai trouvé un travail tranquille.
 [00:38:600] Assistant de laboratoire pour la société de cosmétique de Miss Leigh.
@@ -10,15 +10,15 @@
 [00:46:600] Mais finalement, je me retrouve enfermé dans un caisson pendant des jours, noyé dans un liquide putride.
 [00:53:500] Et quand nous sommes sortis, parce que j'étais loin d'être le seul,
 [00:56:600] nous n'avions plus de visage, plus de chair !
-[00:59:900] Et après on nous a simplement balancés dans les égouts. Laissés pour morts !
-[01:04:000] Une expérience qui a mal tournée ?
+[00:59:900] Et après, on nous a simplement balancés dans les égouts. Laissés pour morts !
+[01:04:000] Une expérience qui a mal tourné ?
 [01:06:000] C'est ça, un simple cobaye.
 [01:07:800] Mais ce n'est pas tout !
 [01:09:200] Quand j'ai voulu en finir, j'ai découvert qu'il m'était impossible de mourir.
-[01:13:300] Alors Leigh ne se sert pas seulement du météor pour créer des produits de beauté,
+[01:13:300] Alors Leigh ne se sert pas seulement du météore pour créer des produits de beauté,
 [01:17:700] mais aussi pour inventer un fluide d'immortalité ?
 [01:20:800] Exactement, la beauté éternelle.
-[01:23:800] Mais visiblement ce n'est pas encore au point.
+[01:23:800] Mais visiblement, ce n'est pas encore au point.
 [01:26:000] Elle a quand même gardé les meilleurs résultats pour elle-même.
 [01:29:700] Écoutez, je ne sais pas ce que vous avez contre Leigh.
 [01:30:000] Vous ne pouvez pas être plus apathique qu'elle de toute façon.
@@ -31,7 +31,7 @@
 [01:47:300] Oui, pour la viande pourrissante, il n'y a pas mieux.
 [01:49:900] Le musée est plutôt intéressant à ce qu'on m'a dit. Vous allez apprécier.
 [01:53:900] Pourquoi n'y allez-vous pas vous-même ?
-[01:55:800] Une des Égyptiennes du musée est paraît-il très vexée,
+[01:55:800] Une des Égyptiennes du musée est, paraît-il, très vexée,
 [01:59:200] Elle trouve son passeport pour l'éternité moins prestigieux que le nôtre.
 [02:02:500] Je n'ai pas envie de m'aventurer là-bas pour qu'elle me lance une de ses malédictions.
 [02:06:600] J'ai déjà assez donné comme ça.

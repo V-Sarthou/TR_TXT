@@ -1,2 +1,2 @@
-﻿[00:00:000] Pour observer les alentours, maintiens enfoncé sur la touche regarder.
+﻿[00:00:000] Pour observer les alentours, maintiens enfoncée sur la touche regarder.
 [00:03:600] Appuie ensuite dans la direction de ton choix.

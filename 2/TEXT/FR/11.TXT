@@ -1,6 +1,6 @@
 ﻿[00:00:000] Bon, c'est vrai que c'était difficile.
 [00:02:800] Vous devez me faire courir en sautant, puis appuyer sur la commande d'action pour que je m'agrippe à l'autre paroi. 
 [00:08:800] Pour bien calculer mon élan,
-[00:10:500] avancez jusqu'au bord puis faites moi reculer en sautant.
+[00:10:500] avancez jusqu'au bord puis faites-moi reculer en sautant.
 [00:14:100] Si vous me faites courir vers l'avant, à partir de ce point et que vous appuyez sur la commande de saut,
 [00:18:600] j'y arriverai sans problème.

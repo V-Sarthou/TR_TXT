@@ -1,4 +1,4 @@
-﻿[00:00:000] Air !
+﻿[00:00:000] De l'air !
 [00:01:200] Pour nager à la surface, utilise les touches avancer, droite ou gauche.
 [00:05:300] Appuie sur sauter pour replonger,
 [00:06:800] ou appuie sur action pour sortir de l'eau lorsque tu es proche du bord.

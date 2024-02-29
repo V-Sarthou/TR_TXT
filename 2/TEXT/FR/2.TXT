@@ -1,13 +1,13 @@
-﻿[00:11:500] Pardonnez moi, mais vous vouliez peut-être m'ouvrir la porte.
+﻿[00:11:500] Pardonnez-moi, mais vous vouliez peut-être m'ouvrir la porte.
 [00:16:500]	Hahaha ! Avec un flingue ? Un peu gros comme clé, non ?
 [00:18:900]	Je crois que vous avez perdu votre clé. Après vous.
 [00:22:100]	C'est drôle, vous ne réagissez pas comme une moine.
 [00:26:700]	J'imagine que si vous trouvez ça drôle, c'est que ça vous plait.
-[00:28:900]	Parlez moi un peu de ce fameux poignard d'Oxian.
+[00:28:900]	Parlez-moi un peu de ce fameux poignard de Xian.
 [00:31:700] Si vous tenez à la vie.
 [00:33:700]	Ces portes attendent l'élu,
 [00:36:200] le moment où il arrivera,
-[00:38:500]	alors, la lame du poignard honnorera enfin le cœur
+[00:38:500]	alors, la lame du poignard honorera enfin le cœur
 [00:43:900]	de ceux qui ont la foi.
 [00:46:600]	Et si vous ne faites pas serment de fidélité vous aussi...
 [00:50:000]	Quel serment de fidélité ?
