@@ -1,0 +1,3 @@
+﻿[00000] Non posso arrampicarmi perché non c'è spazio, 
+[02700] premi a destra per farmi scivolare lentamente finché puoi
+[06300] e quindi premi in avanti per farmi salire.

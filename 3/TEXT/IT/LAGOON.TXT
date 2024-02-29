@@ -1,0 +1,68 @@
+[004700] Ehi!
+[005900]
+[010700] Spero non mi consideriate come quel ricercatore ritardato che forse avete conosciuto, signorina...
+[015000] Lara.
+[015800] Io sono il dottor Willard.
+[017000] Ero venuto a parlare con Tony di persona,
+[019000] ma sembra che voi abbiate svolto un lavoro molto più efficace. Mi avete impressionato, indubbiamente.
+[023400] Avrei dell'altro lavoro da offrirvi.
+[025200] Che cosa? Lasciarci le penne con qualcun altro dei vostri ragazzi? No, grazie.
+[029300] Fortunatamente, sono state le uniche cose che abbiamo lasciato sul campo.
+[032400] No, la mia richiesta è per altri tre artefatti come questo.
+[035900] 
+[036700] L'artefatto della tribù Infada era unico, non ne esistono altri.
+[041000] Comunque, perché vi interessano?
+[043800] Ve lo mostrerò.
+[044800]
+[045500] Questo reperto non è originario dell'India, arriva da un'isola dell'Antartide.
+[049600] Proviene da un meteorite ed è stato modellato dai polinesiani
+[052500] che millenni fa risiedevano in quella zona.
+[055600] Vedete? Un materiale sconosciuto. Assolutamente unico.
+[059000] E come ha fatto a finire qui?
+[061100] Forgiato dai pianeti, scolpito dai polinesiani,
+[064600] disperso dagli stupidi. I nostri scavi e le nostre ricerche ci hanno fatto scoprire questo:
+[069600] il diario di un marinaio imbarcato a bordo della nave di Sua Maestà Beagle durante la spedizione di Charles Darwin.
+[074900] 14 agosto, 1834.
+[077900] Questo viaggio sta diventando troppo noioso per essere raccontato nel diario.
+[081500] Le mie avventure sui mari sono una lagna mortale.
+[084800] Ore e ore spese a osservare gli uccelli
+[087600] o a raccogliere e conservare fiori.
+[090700] Sempre inseguendo le blasfeme idee del comandante, Darwin.
+[095200] Ma questo al momento non mi interessa. Voglio solo del cibo.
+[099200] Qualcosa di diverso dalla brodaglia vegetale che si mangia qui.
+[102800] Oggi abbiamo stretto un patto, noi cinque. 
+[105900] Gli unici campioni che raccoglieremo saranno di carne...
+[109500] Pura, solida, sanguigna carne...
+[113900]
+[126000] Non c'è più neve. Non vedo più le tracce.
+[128500] Tu continua ad avanzare, ormai gli siamo addosso.
+[131800]
+[151300] C'è qualcosa qui.
+[153100]
+[157600] Ehi, ce n'è un altro.
+[159300] Credete che valgano qualcosa?
+[161600]
+[167500] Troppo tardi, ce ne sono soltanto quattro.
+[169700] Non c'è niente per te.
+[171300]
+[172500] Paul...
+[173900]
+[188800] Muoviti, Stephen.
+[191300]
+[197900] Stephen! Corri! Presto! Corri!
+[200600] Più veloce! Corri Stephen, dai! Presto, Presto!
+[203100] CORRI!
+[205400]
+[221900] È meglio che nessuno dica niente al comandante,
+[224500] o dovremo tornare laggiù a caccia di quelle creature per i suoi esperimenti.
+[228100] Paul è caduto in un crepaccio, d'accordo?
+[231300] D'accordo, Stephen?
+[232900] Amen.
+[234500]
+[235500] Stephen sarebbe stato l'unico superstite di quei quattro.
+[238500] Tornato a Londra, ha venduto l'artefatto in preda a una superstiziosa paura,
+[242800] dopo aver visto i compagni uccidersi fra loro.
+[245600] Uno qui in India, uno nel Pacifico del sud e uno nel Nevada,
+[248900] i luoghi dove vi vorrei inviare.
+[251400] Mi sembra interessante.
+[253400]

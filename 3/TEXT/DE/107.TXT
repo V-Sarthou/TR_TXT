@@ -1,0 +1,3 @@
+[000000] Solange die Geh-Taste gedrückt ist, kann ich von keiner Kante stürzen.
+[003400] Auch dann nicht, wenn du es willst.
+[004900] Versuch's doch mal.

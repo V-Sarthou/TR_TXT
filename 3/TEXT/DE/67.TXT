@@ -1,0 +1,23 @@
+[30500] Wer ist dein Auftraggeber?
+[32000] Was?
+[32800] Du weißt schon!
+[33700] Keine Ahnung! Ehrlich! Wen meinst du?
+[35500] Wer dein Auftraggeber?
+[36600] Aaah! Miss Sophia Leigh.
+[40300] 
+[44500] Wer ist das? Was macht sie?
+[46300] Keine Ahnung! Ehrlich nicht!
+[49400] Ich, ich erschieß' nur Leute für sie.
+[52700] Eine löbliche Arbeitsmoral, schätze ich.
+[54900] Oh ja, ich bin mit Herzblut dabei, wie mein Dad früher.
+[58500] Und vor ihm sein Dad.
+[60500] Wie alt ist diese Miss Leigh?
+[62400] Weiß nicht. So Ende 20, Anfang 30.
+[65600] Natürlich.
+[67000] Tja, für manche Leute, so wie Sie, kriegen wir noch 'nen Bonus dazu.
+[71800] Du schmeichelst mir.
+[73200] Von deinem Kopfgeld könnte ich sogar in Rente gehen.
+[76600] Dann solltest du vielleicht ... auf die Glocke achten.
+[80000] 
+[83800] Fröhliche Ruhestand!
+[86000] 

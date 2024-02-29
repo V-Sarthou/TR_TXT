@@ -1,0 +1,3 @@
+﻿[00000] Dai un colpetto indietro e salterò in quella direzione,
+[03500] quindi premi e tieni premuto azione
+[06300] per farmi afferrare l'estremità.

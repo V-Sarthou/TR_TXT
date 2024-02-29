@@ -1,0 +1,73 @@
+[004700] Hey!
+[006000] 
+[010800] Ich möchte doch nicht, dass Sie von dem schwachköpfigen Forscher vorhin
+[013500] auf mich schließen, Miss ... äh ...
+[015000] Lara.
+[015900] Ich bin Doktor Willard.
+[017000] Ich wollte mich eigentlich selbst mit Tony unterhalten, aber ich muss sagen,
+[020000] Sie haben die Sache recht elegant gelöst.
+[021900] Ich bin beeindruckt. Ich möchte Ihnen gerne eine andere Arbeit anbieten.
+[025300] Was? Soll ich etwa auch mit Ihren andern Jungs herumtoben?
+[028100] Nein, danke!
+[029300] Zum Glück waren das die einigen Versuchskaninchen, die wir freilaufen ließen.
+[033100] Nein, ich bräuchte drei weitere Artefakte wie dieses.
+[036300] Der Infada-Stamm besaß nur ein Artefakt dieser Art.
+[039200] Es ist einzigartig.
+[040900] Und ... welches Interesse hätten Sie daran?
+[043800] Ich zeig's Ihnen.
+[045400] Es stammt nicht aus Indien, sondern von einer Insel nahe der Antarktis.
+[048900] Genauer gesagt ist es ein Meteorit, der von den Polynesiern,
+[052000] die vor langer Zeit dort siedelten, bearbeitet und benutzt wurde.
+[055600] Sehen Sie das?
+[056700] Das ist einmalig. Ein unbekanntes Material.
+[059200] Und wie ist es hierher gelangt?
+[060800] Von Planeten geformt. Von Polynesiern bearbeitet. Von Idioten verstreut.
+[066300] Unsere Ausgrabungen und Untersuchungen haben uns das hier beschert.
+[069900] Das Tagebuch von einem Matrosen, der an Charles Darwins
+[072600] Expedition auf der Beagle teilnahm.
+[075000] 14. August 1834.
+[077700] Diese Reise ist sterbenslangweilig ...
+[080100] ... es gibt einfach nichts weiter zu berichten.
+[082100] Von wegen Abenteuer auf hoher See ... einfach nur peinlich ist das.
+[086200] Soll ich etwa über stundenlanges Vögel-Beobachten schreiben,
+[089500] oder darüber, wie wir für die blasphemischen Ideen von unserem feinen Herrn
+[094100] Darwin Blumen pflücken und pressen?
+[096400] Aber das regt mich jetzt auch nicht mehr auf.
+[098300] Ich will bloß noch was zu futtern ... irgendetwas, außer dieser ewigen Gemüsebrühe.
+[103000] Heute haben wir fünf einen Pakt beschlossen.
+[105700] Die einzigen Proben, die wir nehmen werden, sind aus Fleisch ...
+[109600] ... echtem, festem, blutigen Fleisch.
+[113000] 
+[125600] Der Schnee wird zu dünn! Die Spuren sind weg.
+[128400] Lauft einfach weiter. Wir sind ihm schon auf den Fersen.
+[131300] 
+[151300] Hier ist was!
+[152600] 
+[157600] Seht mal! Noch eins.
+[159100] Was mögen die wert sein?
+[160700] 
+[167600] Zu spät! Da waren nur vier. Ist keins für dich übrig, oh ja.
+[172200] Paul ...
+[174000] Waru ...
+[175500] 
+[188800] Komm schon, Stephen!
+[191000] 
+[197900] Stephen, lauf! Na mach schon!
+[199000] Los doch, schneller! Beeil dich!
+[200600] Lauf! Stephen, mach schon! Stephen, los doch!
+[202900] Mach schon!
+[205000] 
+[221700] Am besten ist, keiner sagt Darwin was hiervon, ja?
+[224300] Sonst müssen wir nochmal da rein und das Vieh jagen, um Proben zu kriegen.
+[227500] Also, Paul ist in eine Gletscherspalte gefallen, klar?
+[231200] Okay, Stephen.
+[233000] Amen
+[234000] 
+[235400] Stephen überlebte als Einziger der vier.
+[237600] Nach seiner Rückkehr nach London verkaufte er sein Artefakt aus Aberglauben.
+[241600] Er hatte gesehen, wie seine Kumpels wegen ihrer Artefakte ermordet wurden,
+[244900] oder durch sie umkamen.
+[246100] Einer hier in Indien, einer im Südpazifik und einer in Nevada.
+[249600] Dorthin sollen Sie für mich fahren.
+[251400] Na dann mal los.
+[252800] 

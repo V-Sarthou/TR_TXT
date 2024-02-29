@@ -1,0 +1,4 @@
+[000000] Gut, lass uns einen Spurt einlegen.
+[002000] Drücke vorwärts und halte die Sprint-Taste gedrückt.
+[004700] Wenn ich den weißen Strich erreiche,
+[006400] drücke die Sprung-Taste, dann zeige ich dir die Hechtrolle.

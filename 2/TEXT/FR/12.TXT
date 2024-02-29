@@ -1,0 +1,4 @@
+﻿[00:00:000] Je peux escalader ce mur,
+[00:01:800] il suffit de me faire avancer jusqu'à lui et d'appuyer sur la commande d'action.
+[00:06:000] Vous pouvez ensuite utiliser les commandes de direction pour me diriger vers le haut
+[00:10:000] vers le bas ou sur les côtés.

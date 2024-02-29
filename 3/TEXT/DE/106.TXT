@@ -1,0 +1,3 @@
+[000000] Wenn du dich umsehen möchstest, drück die Taste für das Umsehen.
+[003100] Halte sie gedrückt und bestimme mit der entsprechenden Richtungs-Taste,
+[006000] wohin du schauen möchtest.

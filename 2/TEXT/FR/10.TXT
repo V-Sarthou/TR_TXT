@@ -1,0 +1,5 @@
+﻿[00:00:000] Pour que je réussisse ce saut,
+[00:01:400] je dois reculer le plus loin possible du bord,
+[00:03:600] et sauter en courant comme la dernière fois.
+[00:05:800] Mais vous pouvez aussi me faire marcher jusqu'au bord,
+[00:08:800] Sauter vers l'avant et appuyer sur la commande d'action pour que j'essaye de m'agripper à la paroi opposée.

@@ -1,0 +1,6 @@
+[000000] Versuche dort hinaufzuspringen.
+[001700] Drücke vorwärts und halte die Handlungs-Taste gedrückt.
+[004900] Ich kann da nicht raufklettern, weil die Spalte zu schmal ist,
+[007800] aber wenn du rechts drückst, schiebe ich mich seitlich voran,
+[010200] bis genug Platz zum Hochklettern ist.
+[012300] Drücke dann vorwärts und ich klettere hinauf.

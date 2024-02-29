@@ -1,0 +1,3 @@
+[000000] Per farmi scendere,
+[001100] tieni premuto il tasto salto
+[002600] e indica nella direzione in cui vuoi che vada.

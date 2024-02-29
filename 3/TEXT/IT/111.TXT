@@ -1,0 +1,5 @@
+[000000] Spostiamoci in palestra.
+[001600] Se sei già stato qui in precedenza, forse avrai notato il nuovo arredo.
+[004900] Niente male, vero?
+[006100] Bene, ma adesso riprendiamo gli esercizi.
+[009200] Credo che dovremo affrontarli in ordine.

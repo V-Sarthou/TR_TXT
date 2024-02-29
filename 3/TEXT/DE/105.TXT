@@ -1,0 +1,3 @@
+[000000] Wenn ich absteigen soll, drück die Sprung-Taste
+[002300] und die Taste für die Richtung, in der ich landen soll.
+[005100] 

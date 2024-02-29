@@ -1,0 +1,5 @@
+[000000] Se è troppo distante per saltare,
+[001900] posso appendermi a una sponda ed evitare una seccante caduta.
+[005000] Cammina fino alla linea bianca vicino al ciglio finché non posso andare oltre,
+[008900] quindi premi salto e spingi in avanti.
+[011800] Mentre sono in aria, premi e tieni premuto il tasto azione.

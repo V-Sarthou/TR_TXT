@@ -1,0 +1,6 @@
+[000000] Um an hochgelegene Stellen zu gelangen, muss ich manchmal klettern.
+[003300] Gehe zum Klettergerüst, drücke dann die Handlungs-Taste
+[006000] und halte sie gedrückt, dann klettere ich rauf.
+[008800] Halte die Handlungs-Taste weiter gedrückt
+[010700] und drücke die Richtungs-Taste vorwärts.
+[013000] So gelange ich bis ganz nach oben.

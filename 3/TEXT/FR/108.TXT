@@ -1,0 +1,3 @@
+﻿[00:00:000] En cas de danger,
+[00:00:900] mieux vaut avancer en marchant.
+[00:02:500] Fais un essai en maintenant la touche marche enfoncée jusqu'à ce que j'atteigne la ligne blanche.

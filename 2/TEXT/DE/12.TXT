@@ -1,0 +1,4 @@
+[0:00:000] Diese Wand kann ich hochklettern.
+[0:01:800] Geh einfach bis an die Mauer und halte die Handlungs-Taste gedrückt.
+[0:05:100] Mit den Richtungs-Tasten klettere ich hinauf, hinunter,
+[0:07:500] oder seitlich an der Wand entlang.

@@ -1,0 +1,4 @@
+﻿[00:00:000] Ah ! De l'air !
+[00:03:000] Utilisez les touches fléchées avant, gauche et droite pour me faire nager en surfance.
+[00:08:200] Appuyez sur la touche de saut pour faire plonger et nager sous l'eau.
+[00:11:200] Pour me faire sortir, dirigez-vous vers le bord et appuyez sur la touche d'action.

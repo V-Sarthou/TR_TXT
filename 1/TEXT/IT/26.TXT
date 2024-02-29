@@ -1,0 +1,2 @@
+﻿[00000] Benvenuto nella mia dimora!
+[01300] Ti porto a fare un giro.

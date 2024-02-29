@@ -1,0 +1,4 @@
+﻿[00:00:000] À la surface, les commandes de direction permettent de me diriger
+[00:03:400] et la commande de saut me fait plonger sous l'eau.
+[00:06:300] Appuyez sur la commande d'action,
+[00:08:100] pour me faire sortir de l'eau quand je suis près du bord.

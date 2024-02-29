@@ -1,0 +1,43 @@
+[019700] Sie sind also hinter Miss Leigh her, wie?
+[022000] Beruflich, nicht zum Vergnügen.
+[023800] Aber Sie sind offenbar nicht auf Rache aus.
+[025900] Haben ja nicht das Gesicht dafür.
+[027500] Aber Sie vielleicht?
+[030200] Was für 'ne blöde Frage ist das denn, Mann?
+[033000] Ich hab' ja noch nicht mal ein Gesicht.
+[035700] Ich hab' hier Arbeit gesucht, und was kriege ich, ha?
+[038400] Ein Posten als Laborassistent in Miss Leighs Kosmetikfirma.
+[041900] Keine Erfahrung nötig ... gute Bezahlung ... Logis frei.
+[045800] Jaaa ... tagelang in 'nem Schwimmtank mit stinkendem Sirup eingepfercht.
+[050800] Und als wir wieder rauskamen ...
+[053700] denn es hatten sich viele beworben ...
+[056600] kein Gesicht mehr.
+[058100] Kein Fleisch auf den Knochen und schwupps,
+[060100] in die Abfallröhre hier runtergeworfen, für Tod gehalten.
+[063200] Ein misslungenes Experiment also.
+[065500] Na herzlichen Dank auch!
+[067800] Aber ... naja ... was noch schlimmer ist ...
+[071200] ... als ich mich umbringen wollte ...
+[073400] ... ging es einfach nicht.
+[074700] Sie meinen, Sophia testet eine Art Unsterblichkeitskur?
+[077500] Gemeinsam mit ihrer ganz eigenen Liftingmethode.
+[080400] Klaro, Mann. Ewige Schönheit.
+[082700] Sie ist offenbar noch nicht ganz dahintergekommen,
+[085000] aber die besten Ergebnisse behält sie für sich.
+[088000] Hören Sie, ich weiß nicht, was Sie mit ihre zu tun haben, aber
+[091000] gemeiner, als Sophia können Sie auch nicht sein.
+[093500] Ich werd' Ihnen also helfen.
+[095500] Das heißt ... nachdem Sie was für uns hier unten getan haben.
+[100000] Äußerst großzügig. Was brauchen Sie?
+[102800] Eine Flasche mit dem Mittel zur Mumienkonservierung aus dem naturgeschichtlichen Museum.
+[107100] Balsamieröl?
+[108700] Jawohl, das Beste was auf dem Markt ist.
+[110700] Wie ich höre, hat das Museum großes Interesse daran. Es wird Ihnen gefallen.
+[114100] Warum holen Sie es sich nicht selber?
+[116200] Eines der ägyptischen Mädels dort ist noch sauer,
+[118700] dass es nicht die Unsterblichkeit erlangt hat, die es wollte.
+[121800] Und da wir in der Beziehung besser gefahren sind als die Kleine,
+[125000] möchte ich nicht noch'n schlimmeren Fluch aufgehängt bekommen, als ohnehin schon.
+[129500] 
+[130700] Aber keine Angst, Mädel, Sie sterben hier schnell.
+[134000] Danke!

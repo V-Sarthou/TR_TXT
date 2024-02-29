@@ -1,0 +1,2 @@
+﻿[00000] Ora prova ad arrampicarti.
+[02200] Cammina in avanti e tieni premuto azione.

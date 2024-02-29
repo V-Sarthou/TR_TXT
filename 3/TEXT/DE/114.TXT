@@ -1,0 +1,7 @@
+[000000] Gut gemacht.
+[001000] Wenn es tief hinunter geht und ich mich nicht verletzen möchte,
+[003400] kann ich auch vorsichtig hinabklettern.
+[006000] Drücke kurz rückwärts und ich spring rückwärts ab.
+[008800] Presse dann sofort die Handlungs-Taste und halte sie gedrückt.
+[011800] Auf dem Weg nach unten werde ich dann die Kante greifen.
+[014900] Lass jetzt los.

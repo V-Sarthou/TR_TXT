@@ -1,0 +1,4 @@
+﻿[00:00:000] Pour atteindre les zones supérieures je dois parfois faire de l'escalade.
+[00:02:900] Essayons.
+[00:03:200] Avance et appuie sur la touche action pour me faire grimper.
+[00:06:300] While keeping this button pressed, push forward on the directional buttons and I'll climb to the top.

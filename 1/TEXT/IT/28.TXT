@@ -1,0 +1,3 @@
+﻿[00000] Okay.
+[01000] Facciamo qualche acrobazia.
+[02300] Premi salto.

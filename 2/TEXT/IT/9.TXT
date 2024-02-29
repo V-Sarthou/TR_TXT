@@ -1,0 +1,3 @@
+[000000] Per evitare di scivolare dai dirupi, 
+[001800] puoi usare il tasto camminare.
+[003300] In questo modo starò molto più attenta a dove metto i piedi.

@@ -1,0 +1,22 @@
+﻿[00:30:500] Pour qui travailles-tu ?
+[00:31:600] Comment ?
+[00:32:600] T'as très bien entendu !
+[00:33:800] Non je vous assure. Mais qu'est-ce que vous dites ?
+[00:36:100] Je répète. Qui est ton employeur ?
+[00:38:200] Aaaah ! Mademoiselle Sophia Leigh.
+[00:40:400]
+[00:44:500] Qui est-ce ? Qu'est-ce qu'elle fait ?
+[00:46:400] Je sais pas ! Vraiment, j'en sais rien !
+[00:51:000] J'élimine juste les gens pour elle.
+[00:52:700] Ce ne sont pas les remords qui t'étouffent, visiblement.
+[00:55:400] Bah non, ça fait des années que je fais ça pour elle. Comme mon père et mon grand-père d'ailleurs.
+[01:00:300] Ah oui ? Quel âge a cette demoiselle Leigh ?
+[01:02:900] Je sais pas, autour de la trentaine, je suppose.
+[01:05:800] Je vois.
+[01:07:000] Ouais. Et pour certains contrats comme vous on a une prime.
+[01:11:000] J'en suis flattée.
+[01:13:000] Je crois qu'après vous je pourrai même prendre ma retraite.
+[01:16:300] Dans ce cas tu devrais faire attention, pauvre cloche.
+[01:19:800]
+[01:23:800] Profites bien de ta retraite !
+[01:25:100]

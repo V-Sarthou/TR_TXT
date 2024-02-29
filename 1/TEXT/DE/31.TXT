@@ -1,0 +1,3 @@
+[0:00:000] Lauf auf eine Kiste zu
+[0:01:300] und während du das Steuerkreuz hoch gedrückt hältst,
+[0:03:700] drück die Handlungs-Taste, dann kletter ich rauf.

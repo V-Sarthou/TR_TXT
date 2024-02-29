@@ -1,0 +1,4 @@
+[0:00:000] Diese Hindernisse überwindest du am besten mit Seitwärtssprüngen.
+[0:03:800] Drücke die Sprung-Taste und gleichzeitig die Bewegungs-Taste
+[0:06:700] nach rechts oder links.
+[0:08:000] Ich kann auch rückwärts springen.

@@ -1,0 +1,32 @@
+[013200] Non è il carico che mi spaventa.
+[017000]
+[022400] Forse la marea se l'è portato via...
+[024000] Forse Gianni non avrebbe dovuto... non so...
+[026800]
+[030600] Dalla sua tomba non è uscito nulla di... sostanziale.
+[033600]
+[035100] Ah, sì. Sì, sicuro.
+[036900] Credetemi, ma questo non è la stessa cosa, è vero?
+[039800] Un giorno qualcuno ti multerà quella lingua troppo veloce, Fabio.
+[043700] Eh... è solo una sensazione di pelle.
+[046500] Sembra annebbiarti la vista.
+[049100]
+[050300] Hai una fede così fragile.
+[053000]
+[056500] Rilassati, respira profondamente.
+[060500]
+[061300] La pelle, Fabio, ti può giocare brutti scherzi.
+[065100] Può essere una sensazione giusta, ma non sempre illuminante.
+[069500] Quando mio padre partì che io ero ancora bambino,
+[072800] credeva di essere a sua volta illuminato...
+[075700] Mosso da qualcosa che andava oltre il semplice impulso.
+[080700] Possedeva il Sigillo,
+[083200] ma era solo una pedina in un piano più grande
+[086600] e la sua morte ha aperto la strada al vero prescelto:
+[090200] suo figlio. Riesci a capire?
+[093500] Abbi fede, Fabio. Lascia da parte la pelle.
+[097300] Siamo sulla giusta strada.
+[100000] Capisco. Ho piena fiducia, Marco.
+[102300] Bene. Eros? Hai... sistemato quella dannata paratia?
+[109800]
+[112300] Sì!

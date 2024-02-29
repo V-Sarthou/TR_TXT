@@ -1,0 +1,3 @@
+[000000] No, non va bene.
+[001400] Devi premere salto e in avanti assieme per farmi superare l'ostacolo.
+[005500] Torna indietro e riprova.

@@ -1,0 +1,2 @@
+﻿[00:00:000] Recommencez en appuyant sur une touche fléchée
+[00:02:100] et je sauterai dans cette direction.

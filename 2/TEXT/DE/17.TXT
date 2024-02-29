@@ -1,0 +1,3 @@
+[0:00:000] An der Wasseroberfläche steuerst du mich mit den Bewegungs-Tasten.
+[0:03:600] Wenn du die Sprung-Taste drückst, tauche ich unter.
+[0:06:400] Ich klettere aus dem Wasser, wenn du die Handlungs-Taste drückst.

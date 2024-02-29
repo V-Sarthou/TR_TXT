@@ -1,0 +1,3 @@
+[0:00:000] Drück das Steuerkreuz nach unten, damit ich rückwärts hinunterspringe.
+[0:03:400] Drück dann sofort die Handlungs-Taste und halte sie gedrückt,
+[0:06:200] damit ich mich im Fallen an der Kante festklammere.

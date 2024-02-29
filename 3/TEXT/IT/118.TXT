@@ -1,0 +1,5 @@
+[000000] Un salto come quello, con la dovuta rincorsa, non è un problema.
+[003900] Cammina fino al limite della linea bianca dove mi fermerò,
+[007500] lascia andare il tasto cammina e dai un colpetto indietro per prendere la rincorsa.
+[011700] Spingi in avanti e quindi premi e tieni premuto il tasto salto.
+[015200] Non spiccherò il balzo se non all'ultimo istante.

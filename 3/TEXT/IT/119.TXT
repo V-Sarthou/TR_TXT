@@ -1,0 +1,8 @@
+[000000] Il prossimo passo è mostrarti come posso procedere a carponi.
+[003300] Per prima cosa spostati sulla piattaforma,
+[005500] quindi tieni premuto il tasto striscia 
+[007400] per farmi accovacciare.
+[008700] Tienilo premuto e, usando i tasti direzionali, puoi muovermi nella fenditura.
+[013100] Girami dall'altra parte e lasciami scivolare giù dalla sponda.
+[016300] Tieni sempre premuto il tasto azione o cadrò.
+[018600] Provaci.

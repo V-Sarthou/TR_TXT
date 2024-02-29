@@ -1,0 +1,28 @@
+﻿[013700] Questa volta ti è andata proprio male.
+[016400] Salve.
+[017400] Buon pomeriggio.
+[020100] E così hai steso Larson, eh?
+[022300] Diciamo così.
+[023800] Beh, la tua gitarella ribelle è finita.
+[027000] È tempo di restituirmi quello che mi hai rubato.
+[029800] Vediamo un po’ nello zainetto.
+[033400]
+[042200] Allora? Uccidetela!
+[045000] Ehi!
+[046600]
+[050800] Brutti idioti!
+[053400]
+[062800] Andiamo.
+[065000]
+[135900] Cosa diamine è stato?
+[137900] Cosa?
+[138600] Da quella parte.
+[140800] Probabilmente era solo un pesce.
+[142900] Un pesce bello grosso, ragazzino.
+[145400] Devi imparare a rilassarti, bello.
+[148500] Io torno dentro. Vieni anche tu?
+[152000]
+[157700] Piano...
+[159800] Ecco che arriva.
+[161800] Siamo pronti ad andare?
+[164600]

@@ -1,0 +1,2 @@
+﻿[00:00:000] Tant que la touche marche est enfoncée je ne peux pas tomber.
+[00:02:500] Essaie de me pousser pour voir.

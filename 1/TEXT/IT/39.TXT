@@ -1,0 +1,4 @@
+﻿[00000] Cammina fino al limite della linea bianca dove mi fermerò,
+[03200] lascia andare il tasto cammina e dai un colpetto indietro per prendere la rincorsa.
+[07700] Premi in avanti e quindi premi e tieni premuto il tasto salto.
+[12100] Non spiccherò il balzo se non all'ultimo istante.

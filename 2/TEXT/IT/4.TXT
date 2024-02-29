@@ -1,0 +1,43 @@
+[003000] Ah... Non sei una di loro.
+[005700] Ma tu sei un monaco?
+[007200] Fratello Chan Barkhang.
+[009600] Sei venuta per me?
+[011300] Ho visto una luce accerchiarmi.
+[013400] Erano i proiettili.
+[014500] E credo che a loro abbiano fatto un effetto ben peggiore.
+[017400] Ma tu sei la mia guida,
+[018900] la mia chiave verso la prossima incarnazione.
+[022000] Ho fatto il mio tempo, vero?
+[024400] Cosa facevi qui, con quel Marco Bartoli?
+[027000] Niente! Io conduco una vita rigorosa
+[030500] per ragioni che risalgono alla stessa necessità del male,
+[033800] come mio padre prima di me
+[035300] quando affondò il vascello di Gianni in queste stesse acque. 
+[039000] Adesso sono qui... ero qui,
+[041900] per impedire a suo figlio di profanare il Sigillo.
+[044900] Il Sigillo?
+[046000] Tu non puoi sapere della mia missione.
+[048300] Come forse non sapevi nemmeno della loro.
+[050900] I loro giorni di gloria sono comunque finiti.
+[053000]
+[054400] Vogliono il Sigillo per svelare il tesoro maligno
+[057500] contenuto nel nostro monastero in Tibet.
+[059700] Dopo essere stato trafugato da stolti vagabondi secoli fa,
+[063500] siamo rimasti senza la chiave.
+[066300] Potendo contare sulla sola forza delle nostre preghiere.
+[069300] Quindi intervenne Gianni B., acquistandola da qualche mercante d'arte.
+[073100]
+[075200] Ci mise tutti in pericolo.
+[076700] Dando vita a quella che era solo un'antica credenza,
+[079100] un pericolo che nessuno dovrebbe mai sottovalutare.
+[082800] E adesso ci risiamo.
+[084000] Marco, con la sua mente malvagia e i suoi deliri, 
+[088300] all'inutile ricerca di un potere che possa saziarli.
+[091300] E così abbiamo dovuto riprendere le nostre armi.
+[094100] Ma è solo per una giusta causa.
+[096500]
+[097100] Dove vuoi portarmi?
+[099100] Sono pronto per il grande passo.
+[101500] Spero mi sia concesso un po' di riposo.
+[104000] Ah, ne ho bisogno.
+[106500]

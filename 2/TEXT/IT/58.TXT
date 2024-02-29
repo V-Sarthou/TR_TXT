@@ -1,0 +1,8 @@
+[000700] Sangue, risposte...
+[002500] Non ho preferenza. Mi piacerebbe un po' di entrambe.
+[006800] Ok, Marco!
+[008800] Benvenuto tra noi.
+[010800]
+[012400] Cosa tu preferire? Forza! Bastone su per lo stomaco?
+[016000] Dire a me! Dove dover cercare in monastero? Eh, fratello? 
+[020400]

@@ -1,0 +1,2 @@
+[000000] Drücke jetzt vorwärts und die Handlungs-Taste,
+[002100] damit ich springe und nach dem Vorsprung greife.

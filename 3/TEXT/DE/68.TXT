@@ -1,0 +1,28 @@
+[04900] Ich störe hoffentlich nicht?
+[06700] Sie bluten doch nicht etwa? - Oder suchen Sie 'ne Toilette?
+[10400] Nein und nochmals nein.
+[12200] Gut, gut. Ich bloß keine fliegenumschwirrten Besucher hier drin haben.
+[16300] Klar, ich verstehe. Was ist geschehen?
+[18800] Bin im Dschungel aufgewacht, als einer dieser kleinen Typen sich an meinem Bein satt aß.
+[22600] Ein Stammesmitglied? Es wäre ungewöhnlich, dass sie das Fleisch direkt vom Knochen abnagen.
+[26500] Tja, es war dunkel und ich hab' den Kerl nicht erwischt, sicher bin ich also nicht.
+[30500] Im Dschungel ist irgendetwas Gruseliges.
+[33500] Unser Flugzeug ist oben in den Bergen zerschellt.
+[36600] Nacht für Nacht verschwanden einige meiner Leute spurlos.
+[39700] Andere flohen in Panik ... und dann ist das passiert.
+[43900] Also brachte ich das restliche Team an die Küste in Sicherheit,
+[47100] nur um von dieser gierigen Meute gefangen zu werden ...
+[50500] ... als eine Art Opfer an ihren Gott, der in den Bergen haust.
+[54300] Obwohl ich offenbar nicht zum Grillfest eingeladen wurde.
+[58700] Vielleicht sind Sie aber der Nachtisch.
+[59800] Reifes Fleisch gilt hier als Delikatesse.
+[62600] Wirklich?
+[64300] Hören Sie, wir müssen Sie hier rausbringen.
+[66100] Wissen Sie, wie der Stamm den Sumpf überquert,
+[67900] und auf welche Steine die Leute treten?
+[70200] Schon, aber ich bleibe hier.
+[72200] Mit der Wunde wäre ich 'ne wandelnde Tankstelle für jedes infizierte Insekt weit und breit.
+[78400] Ha, da wäre ich noch lieber der Hauptgang beim großen Fest.
+[82500] Wenn meine Männer da drinnen noch am Leben sind,
+[84400] führen Sie sie zur Nordküste, ja? Fort von hier.
+[88700] Natürlich.

@@ -1,0 +1,21 @@
+﻿[00000] Bene, ora hai tutta la mia attenzione.
+[02500] Io invece non sono sicura di avere la tua.
+[05300] Ci sei ora?
+[05800] Se ti prendo ti distruggo.
+[09200] Ne sono sicura.
+[10000] Te e quel dannato pezzo del medaglione.
+[13200] Se lo vuoi così tanto, ficcatelo su per...
+[17100] Aspetta. Stai parlando dell’artefatto?
+[19900] Esatto, quel dannato pezzo di...
+[21900] Aspetta un attimo. Scusami,
+[24100] hai appena detto che questo è solo un pezzo. Dov’è il resto?
+[26500] La signorina Natla ha già mandato Pierre Dupont a cercarlo.
+[29700] E dove di preciso?
+[30500] Ah! Non sei abbastanza veloce per raggiungerlo.
+[33600] Quindi il tuo piano sarebbe trattenermi qui con le chiacchiere?
+[37200] Non ti so dire dove sia diretto.
+[42400] Dovrai chiederlo alla signorina Natla.
+[45500]
+[51000] Grazie.
+[52500] Credo che lo farò.
+[54500]

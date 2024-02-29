@@ -1,0 +1,6 @@
+[000000] Komm, lass uns in die Turnhalle gehen.
+[001700] Allen, die schon früher hier waren,
+[003000] wird die neue Ausstattung auffallen.
+[004600] Was denkst du?
+[005500] Gut, lass uns ein paar Übungen machen.
+[008000] Ich denke, wir sollten sie in der richtigen Reihenfolge ausführen.

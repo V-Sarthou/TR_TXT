@@ -1,0 +1,3 @@
+[000000] Il modo più veloce per superare questo gruppo di ostacoli sono dei salti diagonali.
+[004300] Devi semplicemente indicare nella direzione che vuoi al momento dello stacco.
+[007800] E ricorda che posso anche saltare indietro. 

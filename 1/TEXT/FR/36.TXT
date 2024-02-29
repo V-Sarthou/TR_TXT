@@ -1,0 +1,5 @@
+﻿[00:00:000] Si je ne peux pas sauter assez loin,
+[00:01:800] je peux toujours me rattraper de justesse pour ne pas tomber.
+[00:05:100] Avancez jusqu'à la ligne blanche jusqu'à ce que je m'arrête de moi-même.
+[00:08:100] Ensuite appuyez sur la touche de saut et tout de suite après sur la touche fléchée haut,
+[00:12:100] et maintenez la touche d'action enfoncée pendant que je saute.

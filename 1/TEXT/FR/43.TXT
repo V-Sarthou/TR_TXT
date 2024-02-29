@@ -1,0 +1,3 @@
+﻿[00:00:000] Je n'ai pas la place de grimper ici.
+[00:01:200] Mais si vous appuyez sur la touche fléchée droite, je longerai la corniche pour trouver un passage
+[00:05:000] et vous n'aurez plus qu'à appuyez sur la touche fléchée haut à ce moment là.

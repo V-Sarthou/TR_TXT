@@ -1,0 +1,4 @@
+﻿[00000] Questo una volta era un salone,
+[01800] ma l’ho trasformato nella mia palestra personale.
+[04300] Che ne pensi?
+[05600] Bene, facciamo un po’ di esercizio.

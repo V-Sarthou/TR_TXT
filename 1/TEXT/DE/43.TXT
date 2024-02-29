@@ -1,0 +1,3 @@
+[0:00:000] Ich kann hier nicht hochklettern, weil die Lücke zu schmal ist.
+[0:02:700] Wenn du aber das Steuerkreuz nach rechts drückst,
+[0:05:000] hangele ich mich seitlich durch, bis genug Platz zum Hochziehen ist.

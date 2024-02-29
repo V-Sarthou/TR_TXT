@@ -1,0 +1,5 @@
+﻿[00:00:000] Essayons de grimper là-haut.
+[00:01:300] Appuie sur avancer et maintiens enfoncée la touche action.
+[00:04:800] Je ne peux pas grimper, l'ouverture est trop petite.
+[00:07:800] Appuie sur la touche droite et j'avancerai de côté,
+[00:10:000] Appuie ensuite sur avancer pour que je monte.

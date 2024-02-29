@@ -1,0 +1,4 @@
+[000000] Bene, adesso acceleriamo.
+[002200] Spingi in avanti e tieni premuto il tasto scatto.
+[004900] Quando raggiungo la linea bianca, premi il tasto salto
+[007600] e io eseguirò un tuffo con avvitamento. 

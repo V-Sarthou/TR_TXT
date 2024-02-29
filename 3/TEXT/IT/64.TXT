@@ -1,0 +1,30 @@
+[014700] Tech 4 a 5. Mi ricevete, Tech 5? Tech...
+[018600] Incapace di un Tony! So che sei...
+[021200] 
+[023000] C'è... c'è nessuno?
+[025800] Cosa?! Che cosa volete da me ora?
+[029500] Niente di troppo preoccupante. Tutto bene?
+[031900] Se vi fermaste un attimo, io... io starei bene. In forma al cento percento, proprio... uh!
+[040000] Se ci fermassimo un attimo? Di che cosa stai parlando?
+[042600] Tutti voi. Centinaia di voi.
+[045100] Che parlate, urlate, mi fate esplodere il cervello!
+[048300] Mmh...
+[049500] Non ho ben capito da dove sei sbucato fuori, 
+[051500] ma io voglio solo sapere dell'artefatto Infada.
+[053900] È nel tempio?
+[055000] Mmh... magia voodoo, ecco che cosa.
+[057500] Io non toccherei mai quella roba.
+[059000] Non è voodoo.
+[060400] Senti, c'è qualcun altro qui con te?
+[063000] Sì, Randy e Rory...
+[066300] Randy e Rory? Dove? Che state facendo qui?
+[070200] Beh, loro hanno scelto di rimanerci, in quel tempio.
+[074100] Gli avevo detto di non entrare. Li avevo avvertiti.
+[077800] Ora non credo possano fare molto, sepolti sotto mezza tonnellata di fango.
+[081500] Io... me ne vado. Con il prossimo autobus.
+[086200] Questa giungla proprio non fa per me.
+[089100] E tu dovresti fare lo stesso,
+[091800] ma non mi sembri una che ascolta i consigli...
+[094200] che si preoccupa se le dico che morirà là dentro. 
+[097800]
+[100000] Si... morirai!

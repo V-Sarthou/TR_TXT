@@ -1,0 +1,13 @@
+[008400] Miss Croft, ritengo che siate pronta a firmare!
+[012100] Che cosa?
+[013300] Un contratto.
+[014900] Con il vostro stile sareste la testimonial ideale per i miei prodotti.
+[019300] Pensateci, non avreste neanche più bisogno di queste antiestetiche armi.
+[023500] No, ma visti i vostri esperimenti, mi ritroverei con una faccia insolita.
+[027800] I miei cosa?!
+[028900] Già, sono ancora vivi.
+[031100] Eccome se lo sono.
+[032900] Io voglio solamente l'artefatto.
+[034500] Certo, nella tua prossima vita.
+[036900]
+[038500] Lo vedremo.

@@ -1,0 +1,3 @@
+﻿[00000] Corri verso una delle casse.
+[01100] Mentre tieni premuto avanti,
+[02800] premi azione e io ci salirò sopra.

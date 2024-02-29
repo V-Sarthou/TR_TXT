@@ -1,0 +1,2 @@
+[000000] Vediamo in quanto tempo si può completare il percorso d'assalto. 
+[003200] Sei pronto?

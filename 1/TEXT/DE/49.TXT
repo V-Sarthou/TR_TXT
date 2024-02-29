@@ -1,0 +1,5 @@
+[0:00:000] Ah! Luft!
+[0:02:000] Drück einfach das Steuerkreuz nach vorne, links und rechts,
+[0:04:800] um mich an der Oberfläche zu bewegen.
+[0:06:600] Drück die Sprung-Taste, wenn ich noch einmal abtauchen soll,
+[0:09:500] oder geh zur Kante und drück die Handlungs-Taste damit ich aus dem Wasser steige.

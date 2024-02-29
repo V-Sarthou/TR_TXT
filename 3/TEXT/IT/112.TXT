@@ -1,0 +1,4 @@
+[000900] Aria!
+[002500] Usa avanti con sinistra e destra per spostarmi in superficie.
+[006300] Premi salto per farmi immergere nuovamente,
+[008700] oppure avvicinati a una sponda e premi azione per farmi uscire dall'acqua.

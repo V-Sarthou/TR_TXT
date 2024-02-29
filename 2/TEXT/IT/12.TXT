@@ -1,0 +1,4 @@
+[000000] Posso risalire questa parete,
+[001500] basta avvicinarsi e tenere premuto il tasto azione.
+[004100] Puoi inoltre usare i tasti direzionali per farmi salire,
+[006700] scendere o muovermi di lato.

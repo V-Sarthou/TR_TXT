@@ -1,0 +1,7 @@
+[000000] Puh! Och! Luft!
+[003200] Benutz einfach vorwärts, links und rechts,
+[005300] um mich an der Wasseroberfläche zu bewegen.
+[007600] Drücke die Sprung-Taste, wenn ich abtauchen
+[009700] und noch eine Runde unter Wasser drehen soll,
+[011900] oder gehe zum Vorsprung und drücke die Handlungs-Taste,
+[014600] dann klettere ich wieder heraus.

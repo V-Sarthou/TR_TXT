@@ -1,0 +1,5 @@
+[0:00:000] Um den Sprung zu schaffen, muss ich soweit wie möglich zurück gehen
+[0:03:400] und dann mit Anlauf springen.
+[0:05:500] Du kannst mich auch zur Kante gehen lassen,
+[0:07:400] vorwärts springen und die Handlungs-Taste drücken,
+[0:09:900] damit ich die gegenüberliegende Kante ergreifen kann.

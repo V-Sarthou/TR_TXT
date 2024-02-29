@@ -1,0 +1,27 @@
+﻿[00000] Non potete farmi questo!
+[01400] Natla di Atlantis, sei condannata per i tuoi crimini.
+[06000] Per il plateale abuso dei tuoi poteri
+[09400] e per averci privato dei nostri.
+[11000] Non potete farlo! Io...
+[12600] Per aver violato i limiti dell’autorità
+[15400] sotto la quale viene governata e protetta la nostra gente
+[18400] e per aver invaso me e Tihocan con il nostro stesso esercito.
+[23100] Hai svuotato le nostre piramidi dei nostri guerrieri
+[27300] così che potessi sfruttarle,
+[29500] usando i loro poteri di creazione
+[31400] per la tua insensata sete di distruzione.
+[33300] Insensata?! Ma guardatevi!
+[35700] Nessuno di voi due possiede un briciolo di inventiva.
+[40400] Inutili!
+[41800] Facciamola finita.
+[44100] Tihocan!
+[45200] Hai sfruttato un luogo sacro come fonte di piacere individuale,
+[49700] l’hai reso una fabbrica di mostri.
+[51200] Sono dei sopravvissuti. Una nuova generazione.
+[54200] Sono solo un ammasso di corpi, ora.
+[56400] In quanto a te. Verrai rinchiusa nel limbo.
+[60600] Così che vene, cuore, piedi
+[64000] e il tuo cervello infetto congelino insieme al tuo sangue.
+[70000] Accogli la tua eterna agonia, Natla.
+[73300] Sarete voi ad agonizzare, insieme al vostro dannato continente di Atlantis!
+[79500]
