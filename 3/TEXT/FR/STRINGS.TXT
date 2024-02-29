@@ -1,7 +1,7 @@
 ﻿LANG=FR
 STATS=Statistiques
 PISTOLS=Pistolets
-SHOTGUN=Fusil à canon scié
+SHOTGUN=Fusil à pompe
 DEAGLE=Desert Eagle
 UZIS=Uzis
 HARPOON=Fusil à harpon
@@ -10,7 +10,7 @@ ROCKET=Lance-roquettes
 GRENADE=Lance-grenades
 FLARE=Fusée éclairante
 PISTOLAMMO=Chargeurs de pistolets
-SHOTGUNAMMO=Cartouches de fusil
+SHOTGUNAMMO=Cartouches de fusil à pompe
 DEAGLEAMMO=Chargeurs de Desert Eagle
 UZIAMMO=Chargeurs de Uzi
 HARPOONAMMO=Harpons
