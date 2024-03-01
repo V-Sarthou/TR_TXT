@@ -3,7 +3,7 @@
 [00:17:300] Salut.
 [00:20:200] Larson est dans les choux, alors ?
 [00:22:200] On peut le dire comme ça.
-[00:23:700] Bon, maintenant on arrête de jouer.
+[00:23:700] Bon, alors maintenant, on arrête de jouer.
 [00:26:800] Vous allez me rendre ce qui m'appartient.
 [00:29:500] Voyons dans le sac.
 [00:31:500]
@@ -18,7 +18,7 @@
 [02:17:700] Quoi ?
 [02:18:000] Par là-bas.
 [02:20:200] Probablement un poisson.
-[02:22:100] Un sacré poisson alors, kid.
+[02:22:100] Un sacré poisson alors, fiston.
 [02:24:900] Allez, décrispe-toi, mec.
 [02:27:600] Bon j'y retourne. Allez, tu viens ?
 [02:30:800]

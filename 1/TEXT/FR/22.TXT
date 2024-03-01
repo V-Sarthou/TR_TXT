@@ -1,15 +1,15 @@
 ﻿[00:04:100] Vous revoilà ?
 [00:05:400] Comme vous, pour la grande réouverture, je présume.
 [00:08:800] L'évolution s'enlise. La sélection naturelle est plus lente que jamais.
-[00:13:200] Et cette chair bien fraîche réveillera les haines ancestrales et cruelles.
-[00:17:600] Nous donnant force et conviction.
-[00:20:300] Et même de nouvelles races.
+[00:13:200] Et cette chair bien fraîche réveillera les haines ancestrales et cruelles,
+[00:17:600] nous donnant force et conviction...
+[00:20:300] et même de nouvelles races.
 [00:22:200] Une évolution grâce aux stéroïdes, en fait.
-[00:24:400] Un bon coup de fouet...
-[00:25:600] Ces idiots de Qualopec et Tihocan sont des ignards.
-[00:29:100] Le cataclysme de l'Atlantide a créé une race de mauviettes...
-[00:33:300] Les ramenant au stade primitif de la simple survie.
-[00:36:700] Ça n'aurait jamais dû arriver.
+[00:24:400] Un bon coup de fouet !
+[00:25:600] Ces idiots de Qualopec et Tihocan sont des ignares.
+[00:29:100] Le cataclysme de l'Atlantide a engendré une race de mauviettes,
+[00:33:300] les ramenant au stade primitif de la simple survie.
+[00:36:700] Ça n'aurait jamais dû arriver !
 [00:38:400] Moi, j'arrive.
 [00:39:600] L'éclosion commence dans 15 secondes.
 [00:42:500] Trop tard pour un avortement !

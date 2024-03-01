@@ -2,18 +2,18 @@
 [00:02:300] mais je ne sais pas si j'ai la vôtre.
 [00:05:000] Allez !
 [00:05:500] Je vais vous en faire bouffer de l'avoine, moi.
-[00:08:900] Mais oui.
+[00:08:900] Mais oui...
 [00:09:500] Vous et ce satané morceau de Scion.
 [00:13:100] Si vous y tenez tant que ça, je vais vous le coller dans le...
 [00:16:700] Attendez... Vous parlez de l'artéfact, là ?
 [00:19:300] Un peu mon neveu... J'vais vous le...
-[00:21:600] Holà ! Du calme !
+[00:21:600] Oh là ! Du calme !
 [00:23:700] Un morceau, vous disiez ? Où est le reste ?
 [00:26:300] Miss Natla a mis Pierre Dupont sur l'affaire.
 [00:29:400] À quel endroit ?
 [00:30:200] Ha ! Vous n'êtes pas assez rapide pour lui.
-[00:33:100] Donc je perds du temps à discuter avec vous, ici...
-[00:36:600] Moi, je ne sais pas du tout où il court, avec ses petites pattes de pied-tendre.
+[00:33:100] Donc je perds du temps à discuter avec vous ici ?
+[00:36:600] Moi je ne sais pas du tout où il court, avec ses petites pattes de pied-tendre.
 [00:42:100] Allez demander à Miss Natla.
 [00:44:000]
 [00:51:600] Merci !
