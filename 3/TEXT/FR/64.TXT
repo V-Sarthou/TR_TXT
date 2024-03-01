@@ -1,5 +1,5 @@
-﻿[00:14:500] 4 à Tech 5. Tu me reçois, Tech 5 ? Tech...
-[00:17:900] Tony, espèce de cinglé, je sais que t'es là !
+﻿[00:14:500] Tech 4 à Tech 5. Tu me reçois, Tech 5 ? Tech ah...
+[00:17:900] Tony, espèce de cinglé, je sais que tu es là !
 [00:20:700]
 [00:23:100] Hé ! Il y a quelqu'un ?
 [00:26:300] Quoi ? Qu'est-ce qu'il se passe encore ?
@@ -10,7 +10,7 @@
 [00:43:200] Toujours à brailler et à marmonner dans ma tête, dans mon cerveau !
 [00:47:600] Hmm... Oui, bien sûr.
 [00:49:100] Je ne sais pas qui vous êtes,
-[00:50:600] mais je voudrais en savoir plus sur la statuette Infada.
+[00:50:600] mais je voudrais en savoir plus sur la statue Infada.
 [00:52:700] Elle se trouve dans le temple, là-haut.
 [00:55:400] Vous parlez de ce truc vaudou ?
 [00:57:700] Je déteste la magie noire.

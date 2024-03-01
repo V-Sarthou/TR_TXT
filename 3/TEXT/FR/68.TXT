@@ -23,7 +23,7 @@
 [01:06:100] Connaissez-vous le chemin qu'emprunte la tribu pour traverser le marais ?
 [01:09:500] Sur quelles pierres marchent-ils ?
 [01:11:100] Oui, je connais ce passage.
-[01:12:800] Mais moi, je reste ici. Avec cette blessure, dans les marécages, ça serait la gangrène assurée.
+[01:12:800] Mais moi, je reste ici. Avec cette blessure, aller dans les marécages, ce serait la gangrène assurée.
 [01:15:900] Je préfère encore être le plat de résistance de ces sauvages.
 [01:22:600] Si vous voyez un de mes gars encore vivant,
 [01:24:800] dirigez-le vers la côte nord. C'est le seul moyen de s'en sortir.

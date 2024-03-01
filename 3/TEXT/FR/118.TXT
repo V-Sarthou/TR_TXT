@@ -2,4 +2,3 @@
 [00:03:600] Fais-moi avancer vers la ligne blanche jusqu'à ce que je m'arrête.
 [00:06:600] relâche la touche marcher et appuie brièvement sur reculer pour me donner de l'élan.
 [00:03:600] Appuie sur avancer et immédiatement après appuie et maintiens enfoncée la touche saut.
-[00:15:600] Je sauterai au dernier moment.

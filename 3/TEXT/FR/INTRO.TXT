@@ -9,7 +9,7 @@
 [01:28:700] Coupe le moteur !
 [01:31:000] Hé ! Arrête cette foreuse !
 [01:34:000]
-[01:49:100] Vous feriez bien de voir le site numéro deux.
+[01:47:400] Vous feriez bien de voir le site numéro deux.
 [01:49:800]
 [01:51:500] Et je fais quoi, moi ?
 [01:52:700] Dégage le terrain.
@@ -19,7 +19,7 @@
 [02:00:900]
 [02:03:700] Bon sang !
 [02:06:300] Billy ! Annule l'explosion ! Tu m'entends ?!
-[02:06:800] Je t'interdis d'appuyer sur le détonnateur ! Billy !
+[02:06:800] Je t'interdis d'appuyer sur le détonateur ! Billy !
 [02:10:200]
 [02:13:400] Quel gâchis...
 [02:14:300]

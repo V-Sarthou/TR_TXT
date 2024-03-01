@@ -1,6 +1,6 @@
 ﻿[00:30:500] Pour qui travailles-tu ?
 [00:31:600] Comment ?
-[00:32:600] T'as très bien entendu !
+[00:32:600] Tu as très bien entendu !
 [00:33:800] Non, je vous assure. Mais qu'est-ce que vous dites ?
 [00:36:100] Je répète. Qui est ton employeur ?
 [00:38:200] Aaaah ! Mademoiselle Sophia Leigh.

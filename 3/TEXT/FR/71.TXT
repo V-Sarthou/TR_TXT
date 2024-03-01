@@ -2,7 +2,7 @@
 [00:10:000] Je suppose que vous avez décidé de signer.
 [00:12:000] Signer quoi ?
 [00:13:200] Votre contrat chez nous.
-[00:14:700] Vous comprenez, votre style de vie représente l'image idéal pour mes produits de beauté.
+[00:14:700] Vous comprenez, votre style de vie représente l'image idéale pour mes produits de beauté.
 [00:19:400] Réfléchissez ! Vous n'auriez plus à porter ces affreux pistolets.
 [00:23:400] Non mais j'aurais sans doute un affreux visage à en juger par vos dernières expériences.
 [00:27:800] Mes quoi ?!

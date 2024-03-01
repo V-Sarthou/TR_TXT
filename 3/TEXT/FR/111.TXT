@@ -1,5 +1,4 @@
 ﻿[00:00:000] Allons faire un tour dans la salle de gym.
 [00:01:900] Si tu es venu ici dans mes premières aventures, 
 [00:04:100] tu remarqueras sans doute que j'ai changé la décoration des lieux.
-[00:06:200] Allons faire un peu d'exercice.
 [00:07:300] Il vaut mieux faire le parcours dans l'ordre.
