@@ -1,5 +1,5 @@
 ﻿[00000] Non potete farmi questo!
-[01400] Natla di Atlantis, sei condannata per i tuoi crimini.
+[01400] Natla di Atlantide, sei condannata per i tuoi crimini.
 [06000] Per il plateale abuso dei tuoi poteri
 [09400] e per averci privato dei nostri.
 [11000] Non potete farlo! Io...
@@ -23,5 +23,5 @@
 [60600] Così che vene, cuore, piedi
 [64000] e il tuo cervello infetto congelino insieme al tuo sangue.
 [70000] Accogli la tua eterna agonia, Natla.
-[73300] Sarete voi ad agonizzare, insieme al vostro dannato continente di Atlantis!
+[73300] Sarete voi ad agonizzare, insieme al vostro dannato continente di Atlantide!
 [79500]
