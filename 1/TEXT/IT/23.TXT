@@ -3,7 +3,7 @@
 [05300] Ci sei ora?
 [05800] Se ti prendo ti distruggo.
 [09200] Ne sono sicura.
-[10000] Te e quel dannato pezzo del Scion.
+[10000] Te e quel dannato pezzo dello Scion.
 [13200] Se lo vuoi così tanto, ficcatelo su per...
 [17100] Aspetta. Stai parlando dell’artefatto?
 [19900] Esatto, quel dannato pezzo di...

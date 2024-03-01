@@ -1,7 +1,7 @@
 ﻿[48900] Ora che mi sono trasferito al Capriccio di San Francesco, nuove tentazioni mi tormentano.
 [53500] Tra i miei fratelli gira voce che sotto il monastero sia sepolto il corpo di Tihocan,
 [59800] uno dei tre leggendari sovrani del continente perduto, Atlantide,
-[64600] e che con lui vi sia anche un pezzo del Scion Atlantideo:
+[64600] e che con lui vi sia anche un pezzo dello Scion atlantideo:
 [68600] il ciondolo diviso e ripartito tra i tre regnanti
 [72800] che si dice possegga incredibili poteri.
 [76000] Poteri che vanno anche oltre quelli del Creatore stesso.
