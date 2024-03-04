@@ -1,0 +1,3 @@
+﻿[00000] Si deseas echar un vistazo,
+[01500] pulsa y mantén presionado el botón «mirar».
+[03400] Entonces, solo tendrás que indicar la dirección.

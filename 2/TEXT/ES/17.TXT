@@ -1,0 +1,4 @@
+﻿[00000] Utiliza los botones de dirección para maniobrar en la superficie.
+[02900] y el botón «saltar» me hará zambullirme.
+[05700] En los bordes de la piscina,
+[06900] usa el botón «acción» para trepar fuera.

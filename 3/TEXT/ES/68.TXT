@@ -1,0 +1,34 @@
+[05000] No molesto, ¿verdad?
+[06000] ¿No te estarás desangrando...? ¿No verás este sitio como un escondrijo...?
+[10000] No y no...
+[12000] Bueno, no deseo ningún visitante que acarree moscas aquí dentro.
+[16000] Correcto, lo entiendo.
+[18000] ¿Qué pasó?
+[18200] Me desperté en la jungla con uno de esos pequeños sujetos merendando en mi pierna.
+[22000] ¿Un hombre de la tribu? Para ellos no es normal comer así directamente del hueso.
+[26000] Bueno, realmente estaba oscuro y no llegué a coger al culpable.
+[30000] Hay algo fantasmal en esa jungla.
+[33000] Nuestro carguero se estrelló en las montañas.
+[36000] Cada noche alguno de mis hombres desaparecía sin dejar huella.
+[39000] Otros cayeron por el temor.
+[41000] Y fue entonces cuando esto ocurrió.
+[43000] Así que decidí traer a los hombres aquí abajo para mayor seguridad, solo para nosotros.
+[48000] Todos fuimos capturados por esta multitud codiciosa... 
+[51000] que realiza algún tipo de sacrificio a su dios que vive en las montañas.
+[54000] Sin embargo, parece que yo no he sido invitado a la fiesta.
+[58000] Es posible que seas el postre.
+[59000] La carne madura puede ser un manjar aquí.
+[62000] ¿De verdad?
+[64000] Escucha, abandona este lugar.
+[66000] ¿Sabes cómo cruza la tribu el pantano?
+[68000] ¿En qué piedras pisan?
+[70000] Sí, pero yo me quedo.
+[72000] Cargar con esta herida sería como llevar una estación repleta para cualquier bicho de la maleza.
+[77000] Preferiría ser el plato principal en el verdadero banquete.
+[81000] Ey, si ves a alguno de mis hombres vivo ahí fuera,
+[84000] dirígeles a la playa norte, ¿lo harás? Mándales lejos de aquí.
+[88000] Por supuesto.
+
+
+
+

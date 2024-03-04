@@ -1,0 +1,2 @@
+﻿[00000] Para huecos con mayor espacio, necesitaré un salto con carrera.
+[02500] Vuelve al inicio.

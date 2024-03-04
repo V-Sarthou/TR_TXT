@@ -1,0 +1,6 @@
+﻿[00800]	Sangre o respuestas,
+[02400]	No tengo una preferencia. ¡Un poco de ambos!
+[06800]	De acuerdo, Marco,
+[08600]	encantado de tenerte a bordo,
+[12400]	¿Qué es lo que quieres? Venga. ¿Directo al estómago?
+[16000]	¿dónde está el monasterio que buscamos? Eh, ¿hermano?

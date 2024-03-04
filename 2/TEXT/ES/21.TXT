@@ -1,0 +1,2 @@
+﻿[00000] ¡Enhorabuena! ¡Lo lograste!
+[02400] Aunque quizá pueda hacerlo más rápido.

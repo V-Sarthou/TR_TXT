@@ -1,0 +1,4 @@
+﻿[00000] Puedo escalar esta pared,
+[01600] camina hasta ella y entonces pulsa y mantén el botón «acción».
+[04500] Después utiliza los botones de dirección para escalar hacia arriba,
+[06900] abajo o lateralmente.

@@ -1,0 +1,43 @@
+﻿[003000] Oh, no eres uno de ellos.
+[005700] ¿Pero tú eres un monje?
+[007300] El hermano Chen Barkhang.
+[009600] Vienes a llevarme.
+[011300] He visto una luz brillante que me reodeaba.
+[013600] Eran los disparos.
+[015000] Más bien creo que se los llevaron a ellos.
+[017400] Pero tú eres mi guía.
+[019000] Aquel que me mostrará el camino a la siguiente reencarnación.
+[022100] Se ha acabado mi tiempo aquí, ¿verdad?
+[024400] ¿Qué estás haciendo aquí con... Marco Bartoli?
+[027000] ¡Nada! He llevado una vida recta...
+[030300] aquí solo por razones que se remontan a la necesidad misma del mal,
+[033500] como mi padre hizo antes que yo
+[035300] cuando hundió el barco de Gianni en estas mismas aguas.
+[039000] Ahora estoy aquí... estuve aquí,
+[041900] para evitar que su hijo profanara el Seraph.
+[044900] ¿El Seraph?
+[046100] ¿No conoces el mayor trabajo de toda mi vida?
+[049000] ¿Seguro que no estás aquí por ellos?
+[051000] De todos modos, sus días de gloria se han terminado.
+[054000]
+[054500] Quieren el Seraph para resucitar un poder maligno
+[057700] que mantenemos sellado en nuestro monasterio del Tíbet.
+[060700] Después de ser robados por vagabundos insensatos hace siglos,
+[064400] nos quedamos sin la llave.
+[066400] Solo contamos con el poder de nuestras oraciones.
+[070900] Entonces, ese ocultista de Gianni B., se hizo con ella.
+[074500]
+[075300] Poniéndonos a todos en peligro.
+[076600] Ha resucitado viejas creencias,
+[079500] que no deben ser subestimadas.
+[082800] Y de nuevo está aquí.
+[085400] Marco, con su mente delirante
+[088200] y malévola
+[090000] no ve la manera de saciar su sed de mal.
+[093000] Así que tuvimos que volver a empuñar nuestras armas.
+[095800] El verdadero antídoto contra el mal.
+[098600] ¿Dónde me llevas?
+[100800] Pensaba que este era mi gran paso.
+[103300] Espero que sea para bien.
+[105700] Que así sea...
+[108300]

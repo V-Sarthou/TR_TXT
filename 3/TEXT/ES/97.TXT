@@ -1,0 +1,2 @@
+[0000000] Para saltar dentro,
+[0001000] camina hasta el vehículo y pulsa el botón «acción».

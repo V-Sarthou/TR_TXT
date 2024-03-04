@@ -1,0 +1,4 @@
+[0000000] Bien, vamos a correr.
+[0001800] Pulsa «adelante» y mantén presionado el botón «correr».
+[0005000] Cuando llegue a la línea blanca,
+[0007000] pulsa el botón «saltar» y realizaré una pirueta.

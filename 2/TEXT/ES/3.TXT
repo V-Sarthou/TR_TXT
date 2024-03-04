@@ -1,0 +1,30 @@
+﻿[012800] No es la carga de trabajo lo que me preocupa.
+[017000]
+[022300] Quizá la marea se lo haya tragado...
+[024200] Quizás Gianni nunca había... No lo sé...
+[028000]
+[030500] Es solo que su tumba no nos ha proporcionado nada, ni una pizca, nada de nada.
+[034000] Es todo muy interesante. Por supuesto, no digo que no.
+[036200] Créeme, pero ya no es lo mismo, ¿verdad?
+[039800] Hablas como una cotorra, Fabio. Un día te van a encerrar en una jaula.
+[043500] Oye, es sólo una corazonada,
+[045200] algo que tú serías incapaz de sentir.
+[050100] ¡Déjame comprobarla!
+[053200]
+[056400] Relax. Respira hondo.
+[060200]
+[061200] Si confiaras en tus corazonadas, Fabio, ahora serías rico, ¿no crees?
+[067300] Puede parecer cierto pero en realidad es solo un espejismo.
+[067300] Cuando mi padre me dejó siendo yo solo un chico,
+[073500] me confesó que él era especial, se creía un iluminado...
+[076600] tocado por algo más grande que un simple impulso.
+[080500] El tenía el Seraph,
+[083400] pero él era solo un peón más en la partida.
+[086800] Su muerte abrió el camino al verdadero elegido,
+[090500] su hijo. ¿Lo entiendes?
+[093700] Ten fe, Fabio, y déjate de corazonadas.
+[097200] Estamos buscando en el lugar correcto.
+[099900] Lo sé. Te creo, Marco.
+[102300] Bien. ¿Eros? ¿Has... arreglado el flotador?
+[110300]
+[111800] ¡Sí!

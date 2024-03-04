@@ -1,0 +1,10 @@
+[0000000] A continuación te enseñaré cómo se repta.
+[0002220] Primero, salta al bloque.
+[0004220] Ahora, mantén presionado el botón «reptar».
+[0007100] Esto me hará agachar.
+[0008200] Y mantenlo presionado mientras utilizas los botones de dirección,
+[0012160] para deslizarme por el hueco.
+[0014160] Al final, date la vuelta y déjame caer por el borde.
+[0018000] Asegúrate de que mantienes pulsado el botón «acción», 
+[0021000] de lo contrario, me caeré.
+[0022170] Ahora, suéltalo.

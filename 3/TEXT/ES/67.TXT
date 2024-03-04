@@ -1,0 +1,27 @@
+[30000] ¿Para quién trabajas?
+[32000] ¿Qué?
+[32700] Me has oído.
+[33200] No lo escuché, en serio. ¿Qué has dicho?
+[35000] Dije: ¿quién te contrató?
+[38000] ¡Aaah!, Miss Sophia Leigh.
+[40000] 
+[44000] ¿Quién es?, ¿qué es lo que hace?
+[46000] ¡No lo sé, de verdad! ¡No lo sé!
+[50000] Simplemente disparo a la gente por ella.
+[53000] Imagino que es un trabajo ético y recomendable.
+[56000] Sí, dedico mi tiempo a esto, tal y como hizo antes mi padre.
+[60000] ¿Cómo de mayor es esa Miss Leigh?
+[62000] No lo sé, veintitantos, treinta y pocos.
+[65000] Bien.
+[67000] Por algunas personas como tú misma, conseguimos una recompensa especial.
+[71000] Me siento adulada.
+[73000] Me refiero, incluso podría retirarme a tu costa.
+[76000] Entonces quizá te gustaría pensarlo... la campana.
+[79000]
+[83000] Feliz retirada...
+[85000]
+
+
+
+
+

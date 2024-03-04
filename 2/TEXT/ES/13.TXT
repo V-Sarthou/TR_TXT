@@ -1,0 +1,3 @@
+﻿[00000] Este conjunto de obstáculos es más fácil de atravesar utilizando mis saltos laterales.
+[04700] Pulsa «izquierda» o «derecha» a la misma vez que «saltar».
+[07700] También puedo saltar hacia atrás.

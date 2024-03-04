@@ -1,0 +1,2 @@
+﻿[00000] Intenta llegar aquí arriba.
+[02200] Pulsa «adelante» y mantén presionado el botón «acción».

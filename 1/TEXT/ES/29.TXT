@@ -1,0 +1,2 @@
+﻿[00000] Ahora, púlsalo de nuevo y, seguidamente, pulsa uno de los botones de dirección.
+[02700] y saltaré en esa dirección.

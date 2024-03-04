@@ -1,0 +1,4 @@
+﻿[00000] ¡Ah! ¡Aire!
+[03000] Utiliza «adelante» y «derecha» e «izquierda» para maniobrar en la superficie.
+[08400] Pulsa «saltar» para zambullirme de nuevo,
+[11300] o ve hasta el extremo y pulsa «acción» para trepar fuera.

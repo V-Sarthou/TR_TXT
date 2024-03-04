@@ -1,0 +1,3 @@
+﻿[00000] Coge carrerilla hacia la caja,
+[01100] y mientras presionas «adelante»,
+[02800] pulsa «acción» y saltaré sobre ella.

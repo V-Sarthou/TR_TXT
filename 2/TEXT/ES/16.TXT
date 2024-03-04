@@ -1,0 +1,2 @@
+﻿[00000] Zambullirse.
+[01500] Pulsa el botón «saltar» y los botones de dirección para guiarme.

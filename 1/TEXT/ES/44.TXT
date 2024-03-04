@@ -1,0 +1,3 @@
+﻿[00000] ¡Genial!
+[01500] Si hay una gran caída y yo no deseo hacerme daño saltándola,
+[04600] puedo dejarme caer, deslizándome suavemente y con precaución.

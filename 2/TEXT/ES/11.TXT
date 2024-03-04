@@ -1,0 +1,6 @@
+﻿[00000] De acuerdo, eso ha sido bastante difícil.
+[02500] Necesitas hacer un salto en carrera y luego pulsar «acción» para que me agarre al borde.
+[06500] Para realizar una carrerilla de manera adecuada,
+[08400] camina hasta el borde y pulsa «atrás» para saltar hacia atrás,
+[11900] si corres desde ahí hacia adelante y pulsas «saltar»,
+[14400] debería salirme bien.
