@@ -1,0 +1,3 @@
+﻿[00000] De acuerdo, este es un salto enorme.
+[01900] Así que realiza un salto en carrera exactamente igual que antes, exceptuando que en el momento en el que yo esté en el aire,
+[05700] tú debes pulsar y mantener el botón «acción» para hacer que me agarre al borde.

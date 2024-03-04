@@ -1,0 +1,3 @@
+[0000000] Ahora, púlsalo de nuevo,
+[0001400] y, seguidamente, pulsa uno de los botones de dirección,
+[0004500] y saltaré en esa dirección.

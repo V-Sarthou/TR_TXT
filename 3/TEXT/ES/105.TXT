@@ -1,0 +1,3 @@
+[0000000] Para sacarme del vehículo,
+[0004400] mantén pulsado el botón «saltar»,
+[0003400] y pulsa la dirección en la que deseas que me baje.

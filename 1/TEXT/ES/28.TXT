@@ -1,0 +1,3 @@
+﻿[00000] Vale.
+[01000] Vamos a dar unas volteretas.
+[02300] Pulsa el botón «saltar».

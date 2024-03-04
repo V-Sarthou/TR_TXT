@@ -1,0 +1,3 @@
+﻿[00000] Pulsa «atrás» y saltaré hacia atrás.
+[03500] Inmediatamente después, pulsa y mantén el botón «acción»,
+[06300] y yo me agarraré al borde mientras desciendo.

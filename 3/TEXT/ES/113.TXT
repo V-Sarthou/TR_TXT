@@ -1,0 +1,5 @@
+[0000000] Intenta llegar aquí arriba.
+[0001200] Pulsa «adelante» y mantén presionado el botón «acción».
+[0005100] No puedo trepar porque el boquete es demasiado pequeño,
+[0009000] pero pulsa «derecha» y me deslizaré lateralmente hasta que encuentre espacio,
+[0013200] entonces, pulsa «adelante» y treparé justo hasta arriba.

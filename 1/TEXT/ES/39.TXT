@@ -1,0 +1,4 @@
+﻿[00000] Camina hacia el extremo de la línea blanca hasta que yo me pare.
+[03200] Entonces suelta «andar» y pulsa «atrás» para darme carrerilla.
+[07700] Pulsa «adelante» y, casi inmediatamente, pulsa y mantén el botón de «salto».
+[12100] No saltaré hasta el último momento.

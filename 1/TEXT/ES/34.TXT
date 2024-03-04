@@ -1,0 +1,3 @@
+﻿[00000] Con el botón «andar» pulsado,
+[01600] no me caeré, aunque tú intentes tirarme.
+[04300] Atrévete, prueba.

@@ -1,0 +1,34 @@
+[014200] Tech 4 a 5. ¿Me escuchas, T-5? Tech…
+[018800] ¡Tony! Sé que estás ahí.
+[020200] 
+[021100] ¡Yuju!
+[023000] ¿Hola…? ¿Hola?
+[024000] ¿Qué es lo que quieres tú de mí ahora?
+[029000] Nada de particular, ¿estás bien?
+[031000] Si todos vosotros habéis parado, puede ser que esté bien.
+[035000] Únicamente cien por cien. Únicamente, aaah…
+[039000] Si todos vosotros habéis parado… ¿De quién estás hablando?
+[042000] Todos vosotros, cientos de vosotros.
+[044100] Hablando y conversando y conversando y destrozándome el cerebro.
+[048200] Mmm… No estoy muy segura de dónde vienes.
+[051200] Pero solo deseo saber cosas sobre el artefacto Infada,
+[054100] el del templo que hay arriba.
+[056000] ¿Magia vudú y todo eso?
+[057200] Yo no toqué el material.
+[059000] No es vudú.
+[060000] Mira, ¿hay alguna persona más que esté contigo?
+[063000] Sí, Randy y Rory, creo…
+[066000] ¿Randy y Rory? ¿Dónde?
+[068000] ¿Qué estáis haciendo todos vosotros aquí?
+[070100] Bueno, ellos se están quedando en el templo.
+[074000] Yo les dije que no lo hicieran. Les avisé primero.
+[077000] Creo que no estoy haciendo mucho. Ahora dudo.
+[080100] Bajo media tonelada de deslizante barro.
+[083000] Yo abandono. Cojo el próximo autobús.
+[086100] Esta jungla ha echado demasiadas raíces en mí.
+[089000] Te ofrezco el mismo aviso.
+[091100] Pero tú no pareces del tipo que les importa…
+[094000] tener cuidado si te dicen que vas a morir ahí dentro.
+[098000] Ja ja ja… 
+[099100] Morir…
+[102000] 

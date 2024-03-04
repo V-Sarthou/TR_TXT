@@ -1,0 +1,20 @@
+[008000] Miss Croft.
+[009000] ¿Estás preparada para firmar?
+[012000] ¿El qué?
+[013000] Mis libros.
+[014000] Verás, con tu estilo de vida serás mi mejor campaña publicitaria.
+[018000]
+[019000] Piensa que no necesitarás esas armas repugnantes.
+[021000]
+[023000] No, pero probablemente tendría una cara repugnante juzgando los experimentos anteriores.
+[028000] ¿De qué?
+[029000] Oh, sí. Ellos siguen estando vivos, de hecho, demasiado.
+[032000] Lo único que quiero es el artefacto.
+[034000] Correcto, en tu próxima vida.
+[036000]
+[038000] Nos veremos.
+[039000]
+
+
+
+

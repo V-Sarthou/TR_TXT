@@ -1,0 +1,4 @@
+﻿[00000] Esta solía ser la sala de baile,
+[01800] pero la he convertido en mi gimnasio personal.
+[04300] ¿Qué te parece?
+[05600] Bien, hagamos algunos ejercicios.

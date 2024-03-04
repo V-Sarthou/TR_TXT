@@ -1,0 +1,1 @@
+﻿El botón de «salto» y los botones de «dirección» son los que hacen que me mueva debajo del agua.

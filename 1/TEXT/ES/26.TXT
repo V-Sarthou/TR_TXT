@@ -1,0 +1,2 @@
+﻿[00000] ¡Bienvenido a mi casa!
+[01300] Te haré una visita guiada.

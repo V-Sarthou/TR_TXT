@@ -1,0 +1,6 @@
+[0000000] Vamos al gimnasio.
+[0001600] Aquellos de vosotros que hayáis estado aquí antes,
+[0004300] quizás notéis que la decoración es nueva.
+[0006680] ¿Qué os parece?
+[0007900] Bueno, vamos a hacer algo de ejercicio.
+[0010600] Creo que deberíamos hacerlo siguiendo un orden.

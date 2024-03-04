@@ -1,0 +1,9 @@
+[0000000] Ahora, mirando hacia arriba, 
+[0001190] podrás ver unas barras para los monos.
+[0004000] Parece divertido.
+[0005140] Pulsa el botón de «salto»,
+[0007000] entonces, inmediatamente, pulsa y mantén presionado el botón «acción»,
+[0011060] para hacer que yo salte y me agarre a una de las barras.
+[0014180] Ahora, utiliza los botones de dirección para maniobrar.
+[0018000] No dejes escapar la tecla de «acción»,
+[0020000] puesto que en el preciso instante en que tú lo hagas, yo me soltaré.

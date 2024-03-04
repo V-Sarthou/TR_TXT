@@ -1,0 +1,6 @@
+[0000000] Si tengo que realizar un salto que es demasiado largo para mí,
+[0003170] puedo aferrarme al filo y librarme así de una mala caída.
+[0007000] Camina hasta el borde al lado de la línea blanca,
+[0010000] hasta el punto en cual yo ya no pueda avanzar más.
+[0013000] Entonces, pulsa «saltar» inmediatamente seguido de «adelante»,
+[0017160] y mientras estoy en el aire, pulsa y mantén el botón «acción».
