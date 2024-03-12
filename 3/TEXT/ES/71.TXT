@@ -7,7 +7,7 @@
 [019000] Piensa que no necesitarás esas armas repugnantes.
 [021000]
 [023000] No, pero probablemente tendría una cara repugnante juzgando los experimentos anteriores.
-[028000] ¿De qué?
+[028000] ¿Mi qué?
 [029000] Oh, sí. Ellos siguen estando vivos, de hecho, demasiado.
 [032000] Lo único que quiero es el artefacto.
 [034000] Correcto, en tu próxima vida.

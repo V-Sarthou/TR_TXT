@@ -57,6 +57,7 @@ PUZ_MASK_OF_TORNARSUK=Maske des Tornarsuk
 PUZ_GOLD_NUGGET=Goldklumpen
 PUZ_ELEVATOR_JUNCTION=Fahrstuhlteil
 PUZ_DOOR_CIRCUIT=Platine
+PUZ_TALION=Der Talion
 KEY_GUARDHOUSE_KEY=Wachstuben-Schlüssel
 KEY_RUSTY_KEY=Rostiger Schlüssel
 KEY_BOATHOUSE_KEY=Bootshaus-Schlüssel
