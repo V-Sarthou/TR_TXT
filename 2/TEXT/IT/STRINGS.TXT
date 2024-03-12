@@ -57,6 +57,7 @@ PUZ_MASK_OF_TORNARSUK=Maschera di Tornarsuk
 PUZ_GOLD_NUGGET=Pepita d'oro
 PUZ_ELEVATOR_JUNCTION=Giunto per ascensore
 PUZ_DOOR_CIRCUIT=Circuito di porta
+PUZ_TALION=Il Taliono
 KEY_GUARDHOUSE_KEY=Chiave della guardiola
 KEY_RUSTY_KEY=Chiave arrugginita
 KEY_BOATHOUSE_KEY=Chiave della rimessa per barche
