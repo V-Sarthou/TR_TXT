@@ -1,7 +1,7 @@
 [01500] Avanti, entrate.
 [02500] Fate come se foste a casa vostra, questione di un minuto.
 [05100] A casa mia?!
-[06100] Ho appena incontrato uno che poteva essere "L'uomo mosca".
+[06100] Ho appena incontrato uno che poteva essere "l'uomo mosca".
 [09100] Affascinante, non è vero?
 [10800] Era uno dei tuoi dipendenti.
 [12400] Era un biologo molecolare,  
