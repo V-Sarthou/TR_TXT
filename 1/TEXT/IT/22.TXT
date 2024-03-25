@@ -1,13 +1,13 @@
-﻿[04300] Già di ritorno?
+﻿[04300] Ancora qui?
 [05700] Potrei dire lo stesso. In tempo per il grande evento, immagino.
 [09300] Siamo ad un punto morto per l’evoluzione. La selezione naturale è ai minimi storici.
 [13600] Spedire un po’ di carne fresca in giro favorirà le lotte territoriali,
 [17600] ci renderà più forti ed evoluti.
 [20400] Potrebbero addirittura nascere nuove specie.
 [22400] Un’evoluzione sotto steroidi, insomma.
-[24600] Più una spintarella.
-[26100] Quegli stolti di Qualopec e Tihocan non riuscivano a capire.
-[29400] Il cataclisma di Atlantis ha colpito un popolo di rammolliti,
+[24600] Più un calcio nel culo.
+[26100] Quegli stolti di Qualopec e Tihocan non avevano idee.
+[29400] Il cataclisma di Atlantide ha colpito un popolo di rammolliti,
 [33600] trascinandoli di nuovo alle basi della sopravvivenza...
 [37000] Non dovrebbe essere così.
 [38800] E nemmeno così.

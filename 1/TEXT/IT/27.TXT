@@ -1,1 +1,1 @@
-﻿Usa i tasti direzionali per dirigerti verso la sala della musica.
+﻿[00000] Usa i tasti direzionali per dirigerti verso la sala della musica.
