@@ -1,2 +1,2 @@
-[0000000] Pulsa «adelante» y mantén presionado el botón «reptar»
-[0003000] para hacer que me introduzca en el hueco.
+[00:00:000] Pulsa «adelante» y mantén presionado el botón «reptar»
+[00:03:000] para hacer que me introduzca en el hueco.

@@ -2,15 +2,15 @@
 [00:17:900] Tony, espèce de cinglé, je sais que t'es là !
 [00:20:700]
 [00:23:100] Hé ! Il y a quelqu'un ?
-[00:26:300] Quoi ? Qu'est-ce qu'il se passe encore ?
-[00:28:800] Rien qui puisse justifier votre état. Ça va ?
+[00:26:300] Quoi ? Qu'est-ce qui se passe encore ?
+[00:28:800] Rien qui puisse justifier votre état, ça va ?
 [00:32:400] Arrêtez tous et ça ira mieux. Ça ira même très bien ! Aahhh !
 [00:97:600] Arrêtez tous ? Mais de qui parlez-vous ?
-[00:40:900] Mais vous ! Vous Tous !
+[00:40:900] Mais vous ! Vous tous !
 [00:43:200] Toujours à brailler et à marmonner dans ma tête, dans mon cerveau !
 [00:47:600] Hmm... Oui bien sûr.
 [00:49:100] Je ne sais pas qui vous êtes
-[00:50:600] Mais je voudrais en savoir plus sur la statuette Infada.
+[00:50:600] Mais je voudrais en savoir plus sur la statue Infada.
 [00:52:700] Elle se trouve dans le temple, là-haut.
 [00:55:400] Vous parlez de ce truc vaudou ?
 [00:57:700] Je déteste la magie noire.
@@ -18,12 +18,12 @@
 [01:00:800] Attendez, vous êtes seul ici ?
 [01:02:700] Non, il y a Randy et Rory...
 [01:05:500] Randy et Rory... Où ça ? Qu'est-ce que vous faites ici ?
-[01:10:200] Et bien, ils sont là-bas, dans le temple.
+[01:10:200] Eh bien, ils sont là-bas, dans le temple.
 [01:14:200] Je leur avais dit de ne pas me provoquer.
 [01:19:300] C'est de leur faute. Ils sont coincés sous une tonne de boue, maintenant.
 [01:22:500] Moi, je file avec le prochain bus.
 [01:24:400] Cette jungle m'a assez empoisonné la vie.
-[01:26:700] Je vous recommaned d'en faire autant.
-[01:30:100] Mais vous allez ignorer mon conseil, non ?
+[01:26:700] Je vous recommande d'en faire autant.
+[01:30:100] Mais vous allez ignorer mon conseil, non ?
 [01:33:300] Vous ne me croirez pas si je vous dis que vous allez mourir !
-[01:37:200] Exactement, crevez comme une bête !
+[01:37:200] Exactement, crevez comme une bête !

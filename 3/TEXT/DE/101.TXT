@@ -1,2 +1,2 @@
-[000000] Willkommen in meinen bescheidenen vier Wänden.
-[002500] Schau dich nur in Ruhe um.
+[0:00:000] Willkommen in meinen bescheidenen vier Wänden.
+[0:02:500] Schau dich nur in Ruhe um.

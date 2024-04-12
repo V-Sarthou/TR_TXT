@@ -1,16 +1,16 @@
-﻿[04300] ¿De vuelta?
-[05700] Tú también, para la gran reapertura, supongo.
+﻿[04300] ¿Ya de vuelta?
+[05700] Igual que tú, para la gran reapertura, supongo.
 [09300] La evolución se ha detenido, ya no hay selección natural.
-[13600] El envío de carne fresca iniciará de nuevo las luchas territoriales
-[17600] lo que nos permitirá reforzarnos y avanzar.
+[13600] El envío de carne fresca iniciará de nuevo las luchas territoriales,
+[17600] así nos haremos más fuertes y avanzaremos.
 [20400] Y puede que incluso se creen nuevas razas.
 [22400] Una especie de evolución a lo bruto.
 [24600] Un empujoncito...
-[26100] Los idiotas de Qualopec y Tihocan no tenían ni idea,
-[29400] el cataclismo de la Atlantis golpeó a una raza de enclenques...
-[33600] hundiéndolos de nuevo en lo más básico de la supervivencia...
+[26100] Los idiotas de Qualopec y Tihocan no tenían ni idea.
+[29400] El cataclismo de Atlantis golpeó a una raza de enclenques,
+[33600] y los mandó de nuevo a lo más básico de la supervivencia...
 [37000] No debería volver a pasar de nuevo.
-[38800] O quizá sí.
+[38800] O quizás sí.
 [39900] La eclosión comenzará en 15 segundos.
 [42500] ¡Demasiado tarde para abortar!
 [45000] ¡No sin el núcleo de la operación!

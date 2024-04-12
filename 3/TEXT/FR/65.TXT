@@ -5,10 +5,10 @@
 [00:36:900]
 [00:39:700] Pourquoi vos ancêtres ont-ils quitté l'Antarctique ?
 [00:42:500] Koma-Koma, mauvais endroit.
-[00:45:100] Beaucoup de viande mais chose horrible
+[00:45:100] Beaucoup de viande mais chose horrible.
 [00:47:200] Monstre ! Sixième chef, Mauki, né sans visage.
-[00:51:600] Terrible tempête. Hommes effrayés s'enfuir !
-[00:55:000] Terre maudite, Mauki, tanné ! Personne ne retourne.
+[00:51:600] Terribles tempêtes, hommes effrayés, s'enfuir,
+[00:55:000] terre maudite, Mauki damné, personne ne retourne.
 [01:00:600] Et vous continuez à le vénérer ?
 [01:03:300] Homme blanc venir plus tard avec pierre magique, Koma-Koma.
 [01:07:200] Ensuite, fêter sa mort. Délicieux Smythe il paraît.

@@ -1,6 +1,6 @@
-﻿[00:00:000] Maintenant, regarde là-haut. Tu vois ces barres métalliques ?
-[00:03:000] Ça a l'air amusant.
-[00:03:400] Appuie sur la touche saut puis immédiatement après maintiens enfoncé la touche action
+﻿[00:00:000] Maintenant, regardez là-haut. Vous voyez ces barres métalliques ?
+[00:03:000] 
+[00:03:400] Appuyez sur la touche Saut puis immédiatement après maintenez enfoncée la touche Action
 [00:08:000] pour que je m'accroche à cette structure.
-[00:10:100] Utilise ensuite les touches directionnellespour me faire avancer.
-[00:12:800] Attention si tu relâches la touche action, je lâcherai prise.
+[00:10:100] Utilisez ensuite les touches directionnelles pour me faire avancer.
+[00:12:800] Attention si vous relâchez la touche Action, je lâcherais prise.

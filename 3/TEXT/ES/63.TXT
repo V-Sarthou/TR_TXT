@@ -1,41 +1,41 @@
-[019200] Así que tú debes estar detrás de Miss Leigh.
-[022100] Trabajo, no placer.
-[023100] He pensado obviamente que no hay revancha, hombre. No creo que tenga la suficiente cara de hacer eso.
-[028100] ¿Y tú tienes?
-[030100] ¿Cómo te atreves a preguntar eso?
-[033000] Yo ni siquiera tengo una cara.
-[036200] Vine aquí buscando trabajo. ¿Y qué es lo que me encuentro?
-[039100] Para la compañía cosmética de Miss Leigh y su trabajo de laboratorio…
-[043100] no es necesario tener experiencia. Dios me libre. Acostúmbrate a eso.
-[048100] Te bloquean en un tanque de flotación durante días y días. En un sirope pestilente. Y cuando por fin sales…
-[055100] te ha producido un montón de efectos como no tener rostro o carne.
-[059100] Y luego te abandonan aquí pensando que estás muerto.
-[063200] Entonces se trata de algún tipo de experimento fallido.
-[066000] Sí, es así.
-[067200] Pero cuidado con los insultos añadidos. Ya que yo intento llevar mi propia vida.
-[073100] Encontré simplemente que no funcionaba.
-[075100] ¿Te refieres a que Sophia está probando algún tipo de poder inmortal?
-[078200] Solamente con la marca en la cara de ella…
-[081000] ¿Por qué tú te conservas tan guapa?
-[083000] Evidentemente, no lo ha desarrollado por completo.
-[085000] Pero consigue los mejores resultados para ella.
-[087200] Mira, no me preocupa en absoluto cuáles puedan ser tus negocios con ella.
-[091000] No puede ser más inútil de lo que es ahora.
-[093000] Así que voy a abandonar mi misión para ayudarte.
-[096000] Pero eso sí, después de que hagas aquí algo por nosotros, como…
-[100100] Muy generoso por tu parte.
-[102000] ¿Qué es lo que quieres?
-[103100] Un bote de ese producto momificador y conservador del museo de historia natural.
-[107200] ¿Líquido de embalsamar?
-[109000] Estate atenta, con la carne putrefacta no puedes verla.
-[112100] Me han contado que el museo es interesante, te gustará.
-[115000] ¿Entonces por qué no vas tú mismo?
-[116100] Una de las chicas egipcias está un poco harta de gente como yo.
-[119200] No consiguió la inmortalidad del modo que la deseaba.
-[122100] Y viendo que nosotros lo hicimos mejor que ella…
-[125000] No necesito imaginar qué es lo que hubiéramos obtenido…
-[127100] si lo hubiésemos hecho peor de lo que lo hicimos.
-[131100] Tú estarás bien…
-[132200] Mueres fácilmente.
-[134000] Gracias.
-[135100]
+[0:19:200] Así que tú debes estar detrás de Miss Leigh.
+[0:22:100] Trabajo, no placer.
+[0:23:100] He pensado obviamente que no hay revancha, hombre. No creo que tenga la suficiente cara de hacer eso.
+[0:28:100] ¿Y tú tienes?
+[0:30:100] ¿Cómo te atreves a preguntar eso?
+[0:33:000] Yo ni siquiera tengo una cara.
+[0:36:200] Vine aquí buscando trabajo. ¿Y qué es lo que me encuentro?
+[0:39:100] Para la compañía cosmética de Miss Leigh y su trabajo de laboratorio
+[0:43:100] no es necesario tener experiencia. Dios me libre. Acostúmbrate a eso.
+[0:48:100] Te bloquean en un tanque de flotación durante días y días en un sirope pestilente. Y cuando por fin sales,
+[0:55:100] te ha producido un montón de efectos como no tener rostro o carne.
+[0:59:100] Y luego te abandonan aquí pensando que estás muerto.
+[1:03:200] Entonces se trata de algún tipo de experimento fallido.
+[1:06:000] Sí, es así.
+[1:07:200] Pero cuidado con los insultos añadidos, ya que yo intento llevar mi propia vida.
+[1:13:100] Encontré simplemente que no funcionaba.
+[1:15:100] ¿Te refieres a que Sophia está probando algún tipo de poder inmortal?
+[1:18:200] Solamente con la marca en la cara de ella…
+[1:21:000] ¿Por qué tú te conservas tan guapa?
+[1:23:000] Evidentemente, no lo ha desarrollado por completo,
+[1:25:000] pero consigue los mejores resultados para ella.
+[1:27:200] Mira, no me preocupa en absoluto cuáles puedan ser tus negocios con ella.
+[1:31:000] No puede ser más inútil de lo que es ahora.
+[1:33:000] Así que voy a abandonar mi misión para ayudarte.
+[1:36:000] Pero eso sí, después de que hagas aquí algo por nosotros, como…
+[1:40:100] Muy generoso por tu parte.
+[1:42:000] ¿Qué es lo que quieres?
+[1:43:100] Un bote de ese producto momificador y conservador del museo de historia natural.
+[1:47:200] ¿Líquido de embalsamar?
+[1:49:000] Estate atenta, con la carne putrefacta no puedes verla.
+[1:52:100] Me han contado que el museo es interesante, te gustará.
+[1:55:000] ¿Entonces por qué no vas tú mismo?
+[1:56:100] Una de las chicas egipcias está un poco harta de gente como yo.
+[1:59:200] No consiguió la inmortalidad del modo que la deseaba.
+[2:02:100] Y viendo que nosotros lo hicimos mejor que ella…
+[2:05:000] No necesito imaginar qué es lo que hubiéramos obtenido
+[2:07:100] si lo hubiésemos hecho peor de lo que lo hicimos.
+[2:11:100] Tú estarás bien…
+[2:12:200] Mueres fácilmente.
+[2:14:000] Gracias.
+[2:15:100]

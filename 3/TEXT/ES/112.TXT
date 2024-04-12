@@ -1,5 +1,5 @@
-[0000000] ¡Aire!
-[0002400] Únicamente utiliza «adelante» y «derecha» e «izquierda» para maniobrar en la superficie.
-[0007800] Pulsa «saltar» para zambullirme de nuevo,
-[0010300] o ve hasta el extremo y pulsa «acción» para trepar fuera.
+[00:00:000] ¡Aire!
+[00:02:400] Únicamente utiliza «adelante» y «derecha» e «izquierda» para maniobrar en la superficie.
+[00:07:800] Pulsa «saltar» para zambullirme de nuevo,
+[00:10:300] o ve hasta el extremo y pulsa «acción» para trepar fuera.
  

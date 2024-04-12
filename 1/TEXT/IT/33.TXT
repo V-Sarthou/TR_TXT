@@ -1,3 +1,3 @@
-﻿[00000] Non è vero che corro sempre dappertutto.
-[02300] Quando voglio prestare attenzione, preferisco camminare.
-[04500] Tieni premuto cammina e raggiungi la linea bianca.
+﻿[00000] A dire il vero, non corro sempre dappertutto.
+[02300] Quando voglio essere prudente, cammino.
+[04500] Tieni premuto il tasto cammina e raggiungiamo la linea bianca.

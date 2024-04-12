@@ -1,5 +1,5 @@
-﻿[00000] Para realizar ese salto de manera correcta,
-[01800] necesito caminar hacia atrás lo más alejada posible del borde,
-[04600] luego realiza un salto en carrera exactamente igual que antes
-[06900] o puedes caminar hasta el borde,
-[08400] salta hacia delante y pulsa «acción» para hacer que me agarre al borde.
+﻿[00000] Para hacer bien ese salto,
+[01800] tengo que alejarme todo lo posible del borde
+[04600] y luego hacer un salto en carrera exactamente igual que antes.
+[06900] O puedes caminar hasta el borde,
+[08400] saltar hacia delante y pulsar «acción» para hacer que me agarre al borde.

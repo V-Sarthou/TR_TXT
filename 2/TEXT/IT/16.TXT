@@ -1,2 +1,2 @@
-[000000] Per nuotare sott'acqua,
-[001100] premi il tasto salto assieme ai tasti direzionali.
+﻿[0:00:000] Per nuotare sott'acqua
+[0:01:100] premi il pulsante salto assieme ai tasti direzionali.

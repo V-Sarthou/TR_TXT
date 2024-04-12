@@ -1,2 +1,2 @@
 ﻿[00:00:000] Pour me faire nager sous l'eau,
-[00:01:500] utilisez la commande de saut et les commandes de direction pour me guider.
+[00:01:500] utilisez la commande de Saut et les commandes de direction pour me guider.

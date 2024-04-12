@@ -1,3 +1,3 @@
-﻿[00:00:000] Si vous appuyez encore sur la touche de marche,
-[00:01:600] je ne tomberai pas, même si vous insistez.
+﻿[00:00:000] Si vous appuyez encore sur la touche de Marche,
+[00:01:600] je ne tomberais pas, même si vous insistez.
 [00:04:000] Allez-y, essayez.

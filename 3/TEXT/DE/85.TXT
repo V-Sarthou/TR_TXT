@@ -1,1 +1,1 @@
-[000000] Die Turnstunde ist noch nicht zu Ende.
+﻿[0:00:000] Die Turnstunde ist noch nicht zu Ende.

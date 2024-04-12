@@ -1,7 +1,7 @@
-[000000] Wenn du jetzt hochblickst, siehst du die Griffe.
-[002600] Drücke die Sprung-Taste und halte gleich darauf
-[004800] die Handlungs-Taste gedrückt,
-[006300] damit ich springe und mir die Griffe schnappe.
-[008700] Führe mich jetzt mit den Richtungs-Tasten zur anderen Seite.
-[012000] Gib die Handlungs-Taste bloß nicht frei,
-[014400] denn wenn du loslässt, lasse ich die Griffe los.
+[0:00:000] Wenn du jetzt hochblickst, siehst du die Griffe.
+[0:02:600] Drücke die Sprung-Taste und halte gleich darauf
+[0:04:800] die Handlungs-Taste gedrückt,
+[0:06:300] damit ich springe und mir die Griffe schnappe.
+[0:08:700] Führe mich jetzt mit den Richtungs-Tasten zur anderen Seite.
+[0:12:000] Gib die Handlungs-Taste bloß nicht frei,
+[0:14:400] denn wenn du loslässt, lasse ich die Griffe los.

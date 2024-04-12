@@ -1,4 +1,4 @@
 ﻿[00:00:000] Faisons un petit sprint.
-[00:01:500] Appuie sur avancer et maintiens enfoncé la touche courir.
+[00:01:500] Appuyez sur Avancer et maintenez enfoncée la touche Courir.
 [00:04:800] Quand j'atteins la ligne blanche,
-[00:05:900] appuie sur sauter pour me faire plonger.
+[00:05:900] appuyez sur sauter pour me faire plonger.

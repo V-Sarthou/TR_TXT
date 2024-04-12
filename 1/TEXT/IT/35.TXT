@@ -1,3 +1,3 @@
 ﻿[00000] Se vuoi dare uno sguardo intorno,
 [01500] premi e tieni premuto guarda.
-[03400] Quindi sposta il mio sguardo nella direzione che preferisci.
+[03400] Quindi premi nella di direzione in cui devo osservare.

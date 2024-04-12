@@ -1,8 +1,8 @@
-﻿[00:00:000] Je vais te montrer comment ramper.
-[00:01:700] D'abord place-toi sur ce bloc.
-[00:04:200] Maintiens enfoncé la touche ramper,
+﻿[00:00:000] Je vais vous montrer comment ramper.
+[00:01:700] D'abord placez-vous sur ce bloc.
+[00:04:200] Maintenez enfoncée la touche Ramper
 [00:05:900] pour que je m'accroupisse,
-[00:07:200] puis sers-toi des touches directionnelles.
-[00:10:700] À la fin du passage fais demi-tour et laisse moi au bord.
-[00:14:900] Si tu relâche la touche action je vais tomber.
-[00:18:100] C'est bon, lâche maintenant.
+[00:07:200] puis servez-vous des touches directionnelles.
+[00:10:700] À la fin du passage faites demi-tour et laissez-moi au bord.
+[00:14:900] Si vous relâchez la touche Action, je vais tomber.
+[00:18:100] C'est bon, lâchez maintenant.

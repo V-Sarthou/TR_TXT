@@ -1,1 +1,1 @@
-Il tasto salto assieme a quelli direzionali serve per muovermi sott'acqua.
+﻿Il tasto salto, assieme a quelli direzionali, serve per muovermi sott'acqua.

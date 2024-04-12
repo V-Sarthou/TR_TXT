@@ -1,34 +1,34 @@
-[014200] Tech 4 a 5. ¿Me escuchas, T-5? Tech…
-[018800] ¡Tony! Sé que estás ahí.
-[020200] 
-[021100] ¡Yuju!
-[023000] ¿Hola…? ¿Hola?
-[024000] ¿Qué es lo que quieres tú de mí ahora?
-[029000] Nada de particular, ¿estás bien?
-[031000] Si todos vosotros habéis parado, puede ser que esté bien.
-[035000] Únicamente cien por cien. Únicamente, aaah…
-[039000] Si todos vosotros habéis parado… ¿De quién estás hablando?
-[042000] Todos vosotros, cientos de vosotros.
-[044100] Hablando y conversando y conversando y destrozándome el cerebro.
-[048200] Mmm… No estoy muy segura de dónde vienes.
-[051200] Pero solo deseo saber cosas sobre el artefacto Infada,
-[054100] el del templo que hay arriba.
-[056000] ¿Magia vudú y todo eso?
-[057200] Yo no toqué el material.
-[059000] No es vudú.
-[060000] Mira, ¿hay alguna persona más que esté contigo?
-[063000] Sí, Randy y Rory, creo…
-[066000] ¿Randy y Rory? ¿Dónde?
-[068000] ¿Qué estáis haciendo todos vosotros aquí?
-[070100] Bueno, ellos se están quedando en el templo.
-[074000] Yo les dije que no lo hicieran. Les avisé primero.
-[077000] Creo que no estoy haciendo mucho. Ahora dudo.
-[080100] Bajo media tonelada de deslizante barro.
-[083000] Yo abandono. Cojo el próximo autobús.
-[086100] Esta jungla ha echado demasiadas raíces en mí.
-[089000] Te ofrezco el mismo aviso.
-[091100] Pero tú no pareces del tipo que les importa…
-[094000] tener cuidado si te dicen que vas a morir ahí dentro.
-[098000] Ja ja ja… 
-[099100] Morir…
-[102000] 
+[0:14:200] Tech 4 a 5. ¿Me escuchas, Tech 5? Tech…
+[0:18:800] ¡Tony! Sé que estás ahí.
+[0:20:200] 
+[0:21:100] ¡Yuju!
+[0:23:000] ¿Hola…? ¿Hola?
+[0:24:000] ¿Qué es lo que quieres tú de mí ahora?
+[0:29:000] Nada de particular, ¿estás bien?
+[0:31:000] Si todos vosotros habéis parado, puede ser que esté bien.
+[0:35:000] Únicamente cien por cien. Únicamente, aaah…
+[0:39:000] Si todos vosotros habéis parado… ¿De quién estás hablando?
+[0:42:000] Todos vosotros, cientos de vosotros.
+[0:44:100] Hablando y conversando y conversando y destrozándome el cerebro.
+[0:48:200] Mmm… No estoy muy segura de dónde vienes,
+[0:51:200] Pero solo deseo saber cosas sobre el artefacto infada,
+[0:54:100] el del templo que hay arriba.
+[0:56:000] ¿Magia vudú y todo eso?
+[0:57:200] Yo no toqué el material.
+[0:59:000] No es vudú.
+[1:00:000] Mira, ¿hay alguna persona más que esté contigo?
+[1:03:000] Sí, Randy y Rory, creo…
+[1:06:000] ¿Randy y Rory? ¿Dónde?
+[1:08:000] ¿Qué estáis haciendo todos vosotros aquí?
+[1:10:100] Bueno, ellos se están quedando en el templo.
+[1:14:000] Yo les dije que no lo hicieran. Les avisé primero.
+[1:17:000] Creo que no estoy haciendo mucho. Ahora dudo.
+[1:20:100] Bajo media tonelada de deslizante barro.
+[1:23:000] Yo abandono. Cojo el próximo autobús.
+[1:26:100] Esta jungla ha echado demasiadas raíces en mí.
+[1:29:000] Te ofrezco el mismo aviso.
+[1:31:100] Pero tú no pareces del tipo que les importa…
+[1:34:000] tener cuidado si te dicen que vas a morir ahí dentro.
+[1:38:000] Ja, ja, ja… 
+[1:39:100] Morir…
+[1:42:000] 

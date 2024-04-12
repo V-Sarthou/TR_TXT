@@ -1,29 +1,29 @@
 ﻿[00:05:800] Qu'est-ce que vous faites ici ?
-[00:07:500] N'approchez pas. Vous n'êtes blessée ou malade au moins ?
+[00:07:500] N'approchez pas. Vous n'êtes pas blessée ou malade au moins ?
 [00:10:800] Rien de tout ça.
 [00:11:700] Tant mieux.
 [00:12:800] Je dois faire attention. Les microbes c'est pas bon pour moi.
 [00:17:500] Oh, je comprends.
 [00:19:200] Que vous est-il arrivé ?
 [00:29:900] Je me suis réveillé dans la jungle avec un de ces types en train de me bouffer la jambe.
-[00:24:700] Un cannibal ? Je ne crois pas qu'ils aiment manger les êtres vivants.
+[00:24:700] Un cannibale ? Je ne crois pas qu'ils aiment manger des êtres vivants.
 [00:28:200] Il faisait nuit, je n'ai pas pu lui mettre la main dessus, alors je ne suis sûr de rien.
 [00:33:200] Il y a quelque chose de terrifiant dans cette jungle.
 [00:37:400] Notre avion s'est écrasé dans les montagnes.
 [00:40:000] Chaque nuit, plusieurs de mes hommes disparaissaient.
-[00:42:300] D'autres s'enfuyaient, terrifiés.
+[00:42:300] D'autres senfuyaent, terrifiés.
 [00:44:600] Puis ceci est arrivé.
-[00:47:000] Alors j'ai ammené mes gars sur la côte en pensant que ce serait plus sûr. Mais on est tombés sur ces voraces, 
+[00:47:000] Alors j'ai amené mes gars sur la côte en pensant que ce serait plus sûr. Mais on est tombés sur ces voraces 
 [00:52:000] qui nous offrent en sacrifice à leur divinité.
 [00:54:700] Mais moi, on dirait que je ne suis pas inscrit au menu.
 [00:57:800] Peut-être vous réservent-ils pour le dessert ?
 [01:00:400] Ils préfèrent sans doute la chair mûre.
 [01:02:600] Vous croyez ?
 [01:03:700] Écoutez, on ferait mieux de filer d'ici.
-[01:06:100] Connaissez-vous le chemin qu'emprunte la tribue pour traverser le marais ?
+[01:06:100] Connaissez-vous le chemin qu'emprunte la tribu pour traverser le marais ?
 [01:09:500] Sur quelles pierres marchent-ils ?
 [01:11:100] Oui, je connais ce passage.
-[01:12:800] Mais moi je reste ici. Avec cette blessure, dans les marécages, ça serait la gangrène assurée.
+[01:12:800] Mais moi je reste ici. Avec cette blessure, aller dans les marécages, ça serait la gangrène assurée.
 [01:15:900] Je préfère encore être le plat de résistance de ces sauvages.
 [01:22:600] Si vous voyez un de mes gars encore vivant,
 [01:24:800] dirigez-le vers la côte nord. C'est le seul moyen de s'en sortir.

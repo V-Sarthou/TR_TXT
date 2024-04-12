@@ -1,2 +1,2 @@
-[0000000] De acuerdo, vamos a practicar algunas caídas,
-[0003400] pulsa el botón «salto».
+[00:00:000] De acuerdo, vamos a practicar algunas caídas.
+[00:03:400] Pulsa el botón «salto».

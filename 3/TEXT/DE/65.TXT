@@ -1,24 +1,24 @@
-[22300] Ugachaka, Ugachaka, Hrrrrrheh ...
-[25600] Du haben Gluck, dass ich heute fasten.
-[29000] Du sein schön fleischiges Stuck.
-[31700] Du vergisst, dass ich vielleicht selbst Appetit habe ...
-[34000] ... ja regelrecht ausgehungert bin.
-[36500] 
-[38100] Warum sind deine Vorfahren überhaupt aus der Antarktis geflüchtet?
-[41100] Ooh, Koma-Koma, boser Ort.
-[44500] Viel Fleisch, aber Preis sein zu hoch.
-[47700] Boses, zerhacken. Sechster Anfuhrer, Mauki,
-[52000] ohne Gesicht geboren.
-[54000] Furchtbare Sturme. Männer Angst. Liefen weg.
-[57800] Land mit Maukis Fluch. Heute gehen keiner mehr dorthin.
-[61600] Aber ihr betet es noch an?
-[63200] Weißer Bursche kam später, mit magischem Koma-Koma-Stein.
-[68100] In ein Tag feiern wir sein Tod ...
-[71800] ... das Smythe-Fest.
-[74700] Einer von Darwins Matrosen. Der arme Tölpel.
-[77600] Wo ist der Stein jetzt?
-[79600] 
-[88300] Wer dich kielholen haben Gluck.
-[90900] Stramme Seemannsbraut.
-[93400] Ich werde es ihm ausrichten.
-[95400] 
+[0:22:300] Ugachaka, Ugachaka, Hrrrrrheh ...
+[0:25:600] Du haben Gluck, dass ich heute fasten.
+[0:29:000] Du sein schön fleischiges Stuck.
+[0:31:700] Du vergisst, dass ich vielleicht selbst Appetit habe ...
+[0:34:000] ... ja regelrecht ausgehungert bin.
+[0:36:500] 
+[0:38:100] Warum sind deine Vorfahren überhaupt aus der Antarktis geflüchtet?
+[0:41:100] Ooh, Koma-Koma, boser Ort.
+[0:44:500] Viel Fleisch, aber Preis sein zu hoch.
+[0:47:700] Boses, zerhacken. Sechster Anfuhrer, Mauki,
+[0:52:000] ohne Gesicht geboren.
+[0:54:000] Furchtbare Sturme. Männer Angst. Liefen weg.
+[0:57:800] Land mit Maukis Fluch. Heute gehen keiner mehr dorthin.
+[1:01:600] Aber ihr betet es noch an?
+[1:03:200] Weißer Bursche kam später, mit magischem Koma-Koma-Stein.
+[1:08:100] In ein Tag feiern wir sein Tod ...
+[1:11:800] ... das Smythe-Fest.
+[1:14:700] Einer von Darwins Matrosen. Der arme Tölpel.
+[1:17:600] Wo ist der Stein jetzt?
+[1:19:600] 
+[1:28:300] Wer dich kielholen haben Gluck.
+[1:30:900] Stramme Seemannsbraut.
+[1:33:400] Ich werde es ihm ausrichten.
+[1:35:400] 

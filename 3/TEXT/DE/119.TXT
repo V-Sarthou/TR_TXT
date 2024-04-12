@@ -1,9 +1,9 @@
-[000000] Als nächstes zeige ich dir, wie ich krieche.
-[002500] Springe auf den Block.
-[003800] Halte die Kriech-Taste gedrückt, damit ich mich ducke.
-[006400] Halte die Kriech-Taste weiter gedrückt und führe mich 
-[008700] mit den Richtungs-Tasten durch die Öffnung.
-[010800] Dreh mich am Ende um und lass mich bei
-[012400] gedrückter Handlungs-Taste von der Kante springen.
-[014600] Halte die Handlungs-Taste, sonst stürze ich ab.
-[017300] Jetzt kannst du sie loslassen.
+[0:00:000] Als nächstes zeige ich dir, wie ich krieche.
+[0:02:500] Springe auf den Block.
+[0:03:800] Halte die Kriech-Taste gedrückt, damit ich mich ducke.
+[0:06:400] Halte die Kriech-Taste weiter gedrückt und führe mich 
+[0:08:700] mit den Richtungs-Tasten durch die Öffnung.
+[0:10:800] Dreh mich am Ende um und lass mich bei
+[0:12:400] gedrückter Handlungs-Taste von der Kante springen.
+[0:14:600] Halte die Handlungs-Taste, sonst stürze ich ab.
+[0:17:300] Jetzt kannst du sie loslassen.

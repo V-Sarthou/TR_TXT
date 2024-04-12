@@ -1,3 +1,3 @@
-[000000] Non è vero che corro sempre dappertutto.
-[002100] Quando bisogna prestare attenzione, preferisco camminare.
-[004800] Tieni premuto il tasto cammina e raggiungi la linea bianca.
+[0:00:000] Non è vero che corro sempre dappertutto.
+[0:02:100] Quando bisogna essere cauti, preferisco camminare.
+[0:04:800] Tieni premuto il tasto cammina e raggiungi la linea bianca.

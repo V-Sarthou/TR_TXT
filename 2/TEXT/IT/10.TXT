@@ -1,5 +1,5 @@
-[000000] Per completare con successo un salto,
-[001800] ho bisogno di allontanarmi quanto più possibile dall'orlo
-[004400] e prendere una bella rincorsa.
-[005900] Oppure puoi camminare fino al ciglio,
-[007600] saltare in avanti e premere il tasto azione per farmi aggrappare all'estremità opposta.
+[0:00:000] Per completare con successo un salto,
+[0:01:800] ho bisogno di allontanarmi quanto più possibile dall'orlo
+[0:04:400] e prendere una bella rincorsa.
+[0:05:900] Oppure puoi camminare fino al ciglio,
+[0:07:600] saltare in avanti e premere il tasto azione per farmi aggrappare all'estremità opposta.

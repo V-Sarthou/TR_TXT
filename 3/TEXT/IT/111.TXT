@@ -1,5 +1,5 @@
-[000000] Spostiamoci in palestra.
-[001600] Se sei già stato qui in precedenza, forse avrai notato il nuovo arredo.
-[004900] Niente male, vero?
-[006100] Bene, ma adesso riprendiamo gli esercizi.
-[009200] Credo che dovremo affrontarli in ordine.
+[0:00:000] Spostiamoci in palestra.
+[0:01:600] Se l'hai già visita, forse avrai notato il nuovo arredo.
+[0:04:900] Niente male, vero?
+[0:06:100] Bene, ma adesso riprendiamo gli esercizi.
+[0:09:200] Credo che dovremo affrontarli in ordine.

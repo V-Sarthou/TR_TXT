@@ -1,1 +1,1 @@
-﻿[00:00:000] Pour monter dessus, marche sur le véhicule et appuie sur la touche action.
+﻿[00:00:000] Pour monter dessus, marchez vers le véhicule et appuyez sur la touche Action.

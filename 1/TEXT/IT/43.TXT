@@ -1,3 +1,3 @@
-﻿[00000] Non posso arrampicarmi perché non c'è spazio, 
-[02700] premi a destra per farmi scivolare lentamente finché puoi
-[06300] e quindi premi in avanti per farmi salire.
+﻿[00000] Non posso arrampicarmi perché la fenditura è troppo stretta.
+[02700] Dunque premi destra per farmi spostare di lato finché non ci sarà più spazio
+[06300] e quindi premi in avanti.

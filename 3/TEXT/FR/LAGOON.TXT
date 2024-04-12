@@ -2,14 +2,14 @@
 [00:06:100]
 [00:10:500] Ne vous inquiétez pas, je n'ai rien à voir avec l'autre dégénéré. Mademoiselle ?
 [00:14:700] Croft. Lara Croft.
-[00:15:700] Et moi je suis la docteur Willard.
+[00:15:700] Et moi je suis le docteur Willard.
 [00:17:700] J'étais venu pour parler avec Tony,
 [00:19:600] mais vous avez été plus persuasive que moi, c'était remarquable. 
 [00:22:400] J'aimerais vous proposer un travail.
 [00:25:000] De quel genre ? Éliminer un autre de vos employés ? Non, merci.
 [00:28:800] Ne vous inquiétez pas, il ne reste plus personne à neutraliser.
 [00:32:800] Non, je souhaite retrouver d'autres reliques comme celle-ci.
-[00:35:900] La tribue Infada ne possédait qu'une seule statuette de ce genre.
+[00:35:900] La tribu Infada ne possédait qu'une seule statuette de ce genre.
 [00:39:400] Elle est unique. Et puis, que voulez-vous en faire ?
 [00:42:900] Je vais vous montrer.
 [00:43:800]
@@ -21,19 +21,19 @@
 [00:59:800] Né sur une mystérieuse planète, sculpté par des Polynésiens, 
 [01:04:200] volé par des explorateurs. Nos recherches nous ont menés jusqu'à ce site.
 [01:08:800] Le journal de bord d'un marin embarqué sur le Beagle, lors de l'expédition de Charles Darwin.
-[01:14:800] Le 14 août 1834.
+[01:14:800] 14 août 1834.
 [01:17:800] Ce voyage devient trop monotone pour continuer mon journal de bord.
 [01:22:500] Mes aventures en mer sont loin d'être exaltantes.
-[01:25:600] Je n'ai relaté que d'interminables heures d'observation
+[01:25:600] Je n'ai à relater que d'interminables heures d'observation
 [01:28:500] de la flore locale et des oiseaux.
 [01:31:000] Je refuse également de noter les idées blasphématrices du professeur Darwin.
 [01:36:400] Ce qui me préoccupe pour l'instant c'est la nourriture.
-[01:40:300] Il me faut quelque chose de plus consistent que ce répugnant bouillon de légumes.
+[01:40:300] Il me faut quelque chose de plus consistant que ce répugnant bouillon de légumes.
 [01:45:200] Cette fois, nous avons décidé que le seul spécimen que nous récolterons aujourd'hui
 [01:50:300 sera un bout de viande ferme et bien saignant.
 [01:54:000]
 [02:05:000] Il n'y a plus de neige. Les traces ont disparu.
-[02:08:300] Continue donc, nous sommes tout proche.
+[02:08:300] Continue donc, nous sommes tout proches.
 [02:10:900]
 [02:30:800] Il y a quelque chose ici !
 [02:33:000]
@@ -45,14 +45,14 @@
 [02:51:500]
 [02:52:000] Paul...
 [02:52:000]
-[02:54:000] Aaaahh !
+[02:54:000] Aaaah !
 [03:00:600]
 [03:08:400] Stephen, dépêche-toi !
-[03:12:400] Rate-le pas, Stephen !
+[03:12:400] Hâte le pas, Stephen !
 [03:19:100] Cours !
 [03:19:600] Plus vite !
-[03:18:300] Plus vite !
-[03:20:700] Stephen ! Plus vite ! Plus vite ! Stephen cours, cours !
+[03:18:300] Plus viiite !
+[03:20:700] Stephen ! Plus vite ! Plus viiite ! Stephen cours, cours !
 [03:26:500]
 [03:41:000] Nous sommes bien d'accord ?! Pas un mot au professeur,
 [03:44:300] il nous enverrait chasser cette maudite créature pour la ramener à Londres.

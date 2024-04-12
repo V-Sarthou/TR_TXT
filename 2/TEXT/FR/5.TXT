@@ -1,4 +1,4 @@
 ﻿[00:00:000] Bienvenue dans ma deuxième aventure.
 [00:01:800] Après une année de business intense,
-[00:03:900] J'ai imaginé ce petit cour de combat pour éviter de rouiller,
+[00:03:900] j'ai imaginé ce petit cours de combat pour éviter de rouiller,
 [00:05:800] améliorer mes techniques et en apprendre de nouvelles.

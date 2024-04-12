@@ -1,4 +1,4 @@
-[0000000] De acuerdo, este es un salto enorme,
-[0002400] así que realiza un salto en carrera exactamente igual que antes,
-[0006300] exceptuando que en el momento en el que yo esté en el aire,
-[0009200] tú debes pulsar y mantener el botón «acción» para hacer que me agarre al borde.
+[00:00:000] De acuerdo, este es un salto enorme,
+[00:02:400] así que realiza un salto en carrera exactamente igual que antes,
+[00:06:300] exceptuando que en el momento en el que yo esté en el aire,
+[00:09:200] tú debes pulsar y mantener el botón «acción» para hacer que me agarre al borde.

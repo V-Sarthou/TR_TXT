@@ -3,23 +3,23 @@
 [050700] Buono a sapersi.
 [052700] Anche se, a dire la verità, non sono io a volere le tue attenzioni.
 [054800] Ah no?
-[055200] No. È la signora Jacqueline Natla, della Natla Technologies.
+[055200] No. È Miss Jacqueline Natla, della Natla Technologies.
 [060500] Sai, no? La creatrice di meraviglie.
 [064600] Chiudi il becco, Larson.
 [066100] Signora.
 [067400]
 [068200] Rifatti gli occhi, Lara.
-[070800] Non ti piacerebbe riempirti un po’ il portafoglio?
-[073400] Mi dispiace. I soldi non mi interessano.
+[070800] Non ti piacerebbe riempirti un po' il portafoglio?
+[073400] Mi dispiace. Io lo faccio solo per divertimento.
 [076300] Allora potrebbe interessarti un parco giochi.
 [078300] Perù.
 [080000] Vaste catene montuose.
-[082500] Muri di ghiaccio.
-[084800] Dirupi rocciosi. Venti impetuosi.
-[087500] E c’è anche un piccolo premio.
-[089500] Un antico artefatto dai poteri mistici,
+[082500] Pareti di ghiaccio a strapiombo.
+[084800] Rupi rocciose. Venti impetuosi.
+[087500] E c'è anche un piccolo ninnolo.
+[089500] Un antico manufatto dai poteri mistici,
 [092100] sepolto nella tomba perduta di Qualopec.
 [096200] Questo è ciò che mi interessa.
 [098200] Potresti partire domani.
-[100100] Hai altri impegni?
+[100100] Hai altri impegni domani?
 [102800]

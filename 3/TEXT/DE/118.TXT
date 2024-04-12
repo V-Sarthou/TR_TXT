@@ -1,7 +1,7 @@
-[000000] Mit etwas Anlauf schaffe ich einen solchen Sprung. Kein Problem.
-[004000] Gehe zur Kante mit dem weißen Strich, bis ich anhalte,
-[006600] lass dann die Geh-Taste los und drücke kurz auf rückwärts,
-[009500] damit ich Anlauf nehmen kann.
-[011200] Drücke jetzt vorwärts und fast gleichzeitig die Sprung-Taste.
-[014500] Halte die Sprung-Taste gedrückt.
-[016200] Ich spring dann erst im allerletzten Moment.
+[0:00:000] Mit etwas Anlauf schaffe ich einen solchen Sprung. Kein Problem.
+[0:04:000] Gehe zur Kante mit dem weißen Strich, bis ich anhalte,
+[0:06:600] lass dann die Geh-Taste los und drück kurz auf rückwärts,
+[0:09:500] damit ich Anlauf nehmen kann.
+[0:11:200] Drücke jetzt vorwärts und fast gleichzeitig die Sprung-Taste.
+[0:14:500] Halte die Sprung-Taste gedrückt.
+[0:16:200] Ich spring dann erst im allerletzten Moment.

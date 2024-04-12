@@ -1,43 +1,43 @@
-[019700] Sie sind also hinter Miss Leigh her, wie?
-[022000] Beruflich, nicht zum Vergnügen.
-[023800] Aber Sie sind offenbar nicht auf Rache aus.
-[025900] Haben ja nicht das Gesicht dafür.
-[027500] Aber Sie vielleicht?
-[030200] Was für 'ne blöde Frage ist das denn, Mann?
-[033000] Ich hab' ja noch nicht mal ein Gesicht.
-[035700] Ich hab' hier Arbeit gesucht, und was kriege ich, ha?
-[038400] Ein Posten als Laborassistent in Miss Leighs Kosmetikfirma.
-[041900] Keine Erfahrung nötig ... gute Bezahlung ... Logis frei.
-[045800] Jaaa ... tagelang in 'nem Schwimmtank mit stinkendem Sirup eingepfercht.
-[050800] Und als wir wieder rauskamen ...
-[053700] denn es hatten sich viele beworben ...
-[056600] kein Gesicht mehr.
-[058100] Kein Fleisch auf den Knochen und schwupps,
-[060100] in die Abfallröhre hier runtergeworfen, für Tod gehalten.
-[063200] Ein misslungenes Experiment also.
-[065500] Na herzlichen Dank auch!
-[067800] Aber ... naja ... was noch schlimmer ist ...
-[071200] ... als ich mich umbringen wollte ...
-[073400] ... ging es einfach nicht.
-[074700] Sie meinen, Sophia testet eine Art Unsterblichkeitskur?
-[077500] Gemeinsam mit ihrer ganz eigenen Liftingmethode.
-[080400] Klaro, Mann. Ewige Schönheit.
-[082700] Sie ist offenbar noch nicht ganz dahintergekommen,
-[085000] aber die besten Ergebnisse behält sie für sich.
-[088000] Hören Sie, ich weiß nicht, was Sie mit ihre zu tun haben, aber
-[091000] gemeiner, als Sophia können Sie auch nicht sein.
-[093500] Ich werd' Ihnen also helfen.
-[095500] Das heißt ... nachdem Sie was für uns hier unten getan haben.
-[100000] Äußerst großzügig. Was brauchen Sie?
-[102800] Eine Flasche mit dem Mittel zur Mumienkonservierung aus dem naturgeschichtlichen Museum.
-[107100] Balsamieröl?
-[108700] Jawohl, das Beste was auf dem Markt ist.
-[110700] Wie ich höre, hat das Museum großes Interesse daran. Es wird Ihnen gefallen.
-[114100] Warum holen Sie es sich nicht selber?
-[116200] Eines der ägyptischen Mädels dort ist noch sauer,
-[118700] dass es nicht die Unsterblichkeit erlangt hat, die es wollte.
-[121800] Und da wir in der Beziehung besser gefahren sind als die Kleine,
-[125000] möchte ich nicht noch'n schlimmeren Fluch aufgehängt bekommen, als ohnehin schon.
-[129500] 
-[130700] Aber keine Angst, Mädel, Sie sterben hier schnell.
-[134000] Danke!
+[0:19:700] Sie sind also hinter Miss Leigh her, wie?
+[0:22:000] Beruflich, nicht zum Vergnügen.
+[0:23:800] Aber Sie sind offenbar nicht auf Rache aus.
+[0:25:900] Haben ja nicht das Gesicht dafür.
+[0:27:500] Aber Sie vielleicht?
+[0:30:200] Was für 'ne blöde Frage ist das denn, Mann?
+[0:33:000] Ich hab' ja noch nicht mal ein Gesicht.
+[0:35:700] Ich hab' hier Arbeit gesucht, und was kriege ich, ha?
+[0:38:400] Einen Posten als Laborassistent in Miss Leighs Kosmetikfirma.
+[0:41:900] Keine Erfahrung nötig ... gute Bezahlung ... Logis frei.
+[0:45:800] Jaaa ... tagelang in 'nem Schwimmtank mit stinkendem Sirup eingepfercht.
+[0:50:800] Und als wir wieder rauskamen, ...
+[0:53:700] denn es hatten sich viele beworben, ...
+[0:56:600] kein Gesicht mehr.
+[0:58:100] Kein Fleisch auf den Knochen und schwupps,
+[1:00:100] in die Abfallröhre hier runtergeworfen, für tot gehalten.
+[1:03:200] Ein misslungenes Experiment also.
+[1:05:500] Na herzlichen Dank auch!
+[1:07:800] Aber ... naja, ... was noch schlimmer ist, ...
+[1:11:200] ... als ich mich umbringen wollte, ...
+[1:13:400] ... ging es einfach nicht.
+[1:14:700] Sie meinen, Sophia testet eine Art Unsterblichkeitskur?
+[1:17:500] Gemeinsam mit ihrer ganz eigenen Liftingmethode.
+[1:20:400] Klaro, Mann. Ewige Schönheit.
+[1:22:700] Sie ist offenbar noch nicht ganz dahintergekommen,
+[1:25:000] aber die besten Ergebnisse behält sie für sich.
+[1:28:000] Hören Sie, ich weiß nicht, was Sie mit ihr zu tun haben, aber
+[1:31:000] gemeiner als Sophia können Sie auch nicht sein.
+[1:33:500] Ich werd' Ihnen also helfen.
+[1:35:500] Das heißt ... nachdem Sie was für uns hier unten getan haben.
+[1:40:000] Äußerst großzügig. Was brauchen Sie?
+[1:42:800] Eine Flasche mit dem Mittel zur Mumienkonservierung aus dem naturgeschichtlichen Museum.
+[1:47:100] Balsamieröl?
+[1:48:700] Jawohl, das Beste, was auf dem Markt ist.
+[1:50:700] Wie ich höre, hat das Museum großes Interesse daran. Es wird Ihnen gefallen.
+[1:54:100] Warum holen Sie es sich nicht selber?
+[1:56:200] Eines der ägyptischen Mädels dort ist noch sauer,
+[1:58:700] dass es nicht die Unsterblichkeit erlangt hat, die es wollte.
+[2:01:800] Und da wir in der Beziehung besser gefahren sind als die Kleine,
+[2:05:000] möchte ich nicht noch'n schlimmeren Fluch aufgehängt bekommen, als ohnehin schon.
+[2:09:500] 
+[2:10:700] Aber keine Angst, Mädel, Sie sterben hier schnell.
+[2:14:000] Danke!

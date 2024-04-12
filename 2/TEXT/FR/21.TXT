@@ -1,2 +1,2 @@
-﻿[00:00:000] Félicitation ! Vous avez réussi !
+﻿[00:00:000] Félicitations ! Vous avez réussi !
 [00:03:200] Mais vous auriez peut-être pu aller plus vite.

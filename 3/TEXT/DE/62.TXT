@@ -1,34 +1,34 @@
-[01200] Kommen Sie nur herein.
-[03000] Machen Sie's sich gemütlich. Bin sofort da.
-[05200] Gemütlich? Ich hab' grade den Bruder von Jeff Goldblum in die Fliege getroffen.
-[09100] Faszinierend, nicht wahr?
-[10700] Er war Ihr Angestellter.
-[12400] Er war Molekularbiologe.
-[14200] Er wäre von sich gefesselt gewesen.
-[16100] Danke diesem Material wurden seine Hox-Gene,
-[18700] die Gene, die unseren Körper strukturieren, vervielfältigt.
-[21800] Dadurch wird unser Körperbau unermesslich komplex.
-[24700] Aber all das ist nur ein Bruchteil der Möglichkeiten.
-[27500] Mein Freund war nur dem Stoff ausgesetzt, von denen der Meteoritenkrater durchdrungen war.
-[32000] Die wahre Kapazität liegt in seinem Kern,
-[34800] an den ich dank der Artefakte, an denen Sie so hängen gelangen werde.
-[37600] Aber Sie haben keine Kontrolle darüber!
-[39600] Hier geht's nicht um irgendwelche Spontanmutationen.
-[42400] Wir reden hier von einer völlig natürlichen Beschleunigung der Evolution,
-[45800] einem Freilandlabor sich weiter entwickelnden Lebens.
-[48600] Nicht jeder hier will Versuchskaninchen werden,
-[50700] egal mit wie vielen Gliedmaßen.
-[52700] Das ist Pech.
-[54600] Hier gab's zu viele Fehlversuche.
-[56300] Der Zeitpunkt ist optimal.
-[57800] Ich kann nicht einfach aufhören.
-[59300] Die ignoranten Polynesier sind geflohen, Darwins dämliche Matrosen ebenso.
-[63600] Ironischerweise entging Darwin deshalb der neue Evolutionsansatz.
-[67400] Aber jetzt bin ich da. Ich habe den Zugang.
-[70200] Das Wissen. Die Artefakte.
-[72000] Schon. Aber Sie haben mich in Indien getroffen,
-[74000] mich auf die Suche nach den Artefakten geschickt und
-[76000] mich hierher geführt, damit ich mir Ihr Geschwätz anhöre.
-[78600] Ihre Vorstellung vom optimalen Zeitpunkt ist mangelhaft.
-[81500] Da wär' ich mir nicht so sicher!
-[84000] 
+[0:01:200] Kommen Sie nur herein.
+[0:03:000] Machen Sie's sich gemütlich. Bin sofort da.
+[0:05:200] Gemütlich? Ich hab' grade den Bruder von Jeff Goldblum in „Die Fliege“ getroffen.
+[0:09:100] Faszinierend, nicht wahr?
+[0:10:700] Er war Ihr Angestellter.
+[0:12:400] Er war Molekularbiologe.
+[0:14:200] Er wäre von sich gefesselt gewesen.
+[0:16:100] Danke diesem Material wurden seine Hox-Gene,
+[0:18:700] die Gene, die unseren Körper strukturieren, vervielfältigt.
+[0:21:800] Dadurch wird unser Körperbau unermesslich komplex.
+[0:24:700] Aber all das ist nur ein Bruchteil der Möglichkeiten.
+[0:27:500] Mein Freund war nur dem Stoff ausgesetzt, von denen der Meteoritenkrater durchdrungen war.
+[0:32:000] Die wahre Kapazität liegt in seinem Kern,
+[0:34:800] an den ich dank der Artefakte, an denen Sie so hängen, gelangen werde.
+[0:37:600] Aber Sie haben keine Kontrolle darüber!
+[0:39:600] Hier geht's nicht um irgendwelche Spontanmutationen.
+[0:42:400] Wir reden hier von einer völlig natürlichen Beschleunigung der Evolution,
+[0:45:800] einem Freilandlabor sich weiter entwickelnden Lebens.
+[0:48:600] Nicht jeder hier will Versuchskaninchen werden,
+[0:50:700] egal mit wie vielen Gliedmaßen.
+[0:52:700] Das ist Pech.
+[0:54:600] Hier gab's zu viele Fehlversuche.
+[0:56:300] Der Zeitpunkt ist optimal.
+[0:57:800] Ich kann nicht einfach aufhören.
+[0:59:300] Die ignoranten Polynesier sind geflohen, Darwins dämliche Matrosen ebenso.
+[1:03:600] Ironischerweise entging Darwin deshalb der neue Evolutionsansatz.
+[1:07:400] Aber jetzt bin ich da. Ich habe den Zugang.
+[1:10:200] Das Wissen. Die Artefakte.
+[1:12:000] Schon. Aber Sie haben mich in Indien getroffen,
+[1:14:000] mich auf die Suche nach den Artefakten geschickt und
+[1:16:000] mich hierher geführt, damit ich mir Ihr Geschwätz anhöre.
+[1:18:600] Ihre Vorstellung vom optimalen Zeitpunkt ist mangelhaft.
+[1:21:500] Da wär' ich mir nicht so sicher!
+[1:24:000] 

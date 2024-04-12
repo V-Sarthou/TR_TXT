@@ -1,4 +1,4 @@
-[000000] Okay, questo è difficile.
-[002100] Devi effettuare un salto con rincorsa esattamente come prima,
-[005200] solo che quando sono in aria,
-[006700] devi anche premere il tasto azione per farmi appendere alla sponda.
+[0:00:000] Okay, questo è difficile.
+[0:02:100] Devi effettuare un salto con rincorsa esattamente come prima,
+[0:05:200] solo che quando sono in aria,
+[0:06:700] devi anche premere il tasto azione per farmi appendere alla sponda.

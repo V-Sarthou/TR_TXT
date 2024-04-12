@@ -1,27 +1,27 @@
 ﻿[00:00:000] Vous n'avez pas le droit !
-[00:01:700] Nous te condamnons, Natla d'Atlandide, pour tes crimes.
+[00:01:700] Nous te condamnons, Natla d'Atlantide, pour tes crimes.
 [00:06:100] Pour avoir très mal utilisé tes pouvoirs
 [00:09:400] et nous avoir volé les nôtres.
-[00:11:300] Arrêtez ! Je...
-[00:12:600] Pour avoir brisé le libre lien du consentement
-[00:14:900] protège notre peuple,
-[00:16:900] et nous avoir envahis avec notre armée.
-[00:20:800] Nos guerriers, ceux de nos pyramides,
+[00:11:300] Arrêtez ! Je…
+[00:12:600] Pour avoir brisé le triple sceau qui dirige
+[00:14:900] et protège notre peuple,
+[00:16:900] et nous avoir envahis avec notre armée,
+[00:20:800] nos guerriers, ceux de nos pyramides,
 [00:24:400] pour pouvoir te servir de la pyramide,
-[00:27:500] du pouvoir de la création
-[00:30:200] pour semer ton ignoble destruction.
-[00:33:500] Ignoble !? Regardez-vous !
+[00:27:500] du pouvoir de la création,
+[00:30:200] pour semer ton ignoble destruction…
+[00:33:500] Ignoble !? Regardez-vous.
 [00:35:700] Aucun de vous n'a la moindre parcelle de créativité dans la tête.
 [00:40:400] Vieux fous !
 [00:41:800] Bien, allons-y.
-[00:44:000] Tihocan!
+[00:44:000] Tihocan !
 [00:45:000] Tu as profané un lieu sacré pour satisfaire ton seul plaisir,
-[00:49:900] en atelier de monstres.
-[00:51:200] Ce sont des survivants. Une nouvelle génération.
-[00:54:000] Un troupeau à abattre.
+[00:49:900] un atelier de monstres.
+[00:51:200] Ce sont des survivants, une nouvelle génération.
+[00:54:000] Un troupeau à abattre !
 [00:56:500] Et toi, nous t'enfermerons dans le néant.
-[01:01:200] Dans tes veines, ton cœur immonde et ton cerveau malade
+[01:01:200] Dans tes veines, ton cœur immonde et ton cerveau malade,
 [01:06:100] ton sang gelé ne coulera plus.
-[01:09:700] Tu ne connaîtra plus le repos, Natla.
-[01:13:300] Mais toi non plus, ni ton maudit continent.
+[01:09:700] Tu ne connaîtras plus le repos, Natla !
+[01:13:300] Mais toi non plus, ni ton maudit continent d'Atlantide…
 [01:17:500]

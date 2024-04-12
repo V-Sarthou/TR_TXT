@@ -1,4 +1,4 @@
-[000000] Per raggiungere le sommità più elevate, talvolta avrò bisogno di arrampicarmi.
-[004300] Proviamoci.
-[005400] Avvicinati al percorso di salita, quindi premi e tieni premuto il tasto azione.
-[011200] Sempre mantenendo la pressione, premi in avanti con il tasto direzionale per farmi salire fino in vetta. 
+[0:00:000] Per raggiungere i punti più elevati, talvolta avrò bisogno di arrampicarmi.
+[0:04:300] Proviamoci.
+[0:05:400] Avvicinati alla struttura per l'arrampicata, quindi premi e tieni premuto il tasto azione.
+[0:11:200] Sempre mantenendo premuto, muovi in avanti con il tasto direzionale per farmi salire fino in vetta. 

@@ -1,29 +1,29 @@
-[01100] Mmm… Pasa, siéntete como en tu propia casa.
-[03200] No tardaré ni un minuto.
-[05400] ¿En casa? Acabo de conocer a un hombre que puede también hacer “Brundlefly”.
-[09000] Fascinante, ¿verdad?
-[10200] Él era tu propio empleado.
-[12100] Era un biólogo molecular. Se ha interesado por sí mismo.
-[16100] Gracias a sus genes Hox el control genómico que nos estructura nos multiplica…
-[20100] Hace eso y la complexión de nuestros cuerpos se incrementará por encima de nuestro entendimiento.
-[24200] Pero lo que estamos viendo aquí es solo el comienzo de las posibilidades.
-[27200] La exposición de mi colega provino del material impregnado en el cráter del meteorito.
-[31200] Los poderes están en el centro…
-[34200] al cual de esos artefactos a los que está muy unida me das acceso.
-[37200] Pero tú no tienes control sobre esto.
-[39100] Esto no es solo sobre la ansiosa idea de la reproducción mutante,
-[43000] es una completa aceleración natural de la evolución.
-[45200] ¡Un verdadero laboratorio de estimulación in vivo!
-[48200] No todo el mundo aquí quiere ser un conejillo de indias, multiapendiculares o no. 
-[52000] Eso es… desafortunado.
-[53200] Ha estado escondido y perdido aquí durante demasiado tiempo. 
-[57200] Ha llegado el momento. No puedo abandonarlo.
-[59000] Los polinesios huyeron por ignorantes, los imbéciles marineros de Darwin lo mismo.
-[63100] Consiguiendo irónicamente que Darwin perdiera el ángulo de la evolución.
-[67000] Pero ahora estoy yo aquí. 
-[68100] Tengo el acceso, el conocimiento, los artefactos…
-[72000] Sí… pero tú chocaste contra mí en la India y me mandaste a buscar los artefactos para ti.
-[76100] Trayéndome aquí, escuchando este galimatías.
-[78200] Tu percepción del momento perfecto es… pésima…
-[81200] No sé nada sobre eso.
-[83000] 
+[0:01:100] Mmm… Pasa, siéntete como en tu propia casa.
+[0:03:200] No tardaré ni un minuto.
+[0:05:400] ¿En casa? Acabo de conocer a un hombre que puede también hacer “Brundlefly”.
+[0:09:000] Fascinante, ¿verdad?
+[0:10:200] Él era tu propio empleado.
+[0:12:100] Era un biólogo molecular. Se ha interesado por sí mismo.
+[0:16:100] Gracias a sus genes Hox, el control genómico que nos e-estructura nos multiplica.
+[0:20:100] Haz eso y la complexión de nuestros cuerpos se incrementará por encima de nuestro entendimiento.
+[0:24:200] Pero lo que estamos viendo aquí es solo el comienzo de las posibilidades.
+[0:27:200] La exposición de mi colega provino del material impregnado en el cráter del meteorito.
+[0:31:200] Los poderes están en el centro…
+[0:34:200] al cual de esos artefactos a los que está muy unida me das acceso.
+[0:37:200] Pero tú no tienes control sobre esto.
+[0:39:100] Esto no es solo sobre la ansiosa idea de la reproducción mutante,
+[0:43:000] es una completa aceleración natural de la evolución.
+[0:45:200] ¡Un verdadero laboratorio de estimulación in vivo!
+[0:48:200] No todo el mundo aquí quiere ser un conejillo de indias, multiapendiculares o no. 
+[0:52:000] Eso es… desafortunado.
+[0:53:200] Ha estado escondido y perdido aquí durante demasiado tiempo. 
+[0:57:200] Ha llegado el momento. No puedo abandonarlo.
+[0:59:000] Los polinesios huyeron por ignorantes, los imbéciles marineros de Darwin lo mismo,
+[1:03:100] consiguiendo irónicamente que Darwin perdiera el ángulo de la evolución.
+[1:07:000] Pero ahora estoy yo aquí. 
+[1:08:100] Tengo el acceso, el conocimiento, los artefactos…
+[1:12:000] Sí…, pero tú chocaste contra mí en la India y me mandaste a buscar los artefactos para ti.
+[1:16:100] Trayéndome aquí, escuchando este galimatías,
+[1:18:200] tu percepción del momento perfecto es… pésima.
+[1:21:200] No sé nada sobre eso.
+[1:23:000] 

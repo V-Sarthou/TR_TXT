@@ -1,2 +1,2 @@
-[000000] Bentornato nella mia umile dimora!
-[002100] Sentiti libero di dare un'occhiata intorno.
+﻿[0:00:000] Ti do il benvenuto nella mia umile dimora!
+[0:02:100] Dai pure un'occhiata intorno.

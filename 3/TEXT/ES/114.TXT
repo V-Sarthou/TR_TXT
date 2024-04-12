@@ -1,7 +1,7 @@
-[000100] Bien hecho.
-[001500] Si hay una gran caída y yo no deseo hacerme daño saltándola,
-[004180] puedo dejarme caer, deslizándome suavemente y con precaución.
-[009000] Pulsa «atrás» y saltaré hacia atrás.
-[011200] Inmediatamente después, pulsa y mantén el botón «acción», 
-[015170] y yo me agarraré al borde mientras desciendo.
-[018000] Entonces, vamos a ello.
+[0:00:100] Bien hecho.
+[0:01:500] Si hay una gran caída y yo no deseo hacerme daño saltándola,
+[0:04:180] puedo dejarme caer, deslizándome suavemente y con precaución.
+[0:09:000] Pulsa «atrás» y saltaré hacia atrás.
+[0:11:200] Inmediatamente después, pulsa y mantén el botón «acción», 
+[0:15:170] y yo me agarraré al borde mientras desciendo.
+[0:18:000] Entonces, vamos a ello.

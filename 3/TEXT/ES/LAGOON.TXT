@@ -1,71 +1,71 @@
-[011000] No deseo ser comparado con ese buscador idiota con el que acabas de estar, eh…
-[015000] Lara.
-[016000] Yo soy el doctor Willard.
-[017100] He venido a hablar con Tony personalmente. 
-[019100] Pero te he encontrado a ti realizando un trabajo más estimable. De hecho… estoy inspirado.
-[024000] Me gustaría ofrecerte otro trabajo.
-[025200] ¿Qué, la brisa con otro de tus muchachos? No, gracias.
-[029200] Afortunadamente, ellos serán las únicas ratas de laboratorio.
-[033000] Mi petición es por tres artefactos más como este.
-[037000] La tribu Infada poseía el único artefacto de este tipo que existe. Es único.
-[041100] De cualquier modo, ¿cuál sería tu interés por él?
-[044100] Te lo enseñaré.
-[045000] 
-[045100] No proviene de la India, mejor de una isla cerca de la Antártica.
-[049000] Es una roca de meteorito que está intacta. Fue puesta de moda y utilizada por los polinesios
-[053100] que una vez estuvieron asentados aquí hace muchos años.
-[056000] ¿Ves? Es único, un material desconocido.
-[059000] ¿Entonces cómo acabó aquí arriba?
-[061100] Formado de los planetas, esculpido por los polinesios,
-[064200] distribuido por idiotas. Nuestras excavaciones e investigaciones nos han traído hasta aquí
-[069200] el diario de un marinero que relata su viaje junto a la expedición de Darwin en el Beagle.
-[074200] 14 de agosto de 1834.
-[077200] El viaje se está volviendo demasiado aburrido como para seguir con el diario.
-[081100] Mis aventuras en el mar son turbadoras.
-[084100] Las únicas historias que podré contar serán horas de observar los pájaros,
-[089200] recolección y secado de flores.
-[090200] Siguiendo las blasfemas ideas del gobernante… Darwin.
-[095000] Pero esto ni siquiera me concierne a mí ahora.
-[097100] Yo solo deseo comida, 
-[099000] algo más que caldo de verduras dentro de mí.
-[102200] Hoy nosotros cinco hemos hecho un pacto.
-[105200] El único muestreo que vamos a realizar va a ser por carne.
-[109100] Pura, sólida carne ensangrentada.
-[113000] 
-[126000] La nieve ha desaparecido. Las huellas han desaparecido.
-[129000] Simplemente seguid adelante, estamos tras su rastro.
-[132200] 
-[151000] Hay algo ahí.
-[153000] 
-[157200] Mira, ¡otro más!
-[159100] ¿Cuál será su valor?
-[162000] 
-[167100] Demasiado tarde, solo hay cuatro.
-[169100] Paul…
-[170100] Ninguno para ti.
-[171100] 
-[172000] Paul…
-[173200] 
-[188200] ¡Venga, Stephen!
-[190000]
-[197200] ¡Stephen!
-[198200] ¡Muévete!
-[200200] ¡Rápido, rápido!
-[202100] ¡Vamos!
-[203100] ¡Más rápido!
-[204200] 
-[205200] ¡Vamos!
-[206200] 
-[221200] Mejor que ninguno le cuente nada de esto al gobernador.
-[224300] Ya que si no, tendremos que volver y nos obligará a perseguir a la criatura.
-[227700] Paul se cayó por una grieta en el glaciar, ¿vale?
-[231000] De acuerdo, Stephen.
-[232200] Amén.
-[233200] 
-[235100] Stephen sería el único superviviente de los cuatro.
-[238100] Cuando llegó a Londres cargado de supersticiones, vendió su artefacto.
-[242100] Viendo a sus colegas asesinados o muertos por ellos.
-[245100] Uno aquí en la India. Uno en el Pacífico sur. Y otro en Nevada.
-[249100] Los lugares a los que me gustaría que tú fueras.
-[251100] Me suena bien.
-[253000]
+[0:11:000] No deseo ser comparado con ese buscador idiota con el que acabas de estar, eh…
+[0:15:000] Lara.
+[0:16:000] Yo soy el doctor Willard.
+[0:17:100] He venido a hablar con Tony personalmente, 
+[0:19:100] pero te he encontrado a ti realizando un trabajo más estimable. De hecho…, estoy inspirado.
+[0:24:000] Me gustaría ofrecerte otro trabajo.
+[0:25:200] ¿Qué, la brisa con otro de tus muchachos? No, gracias.
+[0:29:200] Afortunadamente, ellos serán las únicas ratas de laboratorio.
+[0:33:000] Mi petición es por tres artefactos más como este.
+[0:37:000] La tribu infada poseía el único artefacto de este tipo que existe. Es único.
+[0:41:100] De cualquier modo, ¿cuál sería tu interés por él?
+[0:44:100] Te lo enseñaré.
+[0:45:000] 
+[0:45:100] No proviene de la India, mejor de una isla cerca de la Antártica.
+[0:49:000] Es una roca de meteorito que está intacta. Fue puesta de moda y utilizada por los polinesios
+[0:53:100] que una vez estuvieron asentados aquí hace muchos años.
+[0:56:000] ¿Ves? Es único, un material desconocido.
+[0:59:000] ¿Entonces cómo acabó aquí arriba?
+[1:01:100] Formado de los planetas, esculpido por los polinesios,
+[1:04:200] distribuido por idiotas. Nuestras excavaciones e investigaciones nos han traído hasta aquí:
+[1:09:200] el diario de un marinero que relata su viaje junto a la expedición de Darwin en el Beagle.
+[1:14:200] 14 de agosto de 1834.
+[1:17:200] El viaje se está volviendo demasiado aburrido como para seguir con el diario.
+[1:21:100] Mis aventuras en el mar son turbadoras.
+[1:24:100] Las únicas historias que podré contar serán horas de observar los pájaros,
+[1:29:200] recolección y secado de flores,
+[1:30:200] siguiendo las blasfemas ideas del gobernante… Darwin.
+[1:35:000] Pero esto ni siquiera me concierne a mí ahora.
+[1:37:100] Yo solo deseo comida, 
+[1:39:000] algo más que caldo de verduras dentro de mí.
+[1:42:200] Hoy nosotros cinco hemos hecho un pacto.
+[1:45:200] El único muestreo que vamos a realizar va a ser por carne.
+[1:49:100] Pura, sólida carne ensangrentada.
+[1:53:000] 
+[2:06:000] La nieve ha desaparecido. Las huellas han desaparecido.
+[2:09:000] Simplemente seguid adelante, estamos tras su rastro.
+[2:12:200] 
+[2:31:000] Hay algo ahí.
+[2:33:000] 
+[2:37:200] Mira, ¡otro más!
+[2:39:100] ¿Cuál será su valor?
+[2:42:000] 
+[2:47:100] Demasiado tarde, solo hay cuatro.
+[2:49:100] Paul…
+[2:50:100] Ninguno para ti.
+[2:51:100] 
+[2:52:000] Paul…
+[2:53:200] 
+[3:08:200] ¡Venga, Stephen!
+[3:10:000]
+[3:17:200] ¡Stephen!
+[3:18:200] ¡Muévete!
+[3:20:200] ¡Rápido, rápido!
+[3:22:100] ¡Vamos!
+[3:23:100] ¡Más rápido!
+[3:24:200] 
+[3:25:200] ¡Vamos!
+[3:26:200] 
+[3:41:200] Mejor que ninguno le cuente nada de esto al gobernador,
+[3:44:300] ya que, si no, tendremos que volver y nos obligará a perseguir a la criatura.
+[3:47:700] Paul se cayó por una grieta en el glaciar, ¿vale?
+[3:51:000] De acuerdo, Stephen.
+[3:52:200] Amén.
+[3:53:200] 
+[3:55:100] Stephen sería el único superviviente de los cuatro.
+[3:58:100] Cuando llegó a Londres, cargado de supersticiones, vendió su artefacto,
+[4:02:100] viendo a sus colegas asesinados o muertos por ellos.
+[4:05:100] Uno aquí en la India, uno en el Pacífico sur y otro en Nevada,
+[4:09:100] los lugares a los que me gustaría que tú fueras.
+[4:11:100] Me suena bien.
+[4:13:000]

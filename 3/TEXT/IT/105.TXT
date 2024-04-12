@@ -1,3 +1,3 @@
-[000000] Per farmi scendere,
-[001100] tieni premuto il tasto salto
-[002600] e indica nella direzione in cui vuoi che vada.
+﻿[0:00:000] Per farmi scendere,
+[0:01:100] tieni premuto il tasto salto
+[0:02:600] e muovi nella direzione in cui vuoi che vada.

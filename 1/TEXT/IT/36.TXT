@@ -1,5 +1,5 @@
-﻿[00000] Se è troppo distante per saltare,
-[01800] posso appendermi a una sponda ed evitare una brutta caduta.
+﻿[00000] Se un salto è troppo lungo,
+[01800] posso appendermi alla sporgenza ed evitare una brutta caduta.
 [05600] Cammina fino alla linea bianca vicino al ciglio finché non posso andare oltre,
-[09300] quindi premi salto e in avanti.
-[12000] Mentre sono in aria, premi e tieni premuto azione.
+[09300] quindi premi salto e in avanti,
+[12000] e mentre sono in aria, premi e tieni premuto azione.

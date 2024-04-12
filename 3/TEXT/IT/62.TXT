@@ -1,31 +1,31 @@
-[01500] Avanti, entrate.
-[02500] Fate come se foste a casa vostra, questione di un minuto.
-[05100] A casa mia?!
-[06100] Ho appena incontrato uno che poteva essere "L'uomo mosca".
-[09100] Affascinante, non è vero?
-[10800] Era uno dei tuoi dipendenti.
-[12400] Era un biologo molecolare,  
-[13800] si è andato a cacciare nei guai da solo.
-[15700] Grazie a questo materiale i suoi geni primari si sono moltiplicati.
-[19400] In questo modo la complessità del nostro corpo può aumentare più di quanto possiamo capire.
-[23900] Solo ora cominciamo a scorgere le reali conseguenze.
-[27100] Gli effetti sui miei compagni sono stati provocati dai materiali contenuti nel cratere del meteorite,
-[32200] ma il vero potere è nascosto nel suo cuore.
-[34500] Al quale potrò accedere grazie a questi artefatti a cui sembrate tenere tanto.
-[37800] Ma non sei in grado di controllarli.
-[39500] Qui non stiamo parlando di qualche mutante, 
-[42300] è un'accelerazione naturale dell'intera evoluzione!
-[45700] Un laboratorio vivente della fucina della vita!
-[48500] Credo che non tutti qui volessero fare da cavia, a prescindere dal numero di braccia.
-[52100] Oh, che disdetta.
-[54700] Scoperto e poi abbandonato per troppo tempo.
-[57000] Ma ora il mio momento è vicino.
-[58900] I polinesiani sono fuggiti perché sono ignoranti,
-[61500] e così gli stolti marinai di Darwin.
-[63500] Che ironia, proprio lui era così vicino al segreto dell'evoluzione.
-[66900] Ma ora io sono qui. Io ho l'accesso, la conoscenza, gli artefatti.
-[72000] Già. Prima mi incontri in India e mi spedisci a cercare gli artefatti,
-[76100] ora mi porti qui ad ascoltare i tuoi deliri.
-[78900] La tua idea di tempismo è... sbagliata!
-[81700] Io non direi proprio!
-[83000]
+[0:01:500] Avanti, entra.
+[0:02:500] Fai come se fossi a casa tua, questione di un minuto.
+[0:05:100] A casa mia?!
+[0:06:100] Ho appena incontrato uno che poteva essere "L'uomo mosca".
+[0:09:100] Affascinante, non è vero?
+[0:10:800] Era uno dei tuoi dipendenti.
+[0:12:400] Era un biologo molecolare,  
+[0:13:800] si è andato a cacciare nei guai da solo.
+[0:15:700] Grazie a questo materiale i suoi geni primari si sono moltiplicati.
+[0:19:400] In questo modo la complessità del nostro corpo può aumentare più di quanto possiamo capire.
+[0:23:900] Solo ora cominciamo a scorgere le reali conseguenze.
+[0:27:100] Gli effetti sui miei compagni sono stati provocati dai materiali contenuti nel cratere del meteorite,
+[0:32:200] ma il vero potere è nascosto nel suo cuore.
+[0:34:500] Al quale potrò accedere grazie a questi manufatti a cui sembrate tenere tanto.
+[0:37:800] Ma non sei in grado di controllarli.
+[0:39:500] Qui non stiamo parlando di qualche mutante, 
+[0:42:300] è un'accelerazione naturale dell'intera evoluzione!
+[0:45:700] Un laboratorio vivente della fucina della vita!
+[0:48:500] Credo che non tutti qui volessero fare da cavia, a prescindere dal numero di braccia.
+[0:52:100] Oh, che disdetta.
+[0:54:700] Scoperto e poi abbandonato per troppo tempo.
+[0:57:000] Ma ora il mio momento è vicino.
+[0:58:900] I polinesiani sono fuggiti perché sono ignoranti,
+[1:01:500] e così gli stolti marinai di Darwin.
+[1:03:500] Che ironia, proprio lui era così vicino al segreto dell'evoluzione.
+[1:06:900] Ma ora io sono qui. Io ho l'accesso, la conoscenza, i manufatti.
+[1:12:000] Già. Prima mi incontri in India e mi spedisci a cercare i manufatti,
+[1:16:100] ora mi porti qui ad ascoltare i tuoi deliri.
+[1:18:900] La tua idea di tempismo è... sbagliata!
+[1:21:700] Io non direi proprio!
+[1:23:000]

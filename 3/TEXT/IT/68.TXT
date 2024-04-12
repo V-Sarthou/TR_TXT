@@ -1,31 +1,31 @@
-[04900] Ho interrotto qualcosa?
-[06300] Non perdi sangue, vero? Non hai intenzione di usare questo posto come un'infermeria?
-[10255] No e... no.
-[11900] Bene.
-[13100] Bene, è solo che non voglio nessuno qui che attiri altre mosche.
-[16100] D'accordo, ho capito.
-[18000] Cos'è successo?
-[19000] Mi sono svegliato nella giungla con uno di quei cosi che si faceva uno spuntino con la mia gamba!
-[22700] Un indigeno. È strano che mangino direttamente dall'osso in quel modo.
-[26500] Beh, era buio e non sono riuscito a prendere quel farabutto, quindi non sono sicuro.
-[30400] C'è qualcosa di sinistro in questa giungla.
-[33200]
-[34200] Il nostro aereo è precipitato sulle montagne. 
-[36900] Ogni notte qualcuno dei miei uomini spariva nel nulla.
-[40200] Altri sono fuggiti in preda al panico.
-[42400] Poi è successo questo.
-[44100] Così ho portato gli uomini rimasti sulla spiaggia e siamo finiti prede di questi pazzi invasati.
-[50000] Penso sia una specie di sacrificio al loro dio che vive sulle colline.
-[54600] Ma sembra che io non sia stato invitato al barbecue.
-[57900] Forse ti tengono per il dessert.
-[59800] Forse qui la carne stagionata è una prelibatezza.
-[62300] Davvero?
-[64200] Ascolta, ce ne dobbiamo andare da qui.
-[66300] Sai come fanno gli indigeni ad attraversare la palude?
-[68600] Su quali sassi mettono i piedi?
-[70100] Si, ma... io non mi muovo.
-[72700] Con questa ferita sarei una... una tavola calda per tutti i maledetti insetti di quella giungla.
-[78200] Preferisco essere il piatto importante del banchetto.
-[81700] Ascolta, se trovi qualche mio uomo vivo là fuori,
-[85100] digli di andare lontano verso la spiaggia a nord. Dimmi che lo farai.
-[88800] Naturalmente.
+[0:04:900] Ho interrotto qualcosa?
+[0:06:300] Non perdi sangue, vero? Non hai intenzione di usare questo posto come un'infermeria?
+[0:10:255] No e... no.
+[0:11:900] Bene.
+[0:13:100] Bene, è solo che non voglio nessuno qui che attiri altre mosche.
+[0:16:100] D'accordo, ho capito.
+[0:18:000] Cos'è successo?
+[0:19:000] Mi sono svegliato nella giungla con uno di quei cosi che si faceva uno spuntino con la mia gamba!
+[0:22:700] Un indigeno. È strano che mangino direttamente dall'osso in quel modo.
+[0:26:500] Beh, era buio e non sono riuscito a prendere quel farabutto, quindi non sono sicuro.
+[0:30:400] C'è qualcosa di sinistro in questa giungla.
+[0:33:200]
+[0:34:200] Il nostro aereo è precipitato sulle montagne. 
+[0:36:900] Ogni notte qualcuno dei miei uomini spariva nel nulla.
+[0:40:200] Altri sono fuggiti in preda al panico.
+[0:42:400] Poi è successo questo.
+[0:44:100] Così ho portato gli uomini rimasti sulla spiaggia e siamo finiti prede di questi pazzi invasati.
+[0:50:000] Penso sia una specie di sacrificio al loro dio che vive sulle colline.
+[0:54:600] Ma sembra che io non sia stato invitato al barbecue.
+[0:57:900] Forse ti tengono per il dessert.
+[0:59:800] Forse qui la carne stagionata è una prelibatezza.
+[1:02:300] Davvero?
+[1:04:200] Ascolta, ce ne dobbiamo andare da qui.
+[1:06:300] Sai come fanno gli indigeni ad attraversare la palude?
+[1:08:600] Su quali sassi mettono i piedi?
+[1:10:100] Si, ma... io non mi muovo.
+[1:12:700] Con questa ferita sarei una... una tavola calda per tutti i maledetti insetti di quella giungla.
+[1:18:200] Preferisco essere il piatto importante del banchetto.
+[1:21:700] Ascolta, se trovi qualche mio uomo vivo là fuori,
+[1:25:100] digli di andare lontano verso la spiaggia a nord. Dimmi che lo farai.
+[1:28:800] Naturalmente.

@@ -1,1 +1,1 @@
-﻿[00:00:000] Sous l'eau, utilise la touche sauter et les touches directionnelles pour me faire avancer.
+﻿[00:00:000] Sous l'eau, utilisez la touche Sauter et les touches directionnelles pour me faire avancer.

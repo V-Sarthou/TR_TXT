@@ -1,3 +1,3 @@
-[000000] Wenn ich absteigen soll, drück die Sprung-Taste
-[002300] und die Taste für die Richtung, in der ich landen soll.
-[005100] 
+[0:00:000] Wenn ich absteigen soll, drück die Sprung-Taste
+[0:02:300] und die Taste für die Richtung, in der ich landen soll.
+[0:05:100] 

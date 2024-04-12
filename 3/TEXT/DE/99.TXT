@@ -1,2 +1,2 @@
-[000000] Mal sehen, wie schnell du dich durch den Parkour bewegst.
-[002600] Bist du soweit?
+﻿[0:00:000] Mal sehen, wie schnell du dich durch den Parcours bewegst.
+[0:02:600] Bist du soweit?

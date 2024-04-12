@@ -1,6 +1,7 @@
-﻿[00:03:200] Ci gît Tihocan.
-[00:05:600] Un des deux souverains juste de l'Atlantide.
-[00:10:100] Qui, même après le malheur de ce continent,
+﻿[00:03:200] Ci-gît Tihocan,
+[00:05:600] un des deux souverains justes de l'Atlantide
+[00:10:100] qui, même après le malheur de ce continent,
 [00:13:200] tentèrent de régner encore sur ces terres désolées.
 [00:18:900] Mort sans un héritier,
 [00:21:200] son savoir n'a point d'héritage.
+[00:27:800] Veillez sur nous, Tihocan.

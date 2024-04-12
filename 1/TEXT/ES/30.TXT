@@ -1,3 +1,3 @@
-﻿[00000] Ah, el salón principal.
+﻿[00000] Ah, el vestíbulo principal.
 [01500] Perdón por las cajas,
 [02800] estoy almacenado algunas cosas y la empresa de reparto todavía no se ha pasado.

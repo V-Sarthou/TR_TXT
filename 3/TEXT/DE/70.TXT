@@ -1,3 +1,3 @@
-[027900] Kannst losfahren.
-[028800] Okay. Bis dann.
-[030000] 
+﻿[0:27:900] Kannst losfahren.
+[0:28:800] Okay. Bis dann.
+[0:30:000] 

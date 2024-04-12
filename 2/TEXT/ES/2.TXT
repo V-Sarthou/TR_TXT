@@ -1,20 +1,20 @@
-﻿[11600]	Perdóname pero... ¿pretendías abrirme la puerta? Todo un caballero.
-[15200]	¡Jajaja! ¿Con un subfusil en mi llavero?
-[19000]	Se acabó, detrás de ti.
+﻿[11600]	Perdóname, pero... ¿pretendías abrirme la puerta? Todo un caballero.
+[15200]	¡Ja, ja, ja! ¿Con un subfusil en mi llavero?
+[19000]	Se acabó, así que después de ti.
 [21900]	No parece que tengas la templanza de un monje.
 [26500]	Eso suena muy a mi favor.
-[29000]	Instrúyeme sobre la daga.
-[31205] Y puede que te deje con vida.
+[29000]	Instrúyeme sobre la daga
+[31205] y puede que te deje con vida.
 [33700]	Estas puertas esperan al elegido,
-[36300] a aquel que está por venir,
+[36300] al momento que está por venir,
 [38900]	y así la hoja de la daga honrará los corazones
-[44100]	de los que en ella creen.
-[46600]	Así que a menos que tú también le prometas lealtad...
-[50100]	¿Lealtad a?
+[44100]	de los creyentes.
+[46600]	Así que a menos que tú también le jures lealtad...
+[50100]	¿Lealtad a quién?
 [52300]	¡Por los pecados y fortunas de Marco Bartoli!
 [57900]
 [66000]	Creo que por ahora no...
 [68800]
 [77600]	Ajá...
-[78600] Gianni Bartoli, Via Caravelli, Venecia.
+[78600] Gianni Bartoli, via Caravelli, Venecia.
 [82600]

@@ -1,2 +1,2 @@
-[000000] Se vuoi dare uno sguardo intorno, premi e tieni premuto il tasto guarda.
-[003400] Quindi spostati nella direzione che vuoi.
+﻿[0:00:000] Se vuoi dare uno sguardo intorno, premi e tieni premuto il tasto guarda.
+[0:03:400] Quindi premi nella direzione verso cui vuoi osservare.
