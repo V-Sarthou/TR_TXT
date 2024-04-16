@@ -1,4 +1,4 @@
 ﻿[00:00:000] Ça, c'est un sacré bond !
 [00:01:800] Tu vas devoir sauter comme tout à l'heure,
 [00:03:700] mais lorsque je serai dans les airs,
-[00:05:300] maintiens enfoncée la touche action pour que je puisse m'accrocher au bord.
+[00:05:300] maintiens enfoncée la touche Action pour que je puisse m'accrocher au bord.

@@ -1,4 +1,4 @@
-[000000] In superfice, i tasti direzionali servono per muovermi,
-[003200] mentre quello del salto mi fa tuffare sott'acqua.
-[005500] All'estremità di una pozza d'acqua, 
-[006900] posso uscirne premendo il tasto azione.
+[0:00:000] In superfice, i tasti direzionali servono per muovermi,
+[0:03:200] mentre quello del salto mi fa tuffare sott'acqua.
+[0:05:500] All'estremità di una pozza d'acqua, 
+[0:06:900] posso uscirne premendo il pulsante azione.

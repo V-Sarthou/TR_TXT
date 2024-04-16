@@ -1,20 +1,20 @@
 ﻿[00000] Vale, ahora tienes toda mi atención.
 [02500] Lo que no sé es si yo tengo la tuya.
-[05300] ¿Hola?
+[05300] ¿Y bien?
 [05800] Espera a que te coja y te ponga las manos encima.
-[09200] Por supuesto.
-[10000] A ti y a esa estúpida pieza de Scion
-[13200] Si tanto la quieres, te la haré...
-[17100] Un momento, estamos hablando de la pieza del artefacto, ¿no?
-[19900] Sí, maldita sea... ¡y te la haré tragar!
-[21900] Perdona, espera, espera,
-[24100] esta pieza de la que hablas, ¿dónde está el resto?
-[26500] Ms. Natla envío a Pierre Du Pont tras ella.
+[09200] Ya, claro.
+[10000] A ti y a ese estúpido trozo del Scion.
+[13200] Si tanto lo quieres, te lo haré...
+[17100] Un momento, ¿te refieres al artefacto?
+[19900] Sí, maldita sea... ¡y te lo haré tra...!
+[21900] Espera un momento.
+[24100] Si solo es un trozo, ¿dónde está el resto?
+[26500] La señora Natla envío a Pierre Dupont tras ellos.
 [29700] ¿Y dónde está?
 [30500] Ja. No eres lo bastante rápida para él.
-[33600] ¿No crees que toda esta charlatanería me está retrasando un poco?
+[33600] ¿Así que toda esta charlatanería solo es una pérdida el tiempo?
 [37200] No sé dónde demonios se habrá metido ese culo inquieto.
-[42400] Tendrás que preguntarle a Ms. Natla.
+[42400] Tendrás que preguntarle a la señora Natla.
 [45500]
 [51000] Gracias.
 [52500] Lo haré.

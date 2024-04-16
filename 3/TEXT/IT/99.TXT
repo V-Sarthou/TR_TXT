@@ -1,2 +1,2 @@
-[000000] Vediamo in quanto tempo si può completare il percorso d'assalto. 
-[003200] Sei pronto?
+[0:00:000] Vediamo in quanto tempo si può completare il percorso d'assalto. 
+[0:03:200] Andiamo?

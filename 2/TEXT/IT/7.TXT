@@ -1,2 +1,2 @@
-[000000] Per distanze più ampie avrò bisogno di un salto con rincorsa.
-[002900] Torniamo all'inizio.
+[0:00:000] Per distanze più ampie avrò bisogno di un salto con rincorsa.
+[0:02:900] Torniamo all'inizio.

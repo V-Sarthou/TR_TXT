@@ -1,1 +1,1 @@
-[000000] Il tasto salto assieme a quelli direzionali serve per muovermi sott'acqua.
+﻿[000000] Il tasto salto assieme a quelli direzionali serve per muovermi sott'acqua.

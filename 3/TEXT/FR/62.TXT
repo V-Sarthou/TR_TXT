@@ -1,11 +1,11 @@
-﻿[00:01:600] Tiens... Bonjour ! Entrez !
+﻿[00:01:600] Tiens, Bonjour. Hum... entrez !
 [00:04:400] Mettez-vous à l'aise. Je n'en ai pas pour longtemps.
 [00:06:900] À l'aise ?!
 [00:08:100] Seigneur, je viens de croiser un homme-insecte.
 [00:10:300] Fascinant, n'est-ce pas ?
 [00:11:400] Mais c'était un de vos employés !
 [00:12:800] C'est exact. Un biologiste moléculaire.
-[00:14:800] Son propre cas l'aurait intéressé.
+[00:14:800] Son propre cas l'aurait interessé.
 [00:16:900] Grâce à cette matière,
 [00:18:400] les gènes qui contrôlent les caractères héréditaires se multiplient.
 [00:22:100] Mais cette conséquence n'est qu'une infime partie de ce que nous pouvons tirer de ce matériau.
@@ -18,14 +18,14 @@
 [00:43:200] Un laboratoire à l'échelle planétaire, au service d'une nouvelle race d'homme.
 [00:47:900] Mais tout le monde n'a pas envie d'être un rat de laboratoire, avec ou sans troisième œil.
 [00:51:100] C'est bien dommage.
-[00:52:200] On a tatonné trop longtemps.
+[00:52:200] On a tâtonné trop longtemps.
 [00:54:000] Mais l'heure... Mon heure est venue.
-[00:57:200] Les Polynésiens se sont enfuis bêtement.
+[00:57:200] Les Polynesiens se sont enfuis bêtement.
 [00:58:800] Les marins stupides de Darwin n'ont rien compris.
 [01:00:900] Faisant ironiquement passer le grand naturaliste à côté d'une partie cruciale de l'espèce humaine.
 [01:06:000] Mais moi, je ne laisserai rien passer. J'ai la clé du savoir et les pierres.
 [01:10:600] Vous m'êtes tombé dessus en Inde et vous m'avez envoyée retrouver ces reliques.
-[01:13:800] Vous m'avez ensuite ammenée ici pour écouter votre délire mégalomaniaque.
-[01:16:900] Votre heure est venue, en effet ! Mais c'est celle de tirer votre révérence.
+[01:13:800] Vous m'avez ensuite amenée ici pour écouter votre délire mégalomaniaque.
+[01:16:900] Votre heure est venue, en effet ! Mais c'est celle de tirer... votre révérence.
 [01:21:400] C'est ce que vous croyez !
 [01:23:500]

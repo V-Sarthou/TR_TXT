@@ -1,21 +1,21 @@
-[10900] Scusami tanto, se questo era solo il tuo modo di aprirmi le porte. 
-[15800] Ahahah! Con un mitra al mio portachiavi.
-[18600] Adesso non più. Vai pure avanti.
-[21600] Qualche cosa mi dice che in te non scorre sangue di monaco.
-[26200] E quel qualcosa è saldamente schierato dalla mia parte.
-[29100] Cosa mi dici del pugnale di Xian?
-[31400] Potrei averti sulla mia coscienza.
-[33300] Queste porte attendono l'avvento del prescelto
-[36400] e il momento opportuno.
-[38500] Solo allora la lama del pugnale renderà onore ai cuori
-[42700] di coloro che credono.
-[46300] A meno che tu non sappia provare la tua lealtà...
-[49800] E a chi dovrei dimostrarla?
-[52000] Ai peccati e le fortune di Marco Bartoli!
-[56800]
-[65700] Forse non è ancora il momento.
-[68000]
-[77000] Ah-ah.
-[78100] Gianni Bartoli, Via Caravelli, Venezia.
-[81600] 
+[0:10:900] Scusami tanto, se questo era solo il tuo modo di aprirmi le porte. 
+[0:15:800] Ahahah! Con un mitra al mio portachiavi?
+[0:18:600] Adesso non più. Vai pure avanti.
+[0:21:600] Qualche cosa mi dice che in te non scorre sangue di monaco.
+[0:26:200] E quel qualcosa è saldamente schierato dalla mia parte.
+[0:29:100] Cosa mi dici del pugnale?
+[0:31:400] Potrei averti sulla mia coscienza.
+[0:33:300] Queste porte attendono l'avvento del prescelto
+[0:36:400] e il momento opportuno.
+[0:38:500] Solo allora la lama del pugnale renderà onore ai cuori
+[0:42:700] di coloro che credono.
+[0:46:300] A meno che tu non sappia provare la tua lealtà...
+[0:49:800] E a chi dovrei dimostrarla?
+[0:52:000] Ai peccati e le fortune di Marco Bartoli!
+[0:56:800]
+[1:05:700] Forse non è ancora il momento.
+[1:08:000]
+[1:17:000] Ah-ah.
+[1:18:100] Gianni Bartoli, Via Caravelli, Venezia.
+[1:21:600] 
 

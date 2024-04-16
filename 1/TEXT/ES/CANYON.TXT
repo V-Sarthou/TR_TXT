@@ -1,11 +1,11 @@
 ﻿[013700] Sorpresa, te ha tocado la lotería...
 [016400] Buenas.
 [017400] Buenas tardes.
-[020100] ¿Dejaste a Larson criando malvas, no?
+[020100] Dejaste a Larson criando malvas, ¿no?
 [022300] Podría decirse así.
 [023800] Bueno, tu pequeño motín vacacional llega a su fin.
 [027000] Es hora de que me devuelvas lo que me has robado.
-[029800] Probemos con la fiambrera.
+[029800] A ver en la fiambrera.
 [033400]
 [042200] Bien... ¡Matadla!
 [045000] ¡Hey!
@@ -14,15 +14,15 @@
 [053400]
 [062800] Vamos.
 [065000]
-[135900] ¿Qué demonios es eso?
+[135900] ¿Qué demonios ha sido eso?
 [137900] ¿El qué?
 [138600] Por ahí.
-[140800] Probablemente solo un pez.
+[140800] Seguro que solo fue un pez.
 [142900] Uno considerable entonces, chaval.
 [145400] Tienes que aprender a relajarte, tío.
 [148500] Voy adentro. ¿Vienes?
 [152000]
-[157700] Quieto.
-[159800] Aquí viene.
-[161800] ¿Estás ya listo?
+[157700] Con cuidado...
+[159800] Y ya estaría.
+[161800] ¿Todo listo?
 [164600]

@@ -1,2 +1,2 @@
-[0000000] ¡Cielos, eso fue rápido!
-[0002000] Pero estoy segura de que lo puedes hacer mejor.
+[00:00:000] ¡Cielos, eso fue rápido!
+[00:02:000] Pero estoy segura de que lo puedes hacer mejor.

@@ -1,26 +1,26 @@
 ﻿[00000] ¡No podéis hacerme esto!
 [01400] Te condenamos, Natla de Atlantis, por tus crímenes.
 [06000] Por el flagrante abuso de tus poderes
-[09400] y por robarnos los nuestros
+[09400] y por robarnos los nuestros.
 [11000] ¡Os lo prohíbo! Yo...
 [12600] Has roto el vínculo de unión
 [15400] que gobernaba y protegía a nuestro pueblo,
-[18400] atacando a Tihocan y a mí con nuestro propio ejército.
-[23100] Nuestros guerreros abandonaron la pirámide
-[27300] solo para que tú pudieras usar
-[29500] sus poderes de creación
+[18400] y atacado a Tihocan y a mí con nuestro propio ejército.
+[23100] Eliminaste a nuestros guerreros de la pirámide
+[27300] para así usarla,
+[29500] sus poderes de creación,
 [31400] e iniciar tu propia y absurda destrucción.
-[33300] ¡Abominación! ¡Miraos!
-[35700] Ninguno de los dos tiene ápice de razón en la cabeza.
+[33300] ¿Absurda? ¡Miraos!
+[35700] No tenéis ni un ápice de creatividad en la cabeza.
 [40400] ¡Sois basura!
 [41800] Procedamos.
 [44100] ¡Tihocan!
 [45200] Has usado un lugar sagrado en tu propio beneficio,
 [49700] como una banal fábrica.
 [51200] Son supervivientes. Una nueva generación.
-[54200] Y ahora una pila de cadáveres.
-[56400] Y tú. Te vamos a encerrar en el limbo.
-[60600] Haremos que tus venas, corazón, pies,
+[54200] Pronto no serán más que cadáveres.
+[56400] Y en cuanto a ti... Te vamos a encerrar en el limbo.
+[60600] Haremos que tus venas, corazón, pies
 [64000] y ese cerebro enfermo se solidifiquen con sangre helada.
 [70000] Sufre el dolor eterno, Natla.
 [73300] ¡Así como vosotros y vuestro maldito continente de Atlantis!

@@ -1,3 +1,3 @@
-﻿[00000] No puedo trepar porque el boquete es demasiado pequeño,
-[02700] pero pulsa «derecha» y me deslizaré lateralmente hasta que encuentre espacio,
-[06300] entonces, pulsa «adelante».
+﻿[00000] No puedo subir porque el boquete es demasiado pequeño,
+[02700] pero pulsa «derecha» y me moveré hacia el lado hasta que haya espacio.
+[06300] Entonces, pulsa «adelante».

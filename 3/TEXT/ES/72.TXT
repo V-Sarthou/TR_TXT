@@ -1,6 +1,6 @@
-[014000] Tú, mutación loca e idiota, ¿qué clase de acrobacia es esa que has hecho?
-[018000] Vamos a llevarla dentro.
-[019000] No se parece mucho a ellos.
-[020000] A lo mejor es una terrorista ecológica o algo así.
-[023000] Ellos llevan pantalones calientes, ¿no?
-[025100]
+[0:14:000] Tú, mutación loca e idiota, ¿qué clase de acrobacia es esa que has hecho?
+[0:18:000] Vamos a llevarla dentro.
+[0:19:000] No se parece mucho a ellos.
+[0:20:000] A lo mejor es una terrorista ecológica o algo así.
+[0:23:000] Ellos llevan pantalones calientes, ¿no?
+[0:25:100]

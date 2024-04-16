@@ -3,7 +3,7 @@
 [06000] Per il plateale abuso dei tuoi poteri
 [09400] e per averci privato dei nostri.
 [11000] Non potete farlo! Io...
-[12600] Per aver violato i limiti dell’autorità conferita
+[12600] Per aver violato i limiti dell'autorità
 [15400] sotto la quale viene governata e protetta la nostra gente
 [18400] e per aver aggredito me e Tihocan con il nostro stesso esercito, i nostri guerrieri.
 [23100] Hai distolto i nostri guerrieri dalla piramide del potere
@@ -16,7 +16,7 @@
 [41800] Facciamola finita.
 [44100] Tihocan!
 [45200] Hai sfruttato un luogo sacro come fonte di piacere individuale,
-[49700] l’hai reso una fabbrica di mostri.
+[49700] l'hai reso una fabbrica di mostri.
 [51200] Sono dei sopravvissuti. Una nuova generazione.
 [54200] Sono solo un ammasso di corpi, ora.
 [56400] In quanto a te. Verrai rinchiusa nel limbo.

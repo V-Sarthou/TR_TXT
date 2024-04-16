@@ -1,3 +1,3 @@
-[000000] Solange die Geh-Taste gedrückt ist, kann ich von keiner Kante stürzen.
-[003400] Auch dann nicht, wenn du es willst.
-[004900] Versuch's doch mal.
+[0:00:000] Solange die Geh-Taste gedrückt ist, kann ich von keiner Kante stürzen.
+[0:03:400] Auch dann nicht, wenn du es willst.
+[0:04:900] Versuch's doch mal.

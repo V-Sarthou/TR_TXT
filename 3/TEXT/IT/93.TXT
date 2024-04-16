@@ -1,1 +1,1 @@
-[000000] Usa i tasti direzionali per muoverti in casa.
+﻿[000000] Usa i tasti direzionali per muoverti in casa.

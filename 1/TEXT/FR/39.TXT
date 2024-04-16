@@ -1,4 +1,4 @@
 ﻿[00:00:000] Avancez jusqu'à la ligne blanche jusqu'à ce que je m'arrête.
-[00:03:000] Et appuyez sur la touche de marche, puis sur la touche fléchée bas pour que je prenne de l'élan.
-[00:07:100] Appuyez ensuite sur la touche fléchée haut et sur la touche de saut tout de suite après.
+[00:03:000] Et appuyez sur la touche de Marche, puis sur la touche fléchée Bas pour que je prenne de l'élan.
+[00:07:100] Appuyez ensuite sur la touche fléchée Haut et sur la touche de Saut tout de suite après.
 [00:12:100] Mais en fait, je ne sauterai qu'au dernier moment, je ne suis pas folle.

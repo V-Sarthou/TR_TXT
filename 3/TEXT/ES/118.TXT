@@ -1,6 +1,6 @@
-[0000000] Si el salto lo realizo con carrera, puedo cubrir esa distancia sin ningún problema.
-[0005150] Camina hacia el extremo de la línea blanca hasta que yo me pare.
-[0009000] Entonces suelta «andar» y pulsa «atrás» para darme carrerilla.
-[0013180] Pulsa «adelante» y, casi inmediatamente, pulsa y mantén el botón de «salto».
-[0018130] No saltaré hasta el último momento.
+[00:00:000] Si el salto lo realizo con carrera, puedo cubrir esa distancia sin ningún problema.
+[00:05:150] Camina hacia el extremo de la línea blanca hasta que yo me pare.
+[00:09:000] Entonces suelta «andar» y pulsa «atrás» para darme carrerilla.
+[00:13:180] Pulsa «adelante» y, casi inmediatamente, pulsa y mantén el botón de «salto».
+[00:18:130] No saltaré hasta el último momento.
 

@@ -1,2 +1,2 @@
-[000000] Drück sie jetzt nochmal und presse schnell eine der Richtungs-Tasten,
-[003000] dann spring ich in diese Richtung.
+[0:00:000] Drück sie jetzt nochmal und presse schnell eine der Richtungs-Tasten,
+[0:03:000] dann spring ich in diese Richtung.

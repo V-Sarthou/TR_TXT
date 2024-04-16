@@ -5,7 +5,7 @@
 [0:20:100] Haben Sie Larson das Licht ausgeblasen?
 [0:22:400] Wenn man es so ausdrücken will.
 [0:23:800] Tja, Ihr kleiner Ferienausflug ist zu Ende.
-[0:26:500] Wird Zeit, dass ich zurückbekommen, was Sie mir gestohlen haben.
+[0:26:500] Wird Zeit, dass ich zurückbekomme, was Sie mir gestohlen haben.
 [0:29:800] Schauen wir doch mal in die Lunchbox.
 [0:31:800] 
 [0:42:200] Na los! Tötet sie!

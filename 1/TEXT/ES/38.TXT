@@ -1,2 +1,2 @@
-﻿[00000] Si el salto lo realizo con carrera,
+﻿[00000] Si hago un salto en carrera,
 [01300] puedo cubrir esa distancia sin ningún problema.

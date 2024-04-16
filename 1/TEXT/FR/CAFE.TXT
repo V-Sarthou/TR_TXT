@@ -1,25 +1,25 @@
 ﻿[00:43:300] Qu'est-ce qu'un mec peut bien faire pour réussir à attirer votre attention ?
 [00:47:700] Je ne sais pas exactement, mais vous vous débrouillez plutôt bien.
-[00:51:100] Super.
+[00:51:100] Super…
 [00:52:300] Mais en fait, c'est pas moi qui vous cherche.
-[00:54:800] Oh ?
+[00:54:800] Oh ?
 [00:55:000] Non. C'est Jacqueline Natla, de Natla Technologies, vous voyez ?
 [01:03:600] Ceux qui font tout ce qui est beau et qui brille.
 [01:11:100] La ferme, Larson.
-[01:07:500] M'dame.
+[01:07:500] M'dame…
 [01:06:500]
-[01:08:400] Jetez un coup d'œil ici, Lara.
-[01:10:300] Quel effet ça vous fait de voir ça ?
-[01:13:600] Je suis désolée. Je fais ça pour le sport.
-[01:16:300] Alors vous allez adorer.
-[01:18:100] Le Pérou.
-[01:20:000] D'immenses montagnes à franchir.
-[01:22:300] Des falaises de glace.
-[01:24:600] Les crètes, les vents glacés.
+[01:08:371] Jetez un coup d'œil ici, Lara.
+[01:10:545] Quel effet ça vous fait de voir ça ?
+[01:13:540] Je suis désolée. Je fais ça pour le sport.
+[01:16:230] Alors, vous allez adorer…
+[01:18:090] Le Pérou…
+[01:20:000] d'immenses montagnes à franchir,
+[01:22:300] des falaises de glace…
+[01:24:600] Les crêtes, les vents glacés…
 [01:27:600] Et il y a ce petit bibelot,
-[01:29:100] un objet millénaire au pouvoir mystérieux,
+[01:29:100] un objet millénaire aux pouvoirs mystérieux,
 [01:32:100] enfoui dans le tombeau perdu de Qualopec.
-[01:35:900] Et il m'intéresse.
+[01:35:900] Et il m'intéresse !
 [01:37:800] Partez donc dès demain.
 [01:40:000] Vous êtes libre demain ?
 [01:41:600]

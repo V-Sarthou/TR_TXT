@@ -1,2 +1,2 @@
-﻿[00:00:000] C'est sur moi que tu tires ? C'est sur moi que tu tires ?
-[00:02:100] Bah oui, il n'y a personne ! C'est sur moi que tu tires !
+﻿[00:00:000] C'est sur moi que tu tires ?  C'est sur moi que tu tires ?
+[00:02:100] Ben oui, y a personne, c'est sur moi que tu tires !

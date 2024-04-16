@@ -1,6 +1,6 @@
-[000000] Komm, lass uns in die Turnhalle gehen.
-[001700] Allen, die schon früher hier waren,
-[003000] wird die neue Ausstattung auffallen.
-[004600] Was denkst du?
-[005500] Gut, lass uns ein paar Übungen machen.
-[008000] Ich denke, wir sollten sie in der richtigen Reihenfolge ausführen.
+[0:00:000] Komm, lass uns in die Turnhalle gehen.
+[0:01:700] Allen, die schon früher hier waren,
+[0:03:000] wird die neue Ausstattung auffallen.
+[0:04:600] Was denkst du?
+[0:05:500] Gut, lass uns ein paar Übungen machen.
+[0:08:000] Ich denke, wir sollten sie in der richtigen Reihenfolge ausführen.

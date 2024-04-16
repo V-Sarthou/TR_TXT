@@ -1,3 +1,3 @@
-﻿[00000] No, eso no está bien,
-[01800] necesitas pulsar «saltar» y «adelante» a la vez para ayudarme saltar el hueco.
-[05300] Vuelve al inicio e inténtalo de nuevo.
+﻿[00000] No, eso no está bien.
+[01800] Tienes que pulsar «saltar» y «adelante» a la vez para ayudarme saltar el hueco.
+[05300] Vuelve al principio e inténtalo de nuevo.

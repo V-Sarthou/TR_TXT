@@ -1,11 +1,11 @@
 ﻿[48900] Ora che mi sono trasferito alla Follia di San. Francesco, nuove tentazioni mi tormentano.
 [53500] Tra i miei fratelli gira voce che sotto il monastero sia sepolto il corpo di Tihocan,
 [59800] uno dei tre leggendari sovrani del continente perduto di Atlantide,
-[64600] e che con lui vi sia anche il suo pezzo dello Scion:
+[64600] e che con lui vi sia anche un pezzo dello Scion Atlantideo:
 [68600] il ciondolo diviso e ripartito tra i tre regnanti
 [72800] che si dice possegga terribili poteri.
 [76000] Poteri che vanno anche oltre quelli del Creatore stesso.
-[79500] Tremo all’idea di questa possibilità, che sia così vicino al mio corpo mortale.
+[79500] Tremo all'idea che possa esserci qualcosa di tanto potente così vicino al mio corpo mortale.
 [85500] Ogni notte mi colpisco per cercare di liberarmi di tali fantasie,
 [89400] ma è davvero una difficile prova.
 [92500]

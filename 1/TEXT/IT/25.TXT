@@ -1,7 +1,7 @@
 ﻿[03300] Qui giace Tihocan
 [05700] uno dei due virtuosi sovrani di Atlantide.
-[10200] Colui che, anche dopo la maledizione,
-[13300] ha continuato a governare queste terre desolate.
+[10200] Colui che, anche dopo la maledizione del continente,
+[13300] aveva cercato di mantenere l'ordine in queste terre desolate.
 [18900] Morì senza eredi
 [21400] e il suo sapere non è stato tramandato.
 [25600] Guarda a noi con benevolenza, Tihocan.

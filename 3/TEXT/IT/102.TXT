@@ -1,2 +1,2 @@
-[000000] Adesso spingi in avanti 
-[001600] e premi il tasto azione in modo da farmi afferrare l'estremità.
+[0:00:000] Adesso spingi in avanti e premi il tasto azione 
+[0:01:600] in modo da farmi afferrare l'estremità.

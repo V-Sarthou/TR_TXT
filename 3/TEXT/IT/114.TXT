@@ -1,6 +1,6 @@
-[000000] Ben fatto.
-[001500] Se c'è un certo dislivello e non voglio correre il rischio di farmi male,
-[004600] preferisco lasciarmi cadere dolcemente.
-[007300] Dai un colpetto indietro e salterò in quella direzione,
-[010200] quindi premi e tieni premuto il tasto azione per farmi afferrare l'estremità.
-[014500] Poi rilascia pure il pulsante.
+[0:00:000] Ben fatto.
+[0:01:500] Se c'è un certo dislivello, non voglio correre il rischio di farmi male,
+[0:04:600] preferisco lasciarmi cadere dolcemente.
+[0:07:300] Premi leggermente indietro e salterò in quella direzione,
+[0:10:200] quindi premi e tieni premuto il tasto azione per farmi afferrare l'estremità.
+[0:14:500] Poi rilascia pure il pulsante.

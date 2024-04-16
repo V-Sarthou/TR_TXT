@@ -1,41 +1,41 @@
-[019600] Così stai dando la caccia a Miss Leigh?
-[022500] Affari, non piacere.
-[024100] Di sicuro non si tratta di vendetta, bella. Non hai la faccia per questo genere di cose.
-[028100] Tu, invece, ce l'hai?
-[029500]
-[031100] Che razza di domanda idiota è questa, mmh?
-[033500] Io non ho nemmeno una faccia, cara mia!
-[036800] Sono venuto in cerca di lavoro e l'ho trovato.
-[039700] "Compagnia cosmetica di Miss Leigh, assistente di laboratorio."
-[043500] Nessuna esperienza necessaria, una buona paga. Sembrava andare tutto bene.
-[049100] Poi sono rimasto bloccato in una vasca di fluttuazione per giorni, immerso in un liquido puzzolente.
-[054400] E quando tutti noi siamo usciti, perché eravamo in molti a fare quel lavoro,
-[058200] né faccia e né carne, sai?!
-[059800] Un calcio e giù per lo scarico dei rifiuti, fin qui. Presunti morti.
-[063900] Un esperimento fallito, in pratica.
-[065700] Oh, grazie di avermelo ricordato.
-[068200] E come se non bastasse, un'altra beffa. 
-[071400] Quando ho provato a porre fine alla mia vita, ho scoperto che non era possibile.
-[075400] Vuoi dire che Sophia sta cercando il segreto dell'immortalità
-[078400] insieme al suo nuovo fondotinta miracoloso?
-[080700] Proprio così! Bellezza eterna.
-[083300] Solo che le cose non hanno funzionato al meglio.
-[085500] Lei, però, si è tenuta i risultati migliori.
-[087700] Senti, a me non interessa più di tanto perché sei qui.
-[091100] Ma non puoi certo essere peggio di lei.
-[093800] Perciò ho deciso di fare uno strappo e di darti una mano.
-[097100] Ma solo dopo che tu avrai fatto qualcosa per noi, qui.
-[100700] Generoso da parte tua. Che cosa vuoi?
-[103300] Una bottiglia di quella pozione per conservare le mummie,
-[106000] si trova nel Museo di Storia Naturale.
-[108000] Liquido per imbalsamare?
-[109100] Esatto. Non c'è niente di meglio per la carne in putrefazione.
-[112300] E poi il museo è un posto molto interessante, ti piacerà.
-[115000] Ma perché non ci vai di persona?
-[116600] Conosco una ragazza egiziana là, è scocciata perché
-[119900] non è riuscita a ottenere l'immortalità come si aspettava.
-[122000] Vedendo che abbiamo fatto meglio di lei in questo campo,
-[124400] non oso nemmeno immaginare quale maledizione possa riversarci contro  
-[127700] per peggiorare ancora la nostra condizione!
-[131000] Tu non avrai problemi, cara. Tu puoi morire in pace.
-[134100] Grazie!
+[0:19:600] Così stai dando la caccia a Miss Leigh?
+[0:22:500] Affari, non piacere.
+[0:24:100] Di sicuro non si tratta di vendetta, bella. Non hai la faccia per questo genere di cose.
+[0:28:100] Tu, invece, ce l'hai?
+[0:29:500]
+[0:31:100] Che razza di domanda idiota è questa, mmh?
+[0:33:500] Io non ho nemmeno una faccia, cara mia!
+[0:36:800] Sono venuto in cerca di lavoro e l'ho trovato.
+[0:39:700] "Compagnia cosmetica di Miss Leigh, assistente di laboratorio."
+[0:43:500] Nessuna esperienza necessaria, una buona paga. Sembrava andare tutto bene.
+[0:49:100] Poi sono rimasto bloccato in una vasca di fluttuazione per giorni, immerso in un liquido puzzolente.
+[0:54:400] E quando tutti noi siamo usciti, perché eravamo in molti a fare quel lavoro,
+[0:58:200] né faccia e né carne, sai?!
+[0:59:800] Un calcio e giù per lo scarico dei rifiuti, fin qui. Presunti morti.
+[1:03:900] Un esperimento fallito, in pratica.
+[1:05:700] Oh, grazie di avermelo ricordato.
+[1:08:200] E come se non bastasse, un'altra beffa. 
+[1:11:400] Quando ho provato a porre fine alla mia vita, ho scoperto che non era possibile.
+[1:15:400] Vuoi dire che Sophia sta cercando il segreto dell'immortalità
+[1:18:400] insieme al suo nuovo fondotinta miracoloso?
+[1:20:700] Proprio così! Bellezza eterna.
+[1:23:300] Solo che le cose non hanno funzionato al meglio.
+[1:25:500] Lei, però, si è tenuta i risultati migliori.
+[1:27:700] Senti, a me non interessa più di tanto perché sei qui.
+[1:31:100] Ma non puoi certo essere peggio di lei.
+[1:33:800] Perciò ho deciso di fare uno strappo e di darti una mano.
+[1:37:100] Ma solo dopo che tu avrai fatto qualcosa per noi, qui.
+[1:40:700] Generoso da parte tua. Che cosa vuoi?
+[1:43:300] Una bottiglia di quella pozione per conservare le mummie,
+[1:46:000] si trova nel Museo di Storia Naturale.
+[1:48:000] Liquido per imbalsamare?
+[1:49:100] Esatto. Non c'è niente di meglio per la carne in putrefazione.
+[1:52:300] E poi il museo è un posto molto interessante, ti piacerà.
+[1:55:000] Ma perché non ci vai di persona?
+[1:56:600] Conosco una ragazza egiziana là, è scocciata perché
+[1:59:900] non è riuscita a ottenere l'immortalità come si aspettava.
+[2:02:000] Vedendo che abbiamo fatto meglio di lei in questo campo,
+[2:04:400] non oso nemmeno immaginare quale maledizione possa riversarci contro  
+[2:07:700] per peggiorare ancora la nostra condizione!
+[2:11:000] Tu non avrai problemi, cara. Tu puoi morire in pace.
+[2:14:100] Grazie!

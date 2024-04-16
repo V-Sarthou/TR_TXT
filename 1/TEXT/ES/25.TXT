@@ -1,7 +1,7 @@
-﻿[03300] Aquí yace Tihocan
-[05700] uno de los gobernantes del triunvirato de Atlantis.
-[10200] El que incluso después de la maldición continental
-[13300] intentó mantener el orden en estas otras yermas tierras.
+﻿[03300] Aquí yace Tihocan,
+[05700] uno de los dos soberanos justos de Atlantis,
+[10200] quien, incluso tras la maldición del continente,
+[13300] intentó mantener el orden en estas tierras desoladas.
 [18900] Murió sin descendencia
 [21400] y su sabiduría no será heredada.
 [25600] Protégenos de todo mal, Tihocan.

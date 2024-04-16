@@ -1,4 +1,4 @@
-﻿[00:00:000] Oh ! Ah ! De l'air !
-[00:03:000] Utilisez les touches fléchées avant, gauche et droite pour me faire nager en surface.
-[00:08:200] Appuyez sur la touche de saut pour me faire plonger et nager sous l'eau.
-[00:11:200] Pour me faire sortir, dirigez-vous vers le bord et appuyez sur la touche d'action.
+﻿[00:00:000] Ouh ! Ah ! De l'air !
+[00:03:000] Utilisez les touches fléchées Avant, Gauche et Droite pour me faire nager en surface.
+[00:08:200] Appuyez sur la touche de Saut pour me faire plonger et nager sous l'eau.
+[00:11:200] Pour me faire sortir, dirigez-vous vers le bord et appuyez sur la touche d'Action.

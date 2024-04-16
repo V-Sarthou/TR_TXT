@@ -7,7 +7,7 @@
 [00:40:400]
 [00:44:500] Qui est-ce ? Qu'est-ce qu'elle fait ?
 [00:46:400] Je sais pas ! Vraiment, j'en sais rien !
-[00:51:000] J'élimine juste les gens pour elle.
+[00:51:000] J'élimine juste les gens, pour elle.
 [00:52:700] Ce ne sont pas les remords qui t'étouffent, visiblement.
 [00:55:400] Bah non, ça fait des années que je fais ça pour elle. Comme mon père et mon grand-père d'ailleurs.
 [01:00:300] Ah oui ? Quel âge a cette demoiselle Leigh ?

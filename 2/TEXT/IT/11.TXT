@@ -1,6 +1,6 @@
-[000000] Okay, adesso le cose si complicano.
-[002400] Devi effettuare un salto in corsa e premere azione per farmi aggrappare all'estremità.
-[006900] Per prendere un'esatta rincorsa,
-[008500] cammina fino al ciglio e quindi premi indietro
-[011100] per un breve balzo in quella direzione.
-[013000] In questo modo puoi trovare il punto di stacco ideale.
+[0:00:000] Okay, adesso le cose si complicano.
+[0:02:400] Devi effettuare un salto in corsa e premere azione per farmi aggrappare all'estremità.
+[0:06:900] Per prendere un'esatta rincorsa,
+[0:08:500] cammina fino al ciglio e quindi premi indietro 
+[0:11:100] per un breve balzo in quella direzione.
+[0:13:000] In questo modo puoi trovare il punto di stacco ideale.

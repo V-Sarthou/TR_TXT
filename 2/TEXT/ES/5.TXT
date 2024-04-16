@@ -1,4 +1,4 @@
 ﻿[00000] Hola de nuevo.
 [01300] Tras el extenuante asunto del año pasado,
-[03400] Decidí diseñar este curso de ataque
+[03400] decidí diseñar esta carrera de obstáculos
 [05200] para perfeccionar mis habilidades y aprender otras nuevas.

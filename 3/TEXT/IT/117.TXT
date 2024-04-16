@@ -1,6 +1,6 @@
-[000000] Adesso, guardando in alto, vedrai degli appigli
-[002800] e la cosa sembra già divertente.
-[004800] Premi il tasto salto e quindi quello azione
-[007300] per farmi saltare e afferrare le barre.
-[010200] Adesso usa i testi direzionali per farmi muovere.
-[013100] Ricordati di non rilasciare il tasto azione, altrimenti allenterò la presa.
+[0:00:000] Adesso, guardando in alto, vedrai delle barre.
+[0:02:800] Si preannuncia divertente.
+[0:04:800] Premi il tasto salto e quindi quello azione
+[0:07:300] per farmi saltare e afferrare le barre.
+[0:10:200] Adesso usa i tasti direzionali per farmi muovere.
+[0:13:100] Ricordati di non rilasciare il tasto azione, altrimenti allenterò la presa.

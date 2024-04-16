@@ -1,3 +1,3 @@
-﻿[00000] Bene. Ora viene quello tosto.
-[01900] Devi effettuare un salto con rincorsa esattamente come prima, solo che mentre sono in aria,
+﻿[00000] Bene. Questo salto sarà più difficile.
+[01900] Esegui un salto con rincorsa esattamente come prima, solo che mentre sono in aria,
 [05700] premi e tieni premuto azione per farmi afferrare il bordo.

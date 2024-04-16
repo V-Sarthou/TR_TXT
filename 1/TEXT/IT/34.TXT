@@ -1,3 +1,3 @@
-﻿[00000] Se tieni premuto il tasto cammina,
+﻿[00000] Se tieni premuto cammina,
 [01600] non perderò mai l'equilibrio anche volendo.
 [04300] Vai avanti, prova.

@@ -1,23 +1,23 @@
-[30500] Wer ist dein Auftraggeber?
-[32000] Was?
-[32800] Du weißt schon!
-[33700] Keine Ahnung! Ehrlich! Wen meinst du?
-[35500] Wer dein Auftraggeber?
-[36600] Aaah! Miss Sophia Leigh.
-[40300] 
-[44500] Wer ist das? Was macht sie?
-[46300] Keine Ahnung! Ehrlich nicht!
-[49400] Ich, ich erschieß' nur Leute für sie.
-[52700] Eine löbliche Arbeitsmoral, schätze ich.
-[54900] Oh ja, ich bin mit Herzblut dabei, wie mein Dad früher.
-[58500] Und vor ihm sein Dad.
-[60500] Wie alt ist diese Miss Leigh?
-[62400] Weiß nicht. So Ende 20, Anfang 30.
-[65600] Natürlich.
-[67000] Tja, für manche Leute, so wie Sie, kriegen wir noch 'nen Bonus dazu.
-[71800] Du schmeichelst mir.
-[73200] Von deinem Kopfgeld könnte ich sogar in Rente gehen.
-[76600] Dann solltest du vielleicht ... auf die Glocke achten.
-[80000] 
-[83800] Fröhliche Ruhestand!
-[86000] 
+[0:30:500] Wer ist dein Auftraggeber?
+[0:32:000] Was?
+[0:32:800] Du weißt schon!
+[0:33:700] Keine Ahnung! Ehrlich! Wen meinst du?
+[0:35:500] Wer dein Auftraggeber?
+[0:36:600] Aaah! Miss Sophia Leigh.
+[0:40:300] 
+[0:44:500] Wer ist das? Was macht sie?
+[0:46:300] Keine Ahnung! Ehrlich nicht!
+[0:49:400] Ich, ich erschieß' nur Leute für sie.
+[0:52:700] Eine löbliche Arbeitsmoral, schätze ich.
+[0:54:900] Oh ja, ich bin mit Herzblut dabei, wie mein Dad früher.
+[0:58:500] Und vor ihm sein Dad.
+[1:00:500] Wie alt ist diese Miss Leigh?
+[1:02:400] Weiß nicht. So Ende 20, Anfang 30.
+[1:05:600] Natürlich.
+[1:07:000] Tja, für manche Leute, so wie Sie, kriegen wir noch 'nen Bonus dazu.
+[1:11:800] Du schmeichelst mir.
+[1:13:200] Von deinem Kopfgeld könnte ich sogar in Rente gehen.
+[1:16:600] Dann solltest du vielleicht ... auf die Glocke achten.
+[1:20:000] 
+[1:23:800] Fröhlichen Ruhestand!
+[1:26:000] 

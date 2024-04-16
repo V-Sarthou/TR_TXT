@@ -1,2 +1,2 @@
-[000000] Congratulazioni, ce l'hai fatta! 
-[002000] Ma credo di poter essere più veloce.
+[0:00:000] Congratulazioni, ce l'hai fatta! 
+[0:02:000] Ma credo di poter essere più veloce.

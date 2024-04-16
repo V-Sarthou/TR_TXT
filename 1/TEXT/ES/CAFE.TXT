@@ -1,16 +1,16 @@
 ﻿[043300] ¿Qué tiene que hacer un hombre para llamar tu atención?
-[047600] Difícil decirlo con exactitud, pero vas por el buen camino.
-[050700] Estupendo, entonces.
-[052700] Aunque, la verdad, no soy yo quien te quiere.
-[054800] ¿No?
-[055200] Más bien Miss Jacqueline Natla, de Natla Technologies.
-[060500] Ya sabes, ¿creadora de todas esas cositas brillantes y bonitas?
+[047600] No sabría decirte, pero vas por buen camino.
+[050700] Estupendo.
+[052700] Aunque, la verdad, no soy yo quien te busca.
+[054800] ¿Ah no?
+[055200] Más bien la señora Jacqueline Natla, de Natla Technologies.
+[060500] Ya sabes, los que hacen todas esas cositas brillantes y bonitas.
 [064600] Corta, Larson.
 [066100] Señora...
 [067400]
-[068200] Deléitate con esto, Lara.
-[070800] ¿No te tiembla la cartera?
-[073400] Lo siento. Sólo juego por deporte.
+[068200] Fíjate en todo esto, Lara.
+[070800] ¿No se te hace la boca agua?
+[073400] Lo siento. Solo juego por deporte.
 [076300] Entonces este lugar te encantará:
 [078300] Perú.
 [080000] Vastas cadenas montañosas que recorrer.
@@ -19,7 +19,7 @@
 [087500] Y esta pequeña baratija:
 [089500] un antiguo artefacto de poderes místicos
 [092100] enterrado en la tumba perdida de Qualopec.
-[096200] En lo que realmente estoy interesada.
+[096200] Eso es lo que me interesa.
 [098200] Podrías partir mañana mismo.
-[100100] ¿Algo que hacer mañana?
+[100100] ¿Haces algo mañana?
 [102800]

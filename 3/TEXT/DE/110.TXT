@@ -1,5 +1,5 @@
-[000000] Okay, das ist ein gewaltiger Sprung.
-[002000] Nimm Anlauf und spring exakt wie eben,
-[004500] aber während ich in der Luft bin, drückst du die Handlungs-Taste
-[007000] und hältst sie gedrückt.
-[008300] Ich greife dann nach der gegenüberliegenden Kante.
+[0:00:000] Okay, das ist ein gewaltiger Sprung.
+[0:02:000] Nimm Anlauf und spring exakt wie eben,
+[0:04:500] aber während ich in der Luft bin, drückst du die Handlungs-Taste
+[0:07:000] und hältst sie gedrückt.
+[0:08:300] Ich greife dann nach der gegenüberliegenden Kante.

@@ -1,1 +1,1 @@
-[000000] Avvicinati al veicolo e, per saltarci sopra, premi il tasto azione.
+﻿[000000] Avvicinati al veicolo e, per saltarci sopra, premi il tasto azione.

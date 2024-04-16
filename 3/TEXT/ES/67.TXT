@@ -1,25 +1,25 @@
-[30000] ¿Para quién trabajas?
-[32000] ¿Qué?
-[32700] Me has oído.
-[33200] No lo escuché, en serio. ¿Qué has dicho?
-[35000] Dije: ¿quién te contrató?
-[38000] ¡Aaah!, Miss Sophia Leigh.
-[40000] 
-[44000] ¿Quién es?, ¿qué es lo que hace?
-[46000] ¡No lo sé, de verdad! ¡No lo sé!
-[50000] Simplemente disparo a la gente por ella.
-[53000] Imagino que es un trabajo ético y recomendable.
-[56000] Sí, dedico mi tiempo a esto, tal y como hizo antes mi padre.
-[60000] ¿Cómo de mayor es esa Miss Leigh?
-[62000] No lo sé, veintitantos, treinta y pocos.
-[65000] Bien.
-[67000] Por algunas personas como tú misma, conseguimos una recompensa especial.
-[71000] Me siento adulada.
-[73000] Me refiero, incluso podría retirarme a tu costa.
-[76000] Entonces quizá te gustaría pensarlo... la campana.
-[79000]
-[83000] Feliz retirada...
-[85000]
+[0:30:000] ¿Para quién trabajas?
+[0:32:000] ¿Qué?
+[0:32:700] Me has oído.
+[0:33:200] No lo escuché, en serio. ¿Q-qué has dicho?
+[0:35:000] Dije: ¿quién te contrató?
+[0:38:000] ¡Aaah! Miss Sophia Leigh.
+[0:40:000] 
+[0:44:000] ¿Quién es? ¿Qué es lo que hace?
+[0:46:000] ¡No lo sé! ¡De verdad, no lo sé!
+[0:50:000] Simplemente, disparo a la gente por ella.
+[0:53:000] Imagino que es un trabajo ético y recomendable.
+[0:56:000] Sí, dedico mi tiempo a esto, tal y como hizo antes mi padre.
+[1:00:000] ¿Cómo de mayor es esa Miss Leigh?
+[1:02:000] No lo sé, veintitantos, treinta y pocos.
+[1:05:000] Bien.
+[1:07:000] Por algunas personas como tú misma, conseguimos una recompensa especial.
+[1:11:000] Me siento adulada.
+[1:13:000] Me refiero, incluso podría retirarme a tu costa.
+[1:16:000] Entonces quizá te gustaría pensarlo... La campana.
+[1:19:000]
+[1:23:000] Feliz retirada...
+[1:25:000]
 
 
 

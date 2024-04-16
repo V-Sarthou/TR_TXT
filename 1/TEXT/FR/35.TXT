@@ -1,3 +1,3 @@
 ﻿[00:00:000] Si vous voulez examiner les environs,
-[00:01:500] Appuyez sur la touche qui vous permet de voir.
+[00:01:500] appuyez sur la touche qui vous permet de voir.
 [00:03:200] Puis sur une touche de direction.

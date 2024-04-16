@@ -1,3 +1,3 @@
-[000000] Ich muss nicht unbedingt immer laufen.
-[001900] Wenn ich vorsichtig sein will, gehe ich.
-[004200] Halt die Geh-Taste gedrückt und gehe zur weißen Linie.
+[0:00:000] Ich muss nicht unbedingt immer laufen.
+[0:01:900] Wenn ich vorsichtig sein will, gehe ich.
+[0:04:200] Halt die Geh-Taste gedrückt und gehe zur weißen Linie.

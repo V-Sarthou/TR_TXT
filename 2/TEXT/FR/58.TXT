@@ -1,6 +1,6 @@
-﻿[00.00.700]	Du sang, des réponses,
-[00:01:700]	Je n'ai pas de préférence. Arrange-toi pour faire cracher un peu des deux, hé.
-[00:07:000]	OK, Marco.
-[00:08:600]	Je me réjouis de vous avoir à bord,
-[00:11:000]	Qu'est-ce que vous cherchez ? Voyons. Est-ce que je vous transperce l'estomac ?
-[00:15:600]	Allons, dites-moi, où faut-il chercher dans le monastère, honorable frère ?
+﻿[00.00.700] Du sang, des réponses,
+[00:01:700] je n'ai pas de préférence. Arrange-toi pour faire cracher un peu des deux, hé.
+[00:07:000] OK, Marco.
+[00:08:600] Je me réjouis de vous avoir à bord,
+[00:11:000] Qu'est-ce que vous cherchez ? Voyons… à ce que je vous transperce l'estomac ?
+[00:15:600] Alors dites-moi où faut-il chercher dans le monastère, honorable frère ?!

@@ -1,26 +1,26 @@
-[062200] Jeden Tag brülle ich mich an diesem Radio heiser.
-[065100] Die Wetterwechsel machen uns ziemlich zu schaffen.
-[067900] Vielleicht komm ich nicht mal durch und das Ding sendet gar nicht.
-[070800] Ich kann kein einziges Wort verstehen, Willard.
-[074600] Hier läuft alles bestens, Sir ...
-[078000] 
-[081900] Zieht das Ding raus! Los! Hoch damit!
-[084500] 
-[088400] Sofort ausschalten! Ausschalten!
-[091100] Heda! Ausschalten!
-[094500] 
-[107400] Sie sollten sich die Stätte zwei mal ansehen.
-[110300] 
-[111500] Was ist hiermit?
-[112600] Blast ihn weg!
-[114000] 
-[116200] Nie einen Meteorit gefunden?
-[117900] Ha! Ne, ist schon ein bisschen jünger, Sir.
-[121000] 
-[122600] Ist nicht möglich!
-[124600] Billy! Brecht die Sprengung ab! Hört ihr?
-[127000] Hört ihr mich? Auf keinen Fall sprengen! Nicht sprengen!
-[130000] 
-[132200] Elende Pyromanen ...
-[134500] 
-[146900] Geschichtsträchtiger Ort hier ...
+[1:02:200] Jeden Tag brülle ich mich an diesem Radio heiser.
+[1:05:100] Die Wetterwechsel machen uns ziemlich zu schaffen.
+[1:07:900] Vielleicht komm ich nicht mal durch und das Ding sendet gar nicht.
+[1:10:800] Ich kann kein einziges Wort verstehen, Willard.
+[1:14:600] Hier läuft alles bestens, Sir ...
+[1:18:000] 
+[1:21:900] Zieht das Ding raus! Los! Hoch damit!
+[1:24:500] 
+[1:28:400] Sofort ausschalten! Ausschalten!
+[1:31:100] Heda! Ausschalten!
+[1:34:500] 
+[1:47:400] Sie sollten sich die Stätte zwei mal ansehen.
+[1:50:300] 
+[1:51:500] Was ist hiermit?
+[1:52:600] Blast ihn weg!
+[1:54:000] 
+[1:56:200] Nie einen Meteorit gefunden?
+[1:57:900] Ha! Ne, ist schon ein bisschen jünger, Sir.
+[2:01:000] 
+[2:02:600] Ist nicht möglich!
+[2:04:600] Billy! Brecht die Sprengung ab! Hört ihr?
+[2:07:000] Hört ihr mich? Auf keinen Fall sprengen! Nicht sprengen!
+[2:10:000] 
+[2:12:200] Elende Pyromanen ...
+[2:14:500] 
+[2:26:900] Geschichtsträchtiger Ort hier ...

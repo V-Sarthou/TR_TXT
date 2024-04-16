@@ -1,1 +1,1 @@
-﻿[00:00:000] La touche de saut et les touches de direction me permettent d'évoluer sous l'eau.
+﻿[00:00:000] La touche de Saut et les touches de direction me permettent d'évoluer sous l'eau.

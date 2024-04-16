@@ -1,5 +1,5 @@
-[000000] Vediamo cosa ci aspetta adesso.
-[002000] Spingi in avanti e tieni premuto il tasto azione.
-[005300] Non posso arrampicarmi perché non c'è lo spazio.
-[008200] Premi quindi a destra per farmi scivolare lentamente finché puoi
-[012000] e quindi premi in avanti per farmi salire.
+[0:00:000] Vediamo cosa ci aspetta adesso.
+[0:02:000] Spingi in avanti e tieni premuto il tasto azione.
+[0:05:300] Non posso arrampicarmi perché non c'è lo spazio.
+[0:08:200] Premi quindi verso destra per farmi scivolare lentamente finché puoi
+[0:12:000] e quindi premi in avanti per farmi salire.

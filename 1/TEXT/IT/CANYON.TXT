@@ -18,8 +18,8 @@
 [137900] Cosa?
 [138600] Da quella parte.
 [140800] Probabilmente era solo un pesce.
-[142900] Un pesce bello grosso, ragazzino.
-[145400] Devi imparare a rilassarti, bello.
+[142900] Un pesce bello grosso.
+[145400] Devi imparare a rilassarti.
 [148500] Io torno dentro. Vieni anche tu?
 [152000]
 [157700] Piano...

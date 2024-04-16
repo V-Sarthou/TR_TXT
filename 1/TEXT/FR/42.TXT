@@ -1,2 +1,2 @@
 ﻿[00:00:000] Nous allons essayer de sauter ici.
-[00:01:100] Appuyez sur la touche fléchée haut, puis sur la touche d'action sans la relâcher.
+[00:01:100] Appuyez sur la touche fléchée Haut, puis sur la touche d'Action sans la relâcher.

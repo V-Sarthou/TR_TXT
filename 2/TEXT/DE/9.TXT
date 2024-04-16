@@ -1,2 +1,2 @@
-[0:00:000] Um nicht von Kanten zu fallen, benutzt du am besten die Geh-Taste.
+﻿[0:00:000] Um nicht von Kanten zu fallen, benutzt du am besten die Geh-Taste.
 [0:03:600] Damit bewege ich mich vorsichtiger und kann nicht hinunterfallen.

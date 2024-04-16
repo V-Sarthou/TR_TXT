@@ -1,28 +1,28 @@
-[04900] Ich störe hoffentlich nicht?
-[06700] Sie bluten doch nicht etwa? - Oder suchen Sie 'ne Toilette?
-[10400] Nein und nochmals nein.
-[12200] Gut, gut. Ich bloß keine fliegenumschwirrten Besucher hier drin haben.
-[16300] Klar, ich verstehe. Was ist geschehen?
-[18800] Bin im Dschungel aufgewacht, als einer dieser kleinen Typen sich an meinem Bein satt aß.
-[22600] Ein Stammesmitglied? Es wäre ungewöhnlich, dass sie das Fleisch direkt vom Knochen abnagen.
-[26500] Tja, es war dunkel und ich hab' den Kerl nicht erwischt, sicher bin ich also nicht.
-[30500] Im Dschungel ist irgendetwas Gruseliges.
-[33500] Unser Flugzeug ist oben in den Bergen zerschellt.
-[36600] Nacht für Nacht verschwanden einige meiner Leute spurlos.
-[39700] Andere flohen in Panik ... und dann ist das passiert.
-[43900] Also brachte ich das restliche Team an die Küste in Sicherheit,
-[47100] nur um von dieser gierigen Meute gefangen zu werden ...
-[50500] ... als eine Art Opfer an ihren Gott, der in den Bergen haust.
-[54300] Obwohl ich offenbar nicht zum Grillfest eingeladen wurde.
-[58700] Vielleicht sind Sie aber der Nachtisch.
-[59800] Reifes Fleisch gilt hier als Delikatesse.
-[62600] Wirklich?
-[64300] Hören Sie, wir müssen Sie hier rausbringen.
-[66100] Wissen Sie, wie der Stamm den Sumpf überquert,
-[67900] und auf welche Steine die Leute treten?
-[70200] Schon, aber ich bleibe hier.
-[72200] Mit der Wunde wäre ich 'ne wandelnde Tankstelle für jedes infizierte Insekt weit und breit.
-[78400] Ha, da wäre ich noch lieber der Hauptgang beim großen Fest.
-[82500] Wenn meine Männer da drinnen noch am Leben sind,
-[84400] führen Sie sie zur Nordküste, ja? Fort von hier.
-[88700] Natürlich.
+[0:04:900] Ich störe hoffentlich nicht?
+[0:06:700] Sie bluten doch nicht etwa? Oder suchen Sie 'ne Toilette?
+[0:10:400] Nein und nochmals nein.
+[0:12:200] Gut, gut. Ich bloß keine fliegenumschwirrten Besucher hier drin haben.
+[0:16:300] Klar, ich verstehe. Was ist geschehen?
+[0:18:800] Bin im Dschungel aufgewacht, als einer dieser kleinen Typen sich an meinem Bein satt aß.
+[0:22:600] Ein Stammesmitglied? Es wäre ungewöhnlich, dass sie das Fleisch direkt vom Knochen abnagen.
+[0:26:500] Tja, es war dunkel und ich hab' den Kerl nicht erwischt, sicher bin ich also nicht.
+[0:30:500] Im Dschungel ist irgendetwas Gruseliges.
+[0:33:500] Unser Flugzeug ist oben in den Bergen zerschellt.
+[0:36:600] Nacht für Nacht verschwanden einige meiner Leute spurlos.
+[0:39:700] Andere flohen in Panik ... und dann ist das passiert.
+[0:43:900] Also brachte ich das restliche Team an die Küste in Sicherheit,
+[0:47:100] nur um von dieser gierigen Meute gefangen zu werden ...
+[0:50:500] ... als eine Art Opfer an ihren Gott, der in den Bergen haust.
+[0:54:300] Obwohl ich offenbar nicht zum Grillfest eingeladen wurde.
+[0:58:700] Vielleicht sind Sie aber der Nachtisch.
+[0:59:800] Reifes Fleisch gilt hier als Delikatesse.
+[1:02:600] Wirklich?
+[1:04:300] Hören Sie, wir müssen Sie hier rausbringen.
+[1:06:100] Wissen Sie, wie der Stamm den Sumpf überquert,
+[1:07:900] und auf welche Steine die Leute treten?
+[1:10:200] Schon, aber ich bleibe hier.
+[1:12:200] Mit der Wunde wäre ich 'ne wandelnde Tankstelle für jedes infizierte Insekt weit und breit.
+[1:18:400] Ha, da wäre ich noch lieber der Hauptgang beim großen Fest.
+[1:22:500] Wenn meine Männer da drinnen noch am Leben sind,
+[1:24:400] führen Sie sie zur Nordküste, ja? Fort von hier.
+[1:28:700] Natürlich.

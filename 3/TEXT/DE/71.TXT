@@ -1,14 +1,14 @@
-[008100] Ah, Miss Croft! Ich nehme an Sie wollen sich verpflichten?
-[012200] Wozu?
-[013500] Zur Arbeit für die Firma.
-[015200] Sie wären die perfekte Verkörperung meiner Produkte, überlegen Sie nur ...
-[019700] ... Sie bräuchten diese unansehnlichen Waffen gar nicht mehr.
-[023500] Das nicht, aber ihre früheren Versuchsopfern nach zu urteilen,
-[026200] bekäme ich dafür ein unansehnliches Gesicht.
-[028100] Meinen was?!
-[029300] Oh ja. Sie leben noch alle. Sind sogar ausgesprochen munter.
-[032800] Ich will nur das Artefakt.
-[034200] Sicher! Im nächsten Leben.
-[037000] 
-[038600] Das werden wir noch sehen.
-[040500] 
+[0:08:100] Ah, Miss Croft! Ich nehme an Sie wollen sich verpflichten?
+[0:12:200] Wozu?
+[0:13:500] Zur Arbeit für die Firma.
+[0:15:200] Sie wären die perfekte Verkörperung meiner Produkte, überlegen Sie nur ...
+[0:19:700] ... Sie bräuchten diese unansehnlichen Waffen gar nicht mehr.
+[0:23:500] Das nicht, aber ihren früheren Versuchsopfern nach zu urteilen,
+[0:26:200] bekäme ich dafür ein unansehnliches Gesicht.
+[0:28:100] Meinen was?!
+[0:29:300] Oh ja. Sie leben noch alle. Sind sogar ausgesprochen munter.
+[0:32:800] Ich will nur das Artefakt.
+[0:34:200] Sicher! Im nächsten Leben.
+[0:37:000] 
+[0:38:600] Das werden wir noch sehen.
+[0:40:500] 

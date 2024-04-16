@@ -1,43 +1,43 @@
-[003000] Ah... Non sei una di loro.
-[005700] Ma tu sei un monaco?
-[007200] Fratello Chan Barkhang.
-[009600] Sei venuta per me?
-[011300] Ho visto una luce accerchiarmi.
-[013400] Erano i proiettili.
-[014500] E credo che a loro abbiano fatto un effetto ben peggiore.
-[017400] Ma tu sei la mia guida,
-[018900] la mia chiave verso la prossima incarnazione.
-[022000] Ho fatto il mio tempo, vero?
-[024400] Cosa facevi qui, con quel Marco Bartoli?
-[027000] Niente! Io conduco una vita rigorosa
-[030500] per ragioni che risalgono alla stessa necessità del male,
-[033800] come mio padre prima di me
-[035300] quando affondò il vascello di Gianni in queste stesse acque. 
-[039000] Adesso sono qui... ero qui,
-[041900] per impedire a suo figlio di profanare il Sigillo.
-[044900] Il Sigillo?
-[046000] Tu non puoi sapere della mia missione.
-[048300] Come forse non sapevi nemmeno della loro.
-[050900] I loro giorni di gloria sono comunque finiti.
-[053000]
-[054400] Vogliono il Sigillo per svelare il tesoro maligno
-[057500] contenuto nel nostro monastero in Tibet.
-[059700] Dopo essere stato trafugato da stolti vagabondi secoli fa,
-[063500] siamo rimasti senza la chiave.
-[066300] Potendo contare sulla sola forza delle nostre preghiere.
-[069300] Quindi intervenne Gianni Bartoli, acquistandola da qualche mercante d'arte.
-[073100]
-[075200] Ci mise tutti in pericolo.
-[076700] Dando vita a quella che era solo un'antica credenza,
-[079100] un pericolo che nessuno dovrebbe mai sottovalutare.
-[082800] E adesso ci risiamo.
-[084000] Marco, con la sua mente malvagia e i suoi deliri, 
-[088300] all'inutile ricerca di un potere che possa saziarli.
-[091300] E così abbiamo dovuto riprendere le nostre armi.
-[094100] Ma è solo per una giusta causa.
-[096500]
-[097100] Dove vuoi portarmi?
-[099100] Sono pronto per il grande passo.
-[101500] Spero mi sia concesso un po' di riposo.
-[104000] Ah, ne ho bisogno.
-[106500]
+[0:03:000] Ah... Non sei una di loro.
+[0:05:700] Ma tu sei un monaco?
+[0:07:200] Fratello Chan Barkhang.
+[0:09:600] Sei venuta per me?
+[0:11:300] Ho visto una luce accerchiarmi.
+[0:13:400] Erano i proiettili.
+[0:14:500] E credo che a loro abbiano fatto un effetto ben peggiore.
+[0:17:400] Ma tu sei la mia guida,
+[0:18:900] la mia chiave verso la prossima incarnazione.
+[0:22:000] Ho fatto il mio tempo, vero?
+[0:24:400] Cosa facevi qui, con quel Marco Bartoli?
+[0:27:000] Niente! Io conduco una vita rigorosa
+[0:30:500] per ragioni che risalgono alla stessa necessità del male,
+[0:33:800] come mio padre prima di me
+[0:35:300] quando affondò il vascello di Gianni in queste stesse acque. 
+[0:39:000] Adesso sono qui... ero qui,
+[0:41:900] per impedire a suo figlio di profanare il Serafino.
+[0:44:900] Il Serafino?
+[0:46:000] Tu non puoi sapere della mia missione.
+[0:48:300] Come forse non sapevi nemmeno della loro.
+[0:50:900] I loro giorni di gloria sono comunque finiti.
+[0:53:000]
+[0:54:400] Vogliono il Serafino per svelare il tesoro maligno
+[0:57:500] contenuto nel nostro monastero in Tibet.
+[0:59:700] Dopo essere stato trafugato da stolti vagabondi secoli fa,
+[1:03:500] siamo rimasti senza la chiave.
+[1:06:300] Potendo contare sulla sola forza delle nostre preghiere.
+[069300] Quindi intervenne Gianni B., acquistandola da qualche mercante d'arte.
+[1:13:100]
+[1:15:200] Ci mise tutti in pericolo.
+[1:16:700] Dando vita a quella che era solo un'antica credenza,
+[1:19:100] un pericolo che nessuno dovrebbe mai sottovalutare.
+[1:22:800] E adesso ci risiamo.
+[1:24:000] Marco, con la sua mente malvagia e i suoi deliri, 
+[1:28:300] all'inutile ricerca di un potere che possa saziarli.
+[1:31:300] E così abbiamo dovuto riprendere le nostre armi.
+[1:34:100] Ma è solo per una giusta causa.
+[1:36:500]
+[1:37:100] Dove vuoi portarmi?
+[1:39:100] Sono pronto per il grande passo.
+[1:41:500] Spero mi sia concesso un po' di riposo.
+[1:44:000] Ah, ne ho bisogno.
+[1:46:500]

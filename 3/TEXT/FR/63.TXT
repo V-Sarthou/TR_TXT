@@ -21,6 +21,7 @@
 [01:23:800] Mais visiblement, ce n'est pas encore au point.
 [01:26:000] Elle a quand même gardé les meilleurs résultats pour elle-même.
 [01:29:700] Écoutez, je ne sais pas ce que vous avez contre Leigh.
+[01:30:000]
 [01:32:500] Mais je veux vous aider.
 [01:34:500] En échange d'une petite faveur.
 [01:37:600] D'accord. Que voulez-vous ?
@@ -31,7 +32,7 @@
 [01:49:900] Le musée est plutôt intéressant à ce qu'on m'a dit. Vous allez apprécier.
 [01:53:900] Pourquoi n'y allez-vous pas vous-même ?
 [01:55:800] Une des Égyptiennes du musée est, paraît-il, très vexée,
-[01:59:200] Elle trouve son passeport pour l'éternité moins prestigieux que le nôtre.
+[01:59:200] elle trouve son passeport pour l'éternité moins prestigieux que le nôtre.
 [02:02:500] Je n'ai pas envie de m'aventurer là-bas pour qu'elle me lance une de ses malédictions.
 [02:06:600] J'ai déjà assez donné comme ça.
 [02:09:700] Mais tout ira bien petite.

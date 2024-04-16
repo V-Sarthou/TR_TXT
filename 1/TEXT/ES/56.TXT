@@ -1,2 +1,2 @@
-﻿[00000] ¿Me estás disparando? Disparándome, ¿eh?
-[01900] No veo a nadie más aquí, debe ser a mí entonces.
+﻿[00000] ¿Me estás disparando a mí? Me estás disparando a mí, ¿no?
+[01900] No veo a nadie más aquí, así que debe ser a mí.

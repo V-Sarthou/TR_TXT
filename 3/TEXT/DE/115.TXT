@@ -1,6 +1,6 @@
-[000000] Ist ein Sprung zu weit für mich, kann ich nach der Kante greifen.
-[003200] Gehe zur Kante hinter dem weißen Strich, bis ich stehen bleibe.
-[006500] Drücke dann die Sprung-Taste,
-[008200] gleich danach vorwärts
-[009600] und dann während ich in der Luft bin die Handlungs-Taste
-[012100] und halte sie gedrückt.
+[0:00:000] Ist ein Sprung zu weit für mich, kann ich nach der Kante greifen.
+[0:03:200] Gehe zur Kante hinter dem weißen Strich, bis ich stehen bleibe.
+[0:06:500] Drücke dann die Sprung-Taste,
+[0:08:200] gleich danach vorwärts
+[0:09:600] und dann, während ich in der Luft bin, die Handlungs-Taste
+[0:12:100] und halte sie gedrückt.

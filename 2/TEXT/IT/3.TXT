@@ -1,32 +1,32 @@
-[013200] Non è il carico che mi spaventa.
-[017000]
-[022400] Forse la marea se l'è portato via...
-[024000] Forse Gianni non avrebbe dovuto... non so...
-[026800]
-[030600] Dalla sua tomba non è uscito nulla di... sostanziale.
-[033600]
-[035100] Ah, sì. Sì, sicuro.
-[036900] Credetemi, ma questo non è la stessa cosa, è vero?
-[039800] Un giorno qualcuno ti multerà quella lingua troppo veloce, Fabio.
-[043700] Eh... è solo una sensazione di pelle.
-[046500] Sembra annebbiarti la vista.
-[049100]
-[050300] Hai una fede così fragile.
-[053000]
-[056500] Rilassati, respira profondamente.
-[060500]
-[061300] La pelle, Fabio, ti può giocare brutti scherzi.
-[065100] Può essere una sensazione giusta, ma non sempre illuminante.
-[069500] Quando mio padre partì che io ero ancora bambino,
-[072800] credeva di essere a sua volta illuminato...
-[075700] Mosso da qualcosa che andava oltre il semplice impulso.
-[080700] Possedeva il Sigillo,
-[083200] ma era solo una pedina in un piano più grande
-[086600] e la sua morte ha aperto la strada al vero prescelto:
-[090200] suo figlio. Riesci a capire?
-[093500] Abbi fede, Fabio. Lascia da parte la pelle.
-[097300] Siamo sulla giusta strada.
-[100000] Capisco. Ho piena fiducia, Marco.
-[102300] Bene. Eros? Hai... sistemato quella dannata paratia?
-[109800]
-[112300] Sì!
+[0:13:200] Non è il carico che mi spaventa.
+[0:17:000]
+[0:22:400] Forse la marea se l'è portato via...
+[0:24:000] Forse Gianni non avrebbe dovuto... non so...
+[0:26:800]
+[0:30:600] Dalla sua tomba non è uscito nulla di... sostanziale.
+[0:33:600]
+[0:35:100] Ah, sì. Sì, sicuro.
+[0:36:900] Credetemi, ma questo non è la stessa cosa, è vero?
+[0:39:800] Un giorno qualcuno ti multerà quella lingua troppo veloce, Fabio.
+[0:43:700] Eh... è solo una sensazione di pelle.
+[0:46:500] Sembra annebbiarti la vista.
+[0:49:100]
+[0:50:300] Hai una fede così fragile.
+[0:53:000]
+[0:56:500] Rilassati, respira profondamente.
+[1:00:500]
+[1:01:300] La pelle, Fabio, ti può giocare brutti scherzi.
+[1:05:100] Può essere una sensazione giusta, ma non sempre illuminante.
+[1:09:500] Quando mio padre partì che io ero ancora bambino,
+[1:12:800] credeva di essere a sua volta illuminato...
+[1:15:700] Mosso da qualcosa che andava oltre il semplice impulso.
+[1:20:700] Possedeva il Serafino,
+[1:23:200] ma era solo una pedina in un piano più grande
+[1:26:600] e la sua morte ha aperto la strada al vero prescelto:
+[1:30:200] suo figlio. Riesci a capire?
+[1:33:500] Abbi fede, Fabio. Lascia da parte la pelle.
+[1:37:300] Siamo sulla giusta strada.
+[1:40:000] Capisco. Ho piena fiducia, Marco.
+[1:42:300] Bene. Eros? Hai... sistemato quella dannata paratia?
+[1:49:800]
+[1:52:300] Sì!

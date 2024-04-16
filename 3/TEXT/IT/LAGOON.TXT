@@ -1,68 +1,68 @@
-[004700] Ehi!
-[005900]
-[010700] Spero non mi consideriate come quel ricercatore ritardato che forse avete conosciuto, signorina...
-[015000] Lara.
-[015800] Io sono il dottor Willard.
-[017000] Ero venuto a parlare con Tony di persona,
-[019000] ma sembra che voi abbiate svolto un lavoro molto più efficace. Mi avete impressionato, indubbiamente.
-[023400] Avrei dell'altro lavoro da offrirvi.
-[025200] Che cosa? Lasciarci le penne con qualcun altro dei vostri ragazzi? No, grazie.
-[029300] Fortunatamente, sono state le uniche cose che abbiamo lasciato sul campo.
-[032400] No, la mia richiesta è per altri tre artefatti come questo.
-[035900] 
-[036700] L'artefatto della tribù Infada era unico, non ne esistono altri.
-[041000] Comunque, perché vi interessano?
-[043800] Ve lo mostrerò.
-[044800]
-[045500] Questo reperto non è originario dell'India, arriva da un'isola dell'Antartide.
-[049600] Proviene da un meteorite ed è stato modellato dai polinesiani
-[052500] che millenni fa risiedevano in quella zona.
-[055600] Vedete? Un materiale sconosciuto. Assolutamente unico.
-[059000] E come ha fatto a finire qui?
-[061100] Forgiato dai pianeti, scolpito dai polinesiani,
-[064600] disperso dagli stupidi. I nostri scavi e le nostre ricerche ci hanno fatto scoprire questo:
-[069600] il diario di un marinaio imbarcato a bordo della nave di Sua Maestà Beagle durante la spedizione di Charles Darwin.
-[074900] 14 agosto, 1834.
-[077900] Questo viaggio sta diventando troppo noioso per essere raccontato nel diario.
-[081500] Le mie avventure sui mari sono una lagna mortale.
-[084800] Ore e ore spese a osservare gli uccelli
-[087600] o a raccogliere e conservare fiori.
-[090700] Sempre inseguendo le blasfeme idee del comandante, Darwin.
-[095200] Ma questo al momento non mi interessa. Voglio solo del cibo.
-[099200] Qualcosa di diverso dalla brodaglia vegetale che si mangia qui.
-[102800] Oggi abbiamo stretto un patto, noi cinque. 
-[105900] Gli unici campioni che raccoglieremo saranno di carne...
-[109500] Pura, solida, sanguigna carne...
-[113900]
-[126000] Non c'è più neve. Non vedo più le tracce.
-[128500] Tu continua ad avanzare, ormai gli siamo addosso.
-[131800]
-[151300] C'è qualcosa qui.
-[153100]
-[157600] Ehi, ce n'è un altro.
-[159300] Credete che valgano qualcosa?
-[161600]
-[167500] Troppo tardi, ce ne sono soltanto quattro.
-[169700] Non c'è niente per te.
-[171300]
-[172500] Paul...
-[173900]
-[188800] Muoviti, Stephen.
-[191300]
-[197900] Stephen! Corri! Presto! Corri!
-[200600] Più veloce! Corri Stephen, dai! Presto, Presto!
-[203100] CORRI!
-[205400]
-[221900] È meglio che nessuno dica niente al comandante,
-[224500] o dovremo tornare laggiù a caccia di quelle creature per i suoi esperimenti.
-[228100] Paul è caduto in un crepaccio, d'accordo?
-[231300] D'accordo, Stephen?
-[232900] Amen.
-[234500]
-[235500] Stephen sarebbe stato l'unico superstite di quei quattro.
-[238500] Tornato a Londra, ha venduto l'artefatto in preda a una superstiziosa paura,
-[242800] dopo aver visto i compagni uccidersi fra loro.
-[245600] Uno qui in India, uno nel Pacifico del sud e uno nel Nevada,
-[248900] i luoghi dove vi vorrei inviare.
-[251400] Mi sembra interessante.
-[253400]
+[0:04:700] Ehi!
+[0:05:900]
+[0:10:700] Spero non mi consideriate come quel ricercatore ritardato che forse avete conosciuto, signorina...
+[0:15:000] Lara.
+[0:15:800] Io sono il dottor Willard.
+[0:17:000] Ero venuto a parlare con Tony di persona,
+[0:19:000] ma sembra che voi abbiate svolto un lavoro molto più efficace. Mi avete impressionato, indubbiamente.
+[0:23:400] Avrei dell'altro lavoro da offrirvi.
+[0:25:200] Che cosa? Lasciarci le penne con qualcun altro dei vostri ragazzi? No, grazie.
+[0:29:300] Fortunatamente, sono state le uniche cose che abbiamo lasciato sul campo.
+[0:32:400] No, la mia richiesta è per altri tre manufatti come questo.
+[0:35:900] 
+[0:36:700] Il manufatto della tribù Infada era unico, non ne esistono altri.
+[0:41:000] Comunque, perché vi interessano?
+[0:43:800] Ve lo mostrerò.
+[0:44:800]
+[0:45:500] Questo reperto non è originario dell'India, arriva da un'isola dell'Antartide.
+[0:49:600] Proviene da un meteorite ed è stato modellato dai polinesiani
+[0:52:500] che millenni fa risiedevano in quella zona.
+[0:55:600] Vedete? Un materiale sconosciuto. Assolutamente unico.
+[0:59:000] E come ha fatto a finire qui?
+[1:01:100] Forgiato dai pianeti, scolpito dai polinesiani,
+[1:04:600] disperso dagli stupidi. I nostri scavi e le nostre ricerche ci hanno fatto scoprire questo:
+[1:09:600] il diario di un marinaio imbarcato a bordo della nave di Sua Maestà Beagle durante la spedizione di Charles Darwin.
+[1:14:900] 14 agosto, 1834.
+[1:17:900] Questo viaggio sta diventando troppo noioso per essere raccontato nel diario.
+[1:21:500] Le mie avventure sui mari sono una lagna mortale.
+[1:24:800] Ore e ore spese a osservare gli uccelli
+[1:27:600] o a raccogliere e conservare fiori.
+[1:30:700] Sempre inseguendo le blasfeme idee del comandante Darwin.
+[1:35:200] Ma questo al momento non mi interessa. Voglio solo del cibo.
+[1:39:200] Qualcosa di diverso dalla brodaglia vegetale che si mangia qui.
+[1:42:800] Oggi abbiamo stretto un patto, noi cinque. 
+[1:45:900] Gli unici campioni che raccoglieremo saranno di carne...
+[1:49:500] Pura, soda, sanguigna carne...
+[1:53:900]
+[2:06:000] Non c'è più neve. Non vedo più le tracce.
+[2:08:500] Tu continua ad avanzare, ormai gli siamo addosso.
+[2:11:800]
+[2:31:300] C'è qualcosa qui.
+[2:33:100]
+[2:37:600] Ehi, ce n'è un altro.
+[2:39:300] Credete che valgano qualcosa?
+[2:41:600]
+[2:47:500] Troppo tardi, ce ne sono soltanto quattro.
+[2:49:700] Non c'è niente per te.
+[2:51:300]
+[2:52:500] Paul...
+[2:53:900]
+[3:08:800] Muoviti, Stephen.
+[3:11:300]
+[3:17:900] Stephen! Corri! Presto! Corri!
+[3:20:600] Più veloce! Corri Stephen, dai! Presto, Presto!
+[3:23:100] CORRI!
+[3:25:400]
+[3:41:900] È meglio che nessuno dica niente al comandante,
+[3:44:500] o dovremo tornare laggiù a caccia di quelle creature per i suoi esperimenti.
+[3:48:100] Paul è caduto in un crepaccio, d'accordo?
+[3:51:300] D'accordo, Stephen?
+[3:52:900] Amen.
+[3:54:500]
+[3:55:500] Stephen sarebbe stato l'unico superstite di quei quattro.
+[3:58:500] Tornato a Londra, ha venduto il manufatto in preda a una superstiziosa paura,
+[4:02:800] dopo aver visto i compagni uccidersi fra loro.
+[4:05:600] Uno qui in India, uno nel Pacifico del sud e uno nel Nevada,
+[4:08:900] i luoghi dove vi vorrei inviare.
+[4:11:400] Mi sembra interessante.
+[4:13:400]

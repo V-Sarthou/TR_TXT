@@ -1,2 +1,2 @@
-﻿[00000] Benvenuto a casa mia!
-[01300] Ti porto a fare un tour guidato.
+﻿[00000] Ti do il benvenuto!
+[01300] Vuoi fare un tour della casa? Andiamo.

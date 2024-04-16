@@ -1,22 +1,22 @@
-[30700] Per chi lavori?
-[32100] Cosa?
-[32600] Mi hai capito bene.
-[33300] Non ho sentito, davvero! Cosa hai detto?
-[35200] Ho detto: chi è che ti paga?
-[36900] Aaah! Miss Sophia Leigh.
-[40300]
-[44500] E chi è? Che cosa vuole?
-[47000] Io non lo so. Ti giuro! Non so niente!
-[50800] Io uccido solo la gente per lei.
-[53100] E tu consideri etico tutto ciò?
-[55800] Già. Le dedico un sacco di tempo, come del resto faceva mio padre e suo padre prima di lui.
-[60900] Quanti anni ha questa Miss Leigh?
-[62400] Oh, non so. Forse 20, oppure 30.
-[65900] Certo.
-[66700] Sai, per alcune persone, come te, otteniamo una ricompensa speciale. 
-[72300] Lusingata.
-[73100] Intendo dire: tu potresti anche essere la mia pensione.
-[77200] Nessuno ti ha mai detto per chi suona... la campana?
-[80400]
-[83900] Goditi la pensione.
-[85700]
+[0:30:700] Per chi lavori?
+[0:32:100] Cosa?
+[0:32:600] Mi hai capito bene.
+[0:33:300] Non ho sentito, davvero! Cosa hai detto?
+[0:35:200] Ho detto: chi è che ti paga?
+[0:36:900] Aaah! Miss Sophia Leigh.
+[0:40:300]
+[0:44:500] E chi è? Che cosa vuole?
+[0:47:000] Io non lo so. Ti giuro! Non so niente!
+[0:50:800] Io uccido solo la gente per lei.
+[0:53:100] E tu consideri etico tutto ciò?
+[0:55:800] Già. Le dedico un sacco di tempo, come del resto faceva mio padre e suo padre prima di lui.
+[1:00:900] Quanti anni ha questa Miss Leigh?
+[1:02:400] Oh, non so. Forse 20, oppure 30.
+[1:05:900] Certo.
+[1:06:700] Sai, per alcune persone, come te, otteniamo una ricompensa speciale. 
+[1:12:300] Lusingata.
+[1:13:100] Intendo dire: tu potresti anche essere la mia pensione.
+[1:17:200] Nessuno ti ha mai detto per chi suona... la campana?
+[1:20:400]
+[1:23:900] Goditi la pensione.
+[1:25:700]
