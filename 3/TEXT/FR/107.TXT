@@ -1,2 +1,2 @@
 ﻿[00:00:000] Tant que la touche Marche est enfoncée je ne peux pas tomber.
-[00:02:500] Essayez de me pousser pour voir.
+[00:02:500] Essaie de me pousser pour voir.

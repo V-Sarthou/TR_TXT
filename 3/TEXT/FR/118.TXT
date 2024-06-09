@@ -1,5 +1,5 @@
 ﻿[00:00:000] Si je prends mon élan, ce type de saut ne pose aucun problème.
-[00:03:600] Faites-moi avancer vers la ligne blanche jusqu'à ce que je m'arrête.
-[00:06:600] Relâchez la touche Marcher et appuyez brièvement sur Reculer pour me donner de l'élan.
-[00:03:600] Appuyez sur Avancer et immédiatement après, appuyez et maintenez enfoncée la touche Saut.
+[00:03:600] Fais-moi avancer vers la ligne blanche jusqu'à ce que je m'arrête.
+[00:06:600] Relâche la touche Marcher et appuie brièvement sur Reculer pour me donner de l'élan.
+[00:03:600] Appuie sur Avancer et immédiatement après, appuie et maintiens enfoncée la touche Saut.
 [00:15:600] 

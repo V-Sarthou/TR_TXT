@@ -1,4 +1,4 @@
 ﻿[00:00:000] 
-[00:01:200] Pour nager à la surface, utilisez les touches Avancer, Droite ou Gauche.
-[00:05:300] Appuyez sur Sauter pour replonger,
-[00:06:800] ou appuyez sur Action pour sortir de l'eau lorsque vous êtes proche du bord.
+[00:01:200] Pour nager à la surface, utilise les touches Avancer, Droite ou Gauche.
+[00:05:300] Appuie sur Sauter pour replonger,
+[00:06:800] ou appuie sur Action pour sortir de l'eau lorsque tu es proche du bord.

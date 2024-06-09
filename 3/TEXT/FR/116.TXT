@@ -1,4 +1,4 @@
 ﻿[00:00:000] Pour atteindre les zones supérieures je dois parfois faire de l'escalade.
 [00:02:900] 
-[00:03:200] Avancez et appuyez sur la touche Action pour me faire grimper.
-[00:06:300] En maintenant cette touche enfoncée, appuyez sur la touche Avancer pour que je continue à monter.
+[00:03:200] Avance et appuie sur la touche Action pour me faire grimper.
+[00:06:300] En maintenant cette touche enfoncée, appuie sur la touche Avancer pour que je continue à monter.
